@@ -19,13 +19,20 @@ main {
 
 ul {
   &:not(.browser-default) {
-    padding-left: 0;
+    padding-left: 10;
     list-style-type: none;
 
     & > li {
-      list-style-type: none;
+      text-align: -webkit-match-parent;
     }
   }
+}
+nav li {
+  list-style-type: none;
+}
+
+footer li {
+  list-style-type: none;
 }
 
 a {

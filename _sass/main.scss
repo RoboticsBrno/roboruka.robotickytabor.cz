@@ -1,7 +1,20 @@
 @charset "utf-8";
 
+body{
+    color: #868f9b;
+    font-size: 18px;
+    line-height: 1.6;
+    font-family: 'Varela Round', sans-serif;
+    counter-reset: guideStep;
+}
+li{
+    list-style-type: disc;
+}
 h1, h2, h3, h4, h5, h6 {
     -webkit-font-smoothing: antialiased;
+    color: black;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
 }
 .icon-block {
   padding: 0 15px;
@@ -64,4 +77,44 @@ h1.page-title {
 }
 p.rss-subscribe {
     margin: 0;
+}
+figcaption {
+    display: block;
+    background: #6195FF30;
+    padding: 1em;
+    min-height: 50px;
+    box-sizing: border-box;
+}
+figure.responsive {
+    max-width: 50%;
+    max-height: auto;
+}
+.figure figcaption::before {
+    counter-increment: guideStep;
+    Content: "Krok " counter(guideStep) ": ";
+}
+hr {
+    counter-reset: guideStep;
+}
+.sidenav {
+    height: 100%;
+    width: 210px;
+    position: fixed;
+    z-index: 1;
+    top: 64px;
+    left: 0;
+    overflow-x: hidden;
+    padding-top: 20px;
+}
+.sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    display: block;
+}
+.sidenav a:hover {
+    color: #65aecf;
+  }
+.main {
+    margin-left: 0px;
+    padding: 0px 0px;
 }

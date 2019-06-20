@@ -110,11 +110,13 @@ nav {
   // Navbar Links
   ul {
     margin: 0;
+    list-style-type: none;
 
     li {
       transition: background-color .3s;
       float: left;
       padding: 0;
+      list-style-type: none;
 
       &.active {
         background-color: rgba(0,0,0,.1);
@@ -126,6 +128,7 @@ nav {
       color: $navbar-font-color;
       display: block;
       padding: 0 15px;
+      list-style-type: none;
       cursor: pointer;
 
       &.btn, &.btn-large, &.btn-flat, &.btn-floating {
