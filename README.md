@@ -1,10 +1,9 @@
-# Jekyll Materialize Starter Template v0.1
+# roboruka.robotickytabor.cz
 
-*A Site Starter Materialize Templates.
+Web for robotic camp 2019
 
-The theme is a fork of the [minima][1]
-
-![minima theme preview](/screenshot.png)
+You'll need <a href="https://rubyinstaller.org/downloads/">Ruby</a> for run.
+Clone this repository and open into its folder Ruby terminal and run ```jekyll serve```
 
 
 # License
