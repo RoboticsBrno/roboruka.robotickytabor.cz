@@ -2,11 +2,16 @@
 
 Web for robotic camp 2019
 
+## Installation
+
 You'll need <a href="https://rubyinstaller.org/downloads/">Ruby</a> for run.
+
+Then install Jekyll by opening Ruby terminal from start menu with command ```gem install jekyll bundler```
+
 Clone this repository and open into its folder Ruby terminal and run ```jekyll serve```
 
 
-# License
+## License
 
 The theme is available as so I use this source [MIT License][2].
 
