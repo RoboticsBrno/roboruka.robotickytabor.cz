@@ -1,5 +1,5 @@
 .container {
-  margin: 0 auto;
+  margin: auto;
   max-width: 1500px;
   width: 95%;
 }
@@ -11,8 +11,10 @@
 @media #{$large-and-up} {
   .container {
     width: 90%;
+  }
+  .con-guide {
+    width: 90%;
     padding-left: 170px;
-
   }
 }
 .container .row {
