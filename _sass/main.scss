@@ -162,3 +162,16 @@ hr {
     text-align: center;
     vertical-align: middle;
 }
+@media only screen and (max-width: 993px) {
+    .partner-img {
+        padding: 3px 5px;
+    }
+    .partners {
+        padding: 0px;
+    }
+    .row {
+        .col {
+            padding: 0px;
+        }
+    }
+}
