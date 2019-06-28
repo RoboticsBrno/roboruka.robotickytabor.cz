@@ -8,5 +8,5 @@ Na začatek si připravíme pilnik nebo brusný papír, nějaký ostrý nuž id�
 
 
 
-{% include image.html url=""/img/guides/t.JPG"" description="popisek obrázku" url2="https://robotickytabor.cz/img/main_logo.png" description2="popisek jeden a půltého obrázku" %} 
+{% include image.html url="/img/guides/1.JPG" description="popisek obrázku" url2="https://robotickytabor.cz/img/main_logo.png" description2="popisek jeden a půltého obrázku" %} 
 {% include image.html url="https://robotickytabor.cz/img/main_logo.png" description="popisek druhého obrázku, a zajíma mne jestli se bude zalamovat do bloku nebo ne....ale zdá se, že asi ano" %}
