@@ -1,18 +1,18 @@
 {% if include.url2 %}
 <div class="row">   
     <figure class="figure col l5">
-        <a href="{{ include.url }}" class="lightbox-image current" title=""><img src="/img/empty.gif" data-echo="https://images.weserv.nl/?url={{ include.url }}&w=550" alt="{{ include.description }}" class="responsive-img"></a>
+        <a href="{{ include.url }}" class="lightbox-image current" title=""><img src="/img/empty.gif" data-echo="https://images.weserv.nl/?url={{ include.url | absolute_url }}&w=550" alt="{{ include.description }}" class="responsive-img"></a>
         <figcaption>{{ include.description }}</figcaption>
     </figure>
     <figure class="figure col l5">
-            <a href="{{ include.url2 }}" class="lightbox-image current" title=""><img src="/img/empty.gif" data-echo="https://images.weserv.nl/?url={{ include.url2 }}&w=550" alt="{{ include.description2 }}" class="responsive-img"></a>
+            <a href="{{ include.url2 }}" class="lightbox-image current" title=""><img src="/img/empty.gif" data-echo="https://images.weserv.nl/?url={{ include.url2 | absolute_url }}&w=550" alt="{{ include.description2 }}" class="responsive-img"></a>
         <figcaption>{{ include.description2 }}</figcaption>
     </figure>
 </div>
 {% else %}
 <div class="row">   
     <figure class="figure col l5">
-            <a href="{{ include.url }}" class="lightbox-image current" title=""><img src="/img/empty.gif" data-echo="https://images.weserv.nl/?url={{ include.url }}&w=550" alt="{{ include.description }}" class="responsive-img"></a>
+            <a href="{{ include.url }}" class="lightbox-image current" title=""><img src="/img/empty.gif" data-echo="https://images.weserv.nl/?url={{ include.url | absolute_url }}&w=550" alt="{{ include.description }}" class="responsive-img"></a>
         <figcaption>{{ include.description }}</figcaption>
     </figure>
 </div>
