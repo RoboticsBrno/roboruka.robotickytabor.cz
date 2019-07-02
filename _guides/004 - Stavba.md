@@ -18,10 +18,10 @@ Na začatek si připravíme pilník nebo brusný papír, ostrý nuž (idálně s
 {% include image.html 
     url="/img/guides/paluba-krok-1.JPG" 
     description=
-        "Nyní si připravte díly P1 a P5. Na celou jednu plochu dílu P5 si naneste tenkou vrstvičku lepidla a nalepte jej na nepopsanou stranu dílu P1. Dávejte si při tom pozor, abyste nanesli lepidlo na správnou stranu. Díry, které jsou na koncích, musí lícovat s těmi v palubě (díl P1). K přesnému zapozicování dílu poslouží díl P3 nebo P4, který si vložíte na jeho místo, ale nebudete ho lepit."
+        "Nyní si připravte díly P1 a P5. Na celou jednu plochu dílu P5 si naneste tenkou vrstvičku lepidla a nalepte jej na nepopsanou stranu dílu P1. Dávejte si při tom pozor, abyste nanesli lepidlo na správnou stranu. Otvory, které jsou na koncích, musí lícovat s těmi v palubě (díl P1). K přesnému zapozicování dílu poslouží díl P3 nebo P4, který si vložíte na jeho místo, ale nebudete ho lepit."
     url2="/img/guides/pk2.JPG" 
     description2=
-        "Spravně nalepené a zapozicované díly z jedné strany podložíme deskou, vše řádně přisvorkujeme a nakonec opatrně vyndáme díl, kterým jsme zajistili správnou pozici (P3 nebo P4). To stejné uděláme ješte jednou, zrcadlově na druhé straně."
+        "Správně nalepené a zapozicované díly z jedné strany podložíme deskou, vše řádně přisvorkujeme a nakonec opatrně vyndáme díl, kterým jsme zajistili správnou pozici (P3 nebo P4). To stejné uděláme ješte jednou, zrcadlově na druhé straně."
 %}
 
 {% include image.html 
