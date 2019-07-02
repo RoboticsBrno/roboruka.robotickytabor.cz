@@ -1,5 +1,7 @@
 # roboruka.robotickytabor.cz
 
+[![Build Status](https://travis-ci.org/RoboticsBrno/roboruka.robotickytabor.cz.svg?branch=master)](https://travis-ci.org/RoboticsBrno/roboruka.robotickytabor.cz)
+
 Web for robotic camp 2019
 
 ## Installation
