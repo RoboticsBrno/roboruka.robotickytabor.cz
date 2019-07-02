@@ -6,12 +6,11 @@ Web for robotic camp 2019
 
 ## Installation
 
-You'll need <a href="https://rubyinstaller.org/downloads/">Ruby</a> for run.
+You'll need [Ruby+devkit](https://rubyinstaller.org/downloads/) v 2.5.5-1 and  [GraphicsMagick](ftp://ftp.graphicsmagick.org/pub/GraphicsMagick/windows/) v 1.3.31-Q1 installed.
 
 Then install Jekyll by opening Ruby terminal from start menu with command ```gem install jekyll bundler```
 
-Clone this repository and open into its folder Ruby terminal and run ```jekyll serve```
-
+Clone this repository and open into its folder Ruby terminal and run ```bundle install``` and then ```bundle exec jekyll serve```
 
 ## Format code
 
@@ -39,3 +38,4 @@ Copyright © 2017 Marco Damiani. Powered by <a href="http://jekyllrb.com">Jekyll
 [1]: https://github.com/jekyll/minima
 [2]: https://opensource.org/licenses/MIT
 [3]: http://materializecss.com/
+.
