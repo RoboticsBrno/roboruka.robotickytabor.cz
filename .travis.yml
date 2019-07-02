@@ -1,3 +1,6 @@
+before_install:
+  - sudo apt-get install graphicsmagick
+
 language: ruby
 
 script: bundle exec jekyll build
