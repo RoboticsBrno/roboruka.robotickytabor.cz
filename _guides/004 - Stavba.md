@@ -3,12 +3,12 @@ name: Stavba
 ---
 ### {{ page.name | escape }}
 
-Na začatek si připravíme pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a lepidlo Herkules. Vyloupeme všechny díly z desek a poskládáme si je na vytisknutý pracovní plánek ([A4](/docs/A4.pdf), [A3](/docs/A3.pdf)).
+Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a lepidlo Herkules. Vyloupeme všechny díly z desek a poskládáme si je na vytisknutý pracovní plánek ([A4](/docs/A4.pdf), [A3](/docs/A3.pdf)).
 
 {% include image.html 
     url="/img/guides/1.JPG" 
     description=
-        "Rozložení dílů na pracovním plánku. Zabruste všechny otřepy a vady, které vznilky při vylamování dílů z desky." 
+        "Rozložení dílů na pracovním plánku. Zabruste všechny otřepy a vady, které vznikly při vylamování dílů z desky."
     url2="/img/guides/pilovani.JPG" 
     description2=
         "Dílům OD2 je třeba upilovat označený roh, aby zapadly do otvorů."
@@ -20,7 +20,7 @@ Na začatek si připravíme pilník nebo brusný papír, ostrý nůž (ideálně
         "Nyní si připravte díly P1 a P5. Na celou jednu plochu dílu P5 si naneste tenkou vrstvičku lepidla a nalepte jej na nepopsanou stranu dílu P1. Dávejte si při tom pozor, abyste nanesli lepidlo na správnou stranu. Otvory, které jsou na koncích, musí lícovat s těmi v palubě (díl P1). K přesnému zapozicování dílu poslouží díl P3 nebo P4, který si vložíte na jeho místo, ale nebudete ho lepit."
     url2="/img/guides/pk2.JPG" 
     description2=
-        "Správně nalepené a zapozicované díly z jedné strany podložíme deskou, vše řádně přisvorkujeme a nakonec opatrně vyndáme díl, kterým jsme zajistili správnou pozici (P3 nebo P4). To stejné uděláme ješte jednou, zrcadlově na druhé straně."
+        "Správně nalepené a zapozicované díly z jedné strany podložíme deskou, vše řádně přisvorkujeme a nakonec opatrně vyndáme díl, kterým jsme zajistili správnou pozici (P3 nebo P4). To stejné uděláme ještě jednou, zrcadlově na druhé straně."
 %}
 
 {% include image.html 
@@ -35,7 +35,7 @@ Na začatek si připravíme pilník nebo brusný papír, ostrý nůž (ideálně
 {% include image.html 
     url="/img/guides/podvozek-krok-1.JPG" 
     description=
-        "Teď si připravte díly V1,V2 a díl D1. Na díly V1 a V2 si naneste lepidlo a nalepte je na D1. Jako pomůcku ke správnému otočení mužete použít díl LM1 nebo ML2, který nelepte, jen si ho zastrčte na místo. Po zapozicování si každý díl stáhněte svorkou nebo dvěma."
+        "Teď si připravte díly V1,V2 a díl D1. Na díly V1 a V2 si naneste lepidlo a nalepte je na D1. Jako pomůcku ke správnému otočení můžete použít díl LM1 nebo ML2, který nelepte, jen si ho zastrčte na místo. Po zapozicování si každý díl stáhněte svorkou nebo dvěma."
     url2="/img/guides/podk2.JPG" 
     description2=
         "Nachystejte si díly LM1,ML2,LM2,LM5 a LM6 a slepte je dle obrázku. To stejné udělejte ještě jednou, ale tentokrát zrcadlově, aby bylo toto motorové lože na pravou stranu i na levou stranu."
@@ -53,7 +53,7 @@ Na začatek si připravíme pilník nebo brusný papír, ostrý nůž (ideálně
 {% include image.html 
     url="/img/guides/podk5.JPG" 
     description=
-        "Nachystejte si díly LM7, LM9, LM10, LM11 a šroub s matkou M4. Do dílu LM10 vložte šroub a z druhé strany dotáhněte matici. Nasledně si vezměte díl LM11 a nalepte jej kolem matice, aby se matka nemohla točit."
+        "Nachystejte si díly LM7, LM9, LM10, LM11 a šroub s matkou M4. Do dílu LM10 vložte šroub a z druhé strany dotáhněte matici. Následně si vezměte díl LM11 a nalepte jej kolem matice, aby se matka nemohla točit."
     url2="/img/guides/podk6.JPG" 
     description2=
         "Nyní vlepte do dílu LM7 díly LM9."
@@ -62,16 +62,16 @@ Na začatek si připravíme pilník nebo brusný papír, ostrý nůž (ideálně
 {% include image.html 
     url="/img/guides/podk7.JPG" 
     description=
-        "Dále si slepte lepené díly a sesvorkuje je."
+        "Dále si slepte lepené díly a sesvorkujte je."
     url2="/img/guides/podk8.JPG" 
     description2=
-        "Když je vše suché, nalepte díl s maticí do dna, jak je na obrázku. Přiklopte palubou a zevnitř podepřete dílkem Sablona, aby se díl nebortil do středu robota."
+        "Když je vše suché, nalepte díl s maticí do dna, jak je na obrázku. Přiklopte palubou a zevnitř podepřete dílkem s názvem 'Sablona', aby se díl nebortil do středu robota."
 %}
 
 {% include image.html 
     url="/img/guides/podk7.JPG" 
     description=
-        "Najděte si díl BD1 a nalepte si jej do zadní části podvozku. Je třeba díl natlačit co nejvíc dozadu, a proto si ze spodu do otvoru ve dně pro BD1 nastrčte klínek pro doražení BD1 na pozici."
+        "Najděte si díl BD1 a nalepte si jej do zadní části podvozku. Je třeba díl natlačit co nejvíc dozadu, a proto si zespodu do otvoru ve dně pro BD1 nastrčte klínek pro doražení BD1 na pozici."
     url2="/img/guides/podk8.JPG" 
     description2=
         "Nyní si najděte všechny díly OD1 a OD2 a jen je vložte do podvozku. Vkládejte popisky směrem ven. Proč? Viz 
@@ -81,5 +81,5 @@ Na začatek si připravíme pilník nebo brusný papír, ostrý nůž (ideálně
 {% include image.html 
     url="/img/guides/podk8.JPG" 
     description=
-        "Nasledně je všude, kde se dotýkají jiných dílů, promázněte lepidlem a nechte uschnout."
+        "Následně je všude, kde se dotýkají jiných dílů, promázněte lepidlem a nechte uschnout."
 %}
