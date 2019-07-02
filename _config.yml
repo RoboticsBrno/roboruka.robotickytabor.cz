@@ -13,3 +13,17 @@ sass:
 collections:
   guides:
       output: true
+
+plugins:
+    - jekyll-minimagick
+
+mini_magick:
+    thumbnail:
+        source: img/guides/original
+        destination: img/guides/thumbnail
+        resize: "600x400"
+      
+    medium:
+        source: img/guides/original
+        destination: img/guides/
+        resize: "1500x1000"
