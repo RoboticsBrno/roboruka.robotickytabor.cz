@@ -9,10 +9,10 @@ Na začatek si připravíme pilník nebo brusný papír, ostrý nuž (idálně s
 {% include image.html 
     url="/img/guides/1.JPG" 
     description=
-        "Rozložení dílů na pracovním plánku. Zabrušte všechny otřepy a vady, které vznilky při vylamování dílů z desky." 
+        "Rozložení dílů na pracovním plánku. Zabruste všechny otřepy a vady, které vznilky při vylamování dílů z desky." 
     url2="/img/guides/pilovani.JPG" 
     description2=
-        "Dílům OD2 je třeba upilovat označený roh, aby zapadly do děr, kam patří."
+        "Dílům OD2 je třeba upilovat označený roh, aby zapadly do otvorů."
 %}
 
 {% include image.html 
