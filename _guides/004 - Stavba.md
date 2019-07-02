@@ -3,8 +3,7 @@ name: Stavba
 ---
 ### {{ page.name | escape }}
 
-Na začatek si připravíme pilník nebo brusný papír, ostrý nuž (idálně skalpel) a lepidlo Herkules. Vyloupeme všechny díly z desek a poskládáme si ho na 
-[pracovní plánek](https://github.com/RoboticsBrno/pracovni_planek/tree/a10813ee59aff0e1a680b373e9a2622ac3895de0).
+Na začatek si připravíme pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a lepidlo Herkules. Vyloupeme všechny díly z desek a poskládáme si je na vytisknutý pracovní plánek ([A4](/docs/A4.pdf), [A3](/docs/A3.pdf)).
 
 {% include image.html 
     url="/img/guides/1.JPG" 
