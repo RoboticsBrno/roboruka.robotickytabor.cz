@@ -11,6 +11,21 @@ Then install Jekyll by opening Ruby terminal from start menu with command ```gem
 Clone this repository and open into its folder Ruby terminal and run ```jekyll serve```
 
 
+## Format code
+
+This is format for writing guide. 
+```
+{% include image.html
+   url=""
+   description=
+      ""
+   url2=""
+   description2=
+      ""
+%} 
+```
+If you want 2 images abreast, use url2 and description2. Otherwise use only url and description.
+
 ## License
 
 The theme is available as so I use this source [MIT License][2].
