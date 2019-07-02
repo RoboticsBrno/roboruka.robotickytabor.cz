@@ -3,7 +3,7 @@ name: Výrobní podklady
 title: Výrobní podklady
 ---
 ### {{ page.name | escape }}
-Pokud ti nebyla svěřena moc nad dílky roboruky, ale byla ti svěřena moc laseru, nebo znáš nekoho komu ano, mužeš moc nad dílky získat pomocí tehto podkladu.
+Pokud ti nebyla svěřena moc nad dílky roboruky, ale byla ti svěřena moc laseru, nebo znáš někoho komu ano, můžeš moc nad dílky získat pomocí těchto podkladů.
 
 ##### Zdrojové soubory
 * [Model ve Fusionu a CAM pro 3mm překližku](https://a360.co/2RDZ6tq);
