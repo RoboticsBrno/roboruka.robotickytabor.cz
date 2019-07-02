@@ -3,8 +3,10 @@ before_install:
 
 language: ruby
 
-script: 
+install:
   - bundle install
+
+script: 
   - bundle exec jekyll build
 
 deploy:
