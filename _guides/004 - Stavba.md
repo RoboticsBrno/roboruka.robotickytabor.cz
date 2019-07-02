@@ -76,7 +76,7 @@ Na začatek si připravíme pilník nebo brusný papír, ostrý nuž (idálně s
     url2="/img/guides/podk8.JPG" 
     description2=
         "Nyní si najděte všechny díly OD1 a OD2 a jen je vložte do podvozku. Vkládejte popisky směrem ven. Proč? Viz 
-        [Pro zvídavé](https://github.com/RoboticsBrno/pracovni_planek/tree/a10813ee59aff0e1a680b373e9a2622ac3895de0). Následně to celé přiklopte palubou a přitáhněte šrouby. Narovnejte si dřívka tak, aby byla všechna rovně, a omotejte je gumou, aby nevypadávaly ven."
+        [Pro zvídavé](#Pro zvídavé). Následně to celé přiklopte palubou a přitáhněte šrouby. Narovnejte si dřívka tak, aby byla všechna rovně, a omotejte je gumou, aby nevypadávaly ven."
 %}
 
 {% include image.html 
