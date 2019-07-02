@@ -6,7 +6,7 @@ Web for robotic camp 2019
 
 ## Installation
 
-You'll need [Ruby+devkit](https://rubyinstaller.org/downloads/) v 2.5.5-1 and  [GraphicsMagick](ftp://ftp.graphicsmagick.org/pub/GraphicsMagick/windows/) v 1.3.31-Q1 installed.
+You'll need [Ruby+devkit](https://rubyinstaller.org/downloads/) (v2.5.5-1) and  [GraphicsMagick](ftp://ftp.graphicsmagick.org/pub/GraphicsMagick/windows/) `ftp://ftp.graphicsmagick.org/pub/GraphicsMagick/windows/` (v1.3.31-Q1) installed.
 
 Then install Jekyll by opening Ruby terminal from start menu with command ```gem install jekyll bundler```
 
