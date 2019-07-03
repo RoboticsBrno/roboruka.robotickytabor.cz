@@ -20,7 +20,7 @@ plugins:
 mini_magick:
     thumbnail:
         source: img/guides/original
-        destination: img/guides/thumbnail
+        destination: thumb/img/guides
         resize: "600x400"
       
     medium:
