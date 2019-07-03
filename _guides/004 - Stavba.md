@@ -6,10 +6,10 @@ name: Stavba
 Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a lepidlo Herkules. Vyloupeme všechny díly z desek a poskládáme si je na vytisknutý pracovní plánek ([A4](/docs/A4.pdf), [A3](/docs/A3.pdf)).
 
 {% include image.html 
-    url="/img/guides/chasi_rozlozeni_planek.JPG" 
+    url="/img/guides/chasi_rozlozeni_planek.jpg" 
     description=
         "Rozložení dílů na pracovním plánku. Zabruste všechny otřepy a vady, které vznikly při vylamování dílů z desky."
-    url2="/img/guides/pilovani.jpg" 
+    url2="/img/guides/pilovani.JPG" 
     description2=
         "Dílům OD2 je třeba upilovat označený roh, aby zapadly do otvorů."
 %}
