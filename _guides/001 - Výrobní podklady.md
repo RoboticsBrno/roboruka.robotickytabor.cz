@@ -3,7 +3,7 @@ name: Výrobní podklady
 title: Výrobní podklady
 ---
 ### {{ page.name | escape }}
-Pokud ti nebyla svěřena moc nad dílky Roboruky, ale byla ti svěřena moc laseru, nebo znáš někoho komu ano, můžeš moc nad dílky získat pomocí těchto podkladů.
+Zde si můžeš stáhnout výrobní podklady na laser pro Roboruku. Zároveň zde najdeš výrobní podklady pro desku plošných spojů. 
 
 ##### Zdrojové soubory
 * [Model ve Fusionu a CAM pro 3mm překližku](https://a360.co/2RDZ6tq)
