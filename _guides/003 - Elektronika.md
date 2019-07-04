@@ -21,6 +21,8 @@ name: Elektronika
  ----
  {% include image.html
     url=""
+
+    url="img/guides/bat_01.jpg"
     description=
         ""
     url2=""

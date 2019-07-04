@@ -3,7 +3,7 @@ name: Stavba
 ---
 ### {{ page.name | escape }}
 
-####Podvozek
+#### Podvozek
 
 Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a lepidlo Herkules. Vyloupeme všechny díly z desek a poskládáme si je na vytisknutý pracovní plánek ([A4](/docs/A4.pdf), [A3](/docs/A3.pdf)).
 
@@ -97,7 +97,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Následně je všude, kde se dotýkají jiných dílů, promázněte lepidlem a nechte uschnout."
 %}
 
-####Ruka
+#### Ruka
 
 {% include image.html 
     url="img/guides/hand_1.jpg" 
