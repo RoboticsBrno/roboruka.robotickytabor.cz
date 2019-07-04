@@ -82,7 +82,7 @@ name: Elektronika
         "Osadíme tranzistory Q2 a Q4 BS170. Zploštělá strana tranzistoru musí souhlasit se zploštěním nakresleným na desce." 
     url2="img/guides/rbc_16.jpg" 
     description2=
-        "Osadíme dutinkové lišty pro ESP32 mikrokontrolér. Tyto lišty nám umožní vyměňovat ESP32 DevKitC." 
+        "Osadíme dutinkové lišty 1x19 pro ESP32 mikrokontrolér. Tyto lišty nám umožní vyměňovat ESP32 DevKitC." 
 %}
 
 {% include image.html 
@@ -91,49 +91,49 @@ name: Elektronika
         "Osadíme stabilizátor 7805. Chadicí hliník na stabilizátoru musí být orientován směrem k popiskům. Stabilizátor připájíme k pinům OUT, GND a IN. Pin EN necháme volný." 
     url2="img/guides/rbc_18.jpg" 
     description2=
-        "Připájíme výkonové tranzistory Q1 a Q3 IRF4905 (Q3 funguje jako ochrana proti přepolování). Chladicí hliník na tranzistoru musí souhlasit s bílým proužkem na desce." 
+        "Připájíme výkonové tranzistory Q1 a Q3 IRF4905 (Q3 funguje jako ochrana proti přepólování). Chladicí hliník na tranzistoru musí souhlasit s bílým proužkem na desce." 
 %}
 
 {% include image.html 
     url="img/guides/rbc_19.jpg" 
     description=
-        "Připájíme pinheady podle obrázku. Tyto pinheady slouží ke komunikaci přes I2C." 
+        "Připájíme pinheady 2x4 dvakrát podle obrázku. Tyto pinheady slouží ke komunikaci přes I2C." 
     url2="img/guides/rbc_20.jpg" 
     description2=
-        "Připájíme pinheady podle obrázku. Tyto pinheady slouží k připojení různých senzorů." 
+        "Připájíme pinheady 2x8 šestkrát a 1x3 podle obrázku. Tyto pinheady slouží k připojení různých senzorů." 
 %}
 
 {% include image.html 
     url="img/guides/rbc_21.jpg" 
     description=
-        "Na pinheady nasuňte jumper dle obrázku." 
+        "Na pinheady nasuňte jumper dle obrázku. Je zde, protože na horních řadách pinheadů mohou být připojeny jiné spínané zdroje. Nasunutím jumperu si připojíte i na horní část pinheadů napájení ze zdroje IM2." 
     url2="img/guides/rbc_22.jpg" 
     description2=
-        "Připájíme pinheady podle obrázku. Tyto pinheady slouží k připojení případných inteligentních LED." 
+        "Připájíme pinheady 1x3 podle obrázku. Tyto pinheady slouží k připojení případných inteligentních LED." 
 %}
 
 {% include image.html 
     url="img/guides/rbc_23.jpg" 
     description=
-        "Připájíme pinheady podle obrázku. Tyto pinheady slouží k zapínaní, vypínaní a resetování desky." 
+        "Připájíme pinheady 2x4 podle obrázku. Tyto pinheady slouží k zapínaní, vypínaní a resetování desky." 
     url2="img/guides/rbc_24.jpg" 
     description2=
-        "Připájíme pinheady podle obrázku. Tyto pinheady slouží k připojení horní desky s tlačítky a LEDkami (UIBoard)." 
+        "Připájíme pinheady 2x8 podle obrázku. Tyto pinheady slouží k připojení horní desky s tlačítky a LEDkami (UIBoard)." 
 %}
 
 {% include image.html 
     url="img/guides/rbc_25.jpg" 
     description=
-        "Připájíme pinheady podle obrázku. Tyto pinheady slouží k připojení enkodérů." 
+        "Připájíme pinheady 2x6 podle obrázku. Tyto pinheady slouží k připojení motorů a enkodérů k nim." 
     url2="img/guides/rbc_26.jpg" 
     description2=
-        "Připájíme pinheady podle obrázku. Tyto pinheady slouží pro připojení serv." 
+        "Připájíme pinheady 1x3 třikrát podle obrázku. _Pozor, mají rozteč pouze 2 mm oproti standardním 2.54 mm!_ Tyto pinheady slouží pro připojení inteligentních serv LX-15D." 
 %}
 
 {% include image.html 
     url="img/guides/rbc_27.jpg" 
     description=
-        "Ke spínanému zdroji připájíme pinheady dle obrázku." 
+        "Ke spínanému zdroji připájíme pinheady 1x4 90° dle obrázku. Dbejte, aby větší část pinheadů byla zapojena právě ve zdroji." 
     url2="img/guides/rbc_28.jpg" 
     description2=
         "Připájíme spínaný zdroj IM2 do desky. Osazená část musí směřovat dovnitř desky." 
