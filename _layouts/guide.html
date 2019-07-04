@@ -1,16 +1,18 @@
 ---
 layout: default
 ---
-<div class="sidenav">
-    {% for guide in site.guides %}
-        <a href="#{{ guide.name }}"> {{ guide.name }}</a>
-    {% endfor %}
-</div>
+<div class="bgwrap">
+    <div class="sidenav">
+        {% for guide in site.guides %}
+            <a href="#{{ guide.name }}"> {{ guide.name }}</a>
+        {% endfor %}
+    </div>
 
-<div class="main">
-    <div class="container con-guide">
+    <div class="main">
+        <div class="container con-guide">
 
-        {{ content }}
-    
+            {{ content }}
+
+        </div>
     </div>
 </div>
