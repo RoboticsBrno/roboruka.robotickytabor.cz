@@ -4,10 +4,10 @@ name: UIBoard
 ### {{ page.name | escape }}
 
 {% include image.html
-   url="img/guides/UIB_01.jpg"
+   url="img/guides/UIB_01a.jpg"
    description=
       "Horní strana desky pouze s osazeným USBmicro konektorem. Součástky se budou pájet pouze na tuto horní stranu."
-   url2="img/..."
+   url2="img/guides/UIB_01b.jpg"
    description2=
       "Zadní strana desky."
 %} 
