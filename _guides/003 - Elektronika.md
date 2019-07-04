@@ -17,11 +17,11 @@ name: Elektronika
 %}
 
 {% include image.html
-    url="img/guides/"
+    url="img/guides/rbc_42.jpg"
     description=
         "Dostatečně osazená deska pro základní funkcionalitu Roboruky."
  %}
-
+---
  {% include image.html 
     url="img/guides/rbc_3.jpg" 
     description=
@@ -197,7 +197,10 @@ name: Elektronika
 {% include image.html 
     url="img/guides/rbc_41.jpg" 
     description=
-        "Nakonec vložíme do připájených dutinek ESP32 DevKitC, který obsahuje procesor ESP32. Pomocí tohoto procesoru budeme celou Roboruku řídit. Pozorně se podívejte na nákres na desce a ESP32 DevKitC vložte podle obrázku." 
+        "Nakonec vložíme do připájených dutinek ESP32 DevKitC, který obsahuje procesor ESP32. Pomocí tohoto procesoru budeme celou Roboruku řídit. Pozorně se podívejte na nákres na desce a ESP32 DevKitC vložte podle obrázku."
+    url="img/guides/rbc_42.jpg" 
+    description=
+        "Kompletní osazení desky pro Roboruku."  
 %}
 ----
 
