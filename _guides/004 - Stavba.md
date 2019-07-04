@@ -3,10 +3,12 @@ name: Stavba
 ---
 ### {{ page.name | escape }}
 
+####Podvozek
+
 Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a lepidlo Herkules. Vyloupeme všechny díly z desek a poskládáme si je na vytisknutý pracovní plánek ([A4](/docs/A4.pdf), [A3](/docs/A3.pdf)).
 
 {% include image.html 
-    url="/img/guides/chasi_rozlozeni_planek.jpg" 
+    url="img/guides/chasi_rozlozeni_planek.jpg" 
     description=
         "Rozložení dílů na pracovním plánku. Zabruste všechny otřepy a vady, které vznikly při vylamování dílů z desky."
     url2="/img/guides/pilovani.JPG" 
@@ -15,7 +17,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 %}
 
 {% include image.html 
-    url="/img/guides/chasi_1.jpg" 
+    url="img/guides/chasi_1.jpg" 
     description=
         "Nyní si připravte díly P1 a P5. Na celou jednu plochu dílu P5 si naneste tenkou vrstvičku lepidla a nalepte jej na nepopsanou stranu dílu P1. Dávejte si při tom pozor, abyste nanesli lepidlo na správnou stranu. Otvory, které jsou na koncích, musí lícovat s těmi v palubě (díl P1). K přesnému zapozicování dílu poslouží díl P3 nebo P4, který si vložíte na jeho místo, ale nebudete ho lepit."
     url2="/img/guides/chasi_1.0.jpg" 
@@ -24,7 +26,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 %}
 
 {% include image.html
-    url="/img/guides/chasi_2.jpg" 
+    url="img/guides/chasi_2.jpg" 
     description=
         "Správně nalepené a zapozicované díly z jedné strany podložíme deskou, vše řádně přisvorkujeme a nakonec opatrně vyndáme díl, kterým jsme zajistili správnou pozici (P3 nebo P4). To stejné uděláme ještě jednou, zrcadlově na druhé straně."
     url2="/img/guides/chasi_3.jpg" 
@@ -35,7 +37,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 
 {% include image.html 
     
-    url="/img/guides/chasi_4.jpg" 
+    url="img/guides/chasi_4.jpg" 
     description=
         "Když máme vše suché, sundáme svorky a nalepíme slepené díly P2, 3 a 4 kolem dílu P5 tak, jak je na obrázku. Na toto lepení půjde špatně nasadit svěrka, takže to podržíte ručně. Teď se můžeme vrhnout na podvozek."
     url2="/img/guides/chasi_5.jpg" 
@@ -44,7 +46,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 %}
 
 {% include image.html 
-    url="/img/guides/chasi_6.jpg" 
+    url="img/guides/chasi_6.jpg" 
     description=
         "Nachystejte si díly LM1,ML2,LM2,LM5 a LM6 a slepte je dle obrázku. To stejné udělejte ještě jednou, ale tentokrát zrcadlově, aby bylo toto motorové lože na pravou stranu i na levou stranu."
     url2="/img/guides/chasi_7.jpg" 
@@ -53,7 +55,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 %}
 
 {% include image.html 
-    url="/img/guides/chasi_8.jpg" 
+    url="img/guides/chasi_8.jpg" 
     description=
         "Škvíru vyplňte lepidlem a přisvorkujte tak, jak je na obrázku. Pokud nemáte dřívka na podložení svorky, můžete díly držet v ruce."
     url2="/img/guides/chasi_8.0.jpg" 
@@ -62,7 +64,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 %}
 
 {% include image.html 
-    url="/img/guides/chasi_9.jpg" 
+    url="img/guides/chasi_9.jpg" 
     description=
         "Nachystejte si díly LM7, LM9, LM10, LM11 a šroub s matkou M4. Do dílu LM10 vložte šroub a z druhé strany dotáhněte matici. Následně si vezměte díl LM11 a nalepte jej kolem matice, aby se matka nemohla točit."
     url2="/img/guides/chasi_10.jpg" 
@@ -71,7 +73,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 %}
 
 {% include image.html 
-    url="/img/guides/chasi_11.jpg" 
+    url="img/guides/chasi_11.jpg" 
     description=
         "Dále si slepte lepené díly a sesvorkujte je."
     url2="/img/guides/chasi_12.jpg" 
@@ -80,7 +82,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 %}
 
 {% include image.html 
-    url="/img/guides/chasi_13.jpg" 
+    url="img/guides/chasi_13.jpg" 
     description=
         "Najděte si díl BD1 a nalepte si jej do zadní části podvozku. Je třeba díl natlačit co nejvíc dozadu, a proto si zespodu do otvoru ve dně pro BD1 nastrčte klínek pro doražení BD1 na pozici."
     url2="/img/guides/chasi_14.jpg" 
@@ -90,7 +92,15 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 %}
 
 {% include image.html 
-    url="/img/guides/chasi_15.jpg" 
+    url="img/guides/chasi_15.jpg" 
     description=
         "Následně je všude, kde se dotýkají jiných dílů, promázněte lepidlem a nechte uschnout."
+%}
+
+####Ruka
+
+{% include image.html 
+    url="img/guides/hand_1.jpg" 
+    description=
+        "Přilepte k desce s pěti otvory podložku."
 %}

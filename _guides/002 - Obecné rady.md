@@ -22,7 +22,7 @@ Všechny dílky obsahují zámečky, které ti umožní dílky přesně napozico
 Na lepení dřeva k sobě používej lepidlo Herkules - s výhodou v malém balení s aplikátorem.
 
 {% include image.html 
-    url="/img/guides/glue_hercules.jpg" 
+    url="img/guides/glue_hercules.jpg" 
     description=
         "Lepidlo na lepení dřeva."
 %}
@@ -30,7 +30,7 @@ Na lepení dřeva k sobě používej lepidlo Herkules - s výhodou v malém bale
 Při skládání nasucho si všimni, které plochy se sebe dotýkají - to jsou ty plochy, které musíš natřít lepidlem. A kolik dávat lepidla? Tak akorát, aby vyplnilo všechny mezery - po stlačení dílků by mělo ze spoje vytéci trochu lepidla, ne však příliš. Toto přebytečné lepidlo můžeš utřít kouskem hadru nebo papírovou utěrkou.
 
 {% include image.html 
-    url="/img/guides/gluing_1.jpg" 
+    url="img/guides/gluing_1.jpg" 
     description=
         "Nanesení lepidla na lepenou hranu."
     url2="/img/guides/gluing_2.jpg" 
@@ -39,7 +39,7 @@ Při skládání nasucho si všimni, které plochy se sebe dotýkají - to jsou 
 %}
 
 {% include image.html 
-    url="/img/guides/gluing_3.jpg" 
+    url="img/guides/gluing_3.jpg" 
     description=
         "Málo lepidla - žádné se nevytlačilo."
     url2="/img/guides/gluing_4.jpg" 
