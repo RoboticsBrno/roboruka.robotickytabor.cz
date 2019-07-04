@@ -28,8 +28,8 @@ This is format for writing guide.
 If you want 2 images abreast, use url2 and description2. Otherwise use only url and description.
 
 ## Images
-
-**Only if you are inserting new images**
+Take widescreen photos not portrait.
+**Only if you are inserting new images**  
 Firstly insert new images to `img/guides/original` then turn on local server, which resize them. Take these resized images from `_site/img/guides` and drop them to the first mentioned destination. 
 
 ## License
