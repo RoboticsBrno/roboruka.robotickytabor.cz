@@ -6,7 +6,7 @@ Web for robotic camp 2019: [roboruka.robotickytabor.cz](http://roboruka.robotick
 
 ## Installation
 
-You'll need [Ruby+devkit](https://rubyinstaller.org/downloads/) (v2.5.5-1) and  [GraphicsMagick](ftp://ftp.graphicsmagick.org/pub/GraphicsMagick/windows/) `ftp://ftp.graphicsmagick.org/pub/GraphicsMagick/windows/` (v1.3.31-Q16) installed.
+You'll need [Ruby+devkit](https://rubyinstaller.org/downloads/) (v2.5.5-1) in the middle of installation choose option `1` and  [GraphicsMagick](ftp://ftp.graphicsmagick.org/pub/GraphicsMagick/windows/) `ftp://ftp.graphicsmagick.org/pub/GraphicsMagick/windows/` (v1.3.31-Q16) installed.
 
 Then install Jekyll by opening Ruby terminal from start menu with command ```gem install jekyll bundler```
 
@@ -17,10 +17,10 @@ Clone this repository and open into its folder Ruby terminal and run ```bundle i
 This is format for writing guide. 
 ```
 {% include image.html
-   url=""
+   url="img/..."
    description=
       ""
-   url2=""
+   url2="img/..."
    description2=
       ""
 %} 
