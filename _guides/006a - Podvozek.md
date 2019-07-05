@@ -1,5 +1,5 @@
 ---
-name: Stavba
+name: Podvozek
 ---
 ### {{ page.name | escape }}
 
@@ -124,12 +124,4 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
     url2="img/guides/chasi_26.jpg" 
     description2=
         "Vlepte díly LM4 do lože pro motory." 
-%}
-
-#### Ruka
-
-{% include image.html 
-    url="img/guides/hand_1.jpg" 
-    description=
-        "Přilepte k desce s pěti otvory podložku."
 %}
