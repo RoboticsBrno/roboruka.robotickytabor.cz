@@ -210,7 +210,7 @@ name: Battery pack
 %}
 
 {% include image.html
-    url="img/guides/bat_45.jpg"
+    url="img/guides/bat_47.jpg"
     description=
         "Výsledný battery pack."
 %}
