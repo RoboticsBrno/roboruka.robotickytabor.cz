@@ -177,4 +177,40 @@ name: Battery pack
     url="img/guides/bat_39.jpg"
     description=
         "Ke druhé desce napájejte nabíjecí moduly k desce dle obrázku."
+    url2="img/guides/bat_40.jpg"
+    description2=
+        "Odpojte oba nabíjecí moduly. Vložte do pouzdra baterie. POZOR na polaritu."
+%}
+
+{% include image.html
+    url="img/guides/bat_41.jpg"
+    description=
+        "Ustřihněte si 12 cm smršťovací folie."
+    url2="img/guides/bat_42.jpg"
+    description2=
+        "Vložte celý battery pack do smršťovací folie."
+%}
+
+{% include image.html
+    url="img/guides/bat_43.jpg"
+    description=
+        "Horkovzdušnou pistolí zatáhněte celý battery pack do podoby jako je na obrázku. Horkovzdušnou pistoli nastavte na 150 °C. Konce nahřejte a zamáčkněte tělem battery packu o pracovní podložku."
+    url2="img/guides/bat_44.jpg"
+    description2=
+        "Battery pack otočte a křížovým šroubovákem udělejte do fólie díry v místech, kde jsou dutinky."
+%}
+
+{% include image.html
+    url="img/guides/bat_45.jpg"
+    description=
+        "Ustřihněte si 20 cm popruhu."
+    url2="img/guides/bat_46.jpg"
+    description2=
+        "Popruh přilepte ke stranám battery packu tavnou pistolí podle obrázku."
+%}
+
+{% include image.html
+    url="img/guides/bat_45.jpg"
+    description=
+        "Výsledný battery pack."
 %}
