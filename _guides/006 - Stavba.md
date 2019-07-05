@@ -41,7 +41,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Když máme vše suché, sundáme svorky a nalepíme slepené díly P2, 3 a 4 kolem dílu P5 tak, jak je na obrázku. Na toto lepení půjde špatně nasadit svěrka, takže to podržíte ručně."
     url2="/img/guides/chasi_8.jpg" 
     description2=
-        "Oba vlepené díly do paluby."
+        "Zde vidíte oba díly vlepené v palubě."
 %}
 
 {% include image.html 
