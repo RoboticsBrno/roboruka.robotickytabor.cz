@@ -11,7 +11,7 @@ name: Ruka
     description2=
         "Připravte si i překližkové díly B1, B2 a dva díly B3." 
 %}
- ----
+
  {% include image.html 
     url="img/guides/HND_03.JPG" 
     description=
@@ -24,7 +24,7 @@ name: Ruka
 {% include image.html 
     url="img/guides/HND_05.JPG" 
     description=
-        "K tomu, aby byly díry souosé použijeme dva šroubky."
+        "K tomu, aby byly otvory souosé použijeme dva šroubky."
     url2="img/guides/HND_06.JPG" 
     description2=
         "Na menší dílek s otvory naneste lepidlo, nasaďte jej na šroubky a přilepte jej k bočnici. Nezapomeňte, že bočnice jsou dvě, levá a pravá. Ty musí být zrcadlově otočené!" 
@@ -35,11 +35,11 @@ name: Ruka
     description=
         "Výsledný pár bočnic."
  %}
-----
+
 {% include image.html 
     url="img/guides/HND_08.JPG" 
     description=
-        "Připravte si bočnici, spodní díl a obdélník s kruhovou dírou ve středu."
+        "Připravte si bočnici, spodní díl a obdélník s kruhovou otvorem ve středu."
     url2="img/guides/HND_09.JPG" 
     description2=
         "Bočnici s obdélníkem přilepte ke spodnímu dílu tak, aby na sebe byly všechny díly kolmé." 
@@ -71,7 +71,7 @@ name: Ruka
     description2=
         "Výsledný díl." 
  %}
- ----
+
 {% include image.html 
     url="img/guides/HND_16.JPG" 
     description=
@@ -124,12 +124,12 @@ name: Ruka
     url2="img/guides/HND_27.JPG" 
     description2=
         "Připravte si díly pro upevnění táhla." 
- %}
+ %} 
 
  {% include image.html 
     url="img/guides/HND_28.JPG" 
     description=
-        "Dle obrázku přilepte podlouhlý díl. Pro získání souosé díry si pomožte šroubkem."
+        "Dle obrázku přilepte podlouhlý díl. Pro získání souosé otvory si pomožte šroubkem."
     url2="img/guides/HND_29.JPG" 
     description2=
         "Jako další přilepte čtvercový díl. Využijte dvou šroubků, pro srovnání děr." 
@@ -138,9 +138,99 @@ name: Ruka
   {% include image.html 
     url="img/guides/HND_30.JPG" 
     description=
-        "Nakonec přilepte díl se třemi dírami. Opět využijte šrouby, díry musí být souosé!"
+        "Nakonec přilepte díl se třemi otvory. Opět využijte šrouby, otvory musí být souosé!"
     url2="img/guides/HND_31.JPG" 
     description2=
         "Hotový držák serva." 
  %}
-----
+
+ {% include image.html 
+    url="img/guides/HND_32.JPG" 
+    description=
+        "Připravíme si dva dílky na obrázku."
+    url2="img/guides/HND_33.JPG" 
+    description2=
+        "Přilepíme je na packy držáku serv z VNITŘNÍ strany, viz. fotka." 
+ %} 
+
+  {% include image.html 
+    url="img/guides/HND_34.JPG" 
+    description=
+        "Připravte si díly na stavbu horní části ruky."
+    url2="img/guides/HND_35.JPG" 
+    description2=
+        "Slepte dlouhý díl s prostředním tak, aby byly na sebe kolmé." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_36.JPG" 
+    description=
+        "Připevněte dolní díl ruky šroubem."
+    url2="img/guides/HND_37.JPG" 
+    description2=
+        "Naneste lepidlo tak, jak je na obrázku." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_38.JPG" 
+    description=
+        "Přilepte krátký díl. S pomocí šroubku si srovnejte otvory s dolním dílem ruky."
+    url2="img/guides/HND_39.JPG" 
+    description2=
+        "Připravte si tyto dva díly." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_40.JPG" 
+    description=
+        "Přilepte je s pomocí šroubků z venku na přesahující konce boků."
+    url2="img/guides/HND_41.JPG" 
+    description2=
+        "Totéž zopakujte i na opačné straně." 
+ %}
+
+  {% include image.html 
+    url="img/guides/HND_42.JPG" 
+    description=
+        "Připravte si díly pro připojení táhla."
+    url2="img/guides/HND_43.JPG" 
+    description2=
+        "Nejdříve přilepte čtvereček se dvěma otvory. S pomocí šroubků si srovnejte otvory." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_44.JPG" 
+    description=
+        "Dále přilepte vyšší dílek se třemi dírami."
+    url2="img/guides/HND_45.JPG" 
+    description2=
+        "Pohled shora." 
+ %}
+
+  {% include image.html 
+    url="img/guides/HND_46.JPG" 
+    description=
+        "Připravte si díl TA2 a kruh s otvorem uprostřed."
+    url2="img/guides/HND_47.JPG" 
+    description2=
+        "S pomocí šroubu přilepte kruh na díl TA2 z NEPOPSANÉ STRANY." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_48.JPG" 
+    description=
+        "Druhý kroužek přilepte za pomocí šroubku na dlouhý díl horní části viz. obrázek."
+    url2="img/guides/HND_49.JPG" 
+    description2=
+        "Připravte si tyto dva díly." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_50.JPG" 
+    description=
+        "Do dvou otvorů strčte šrouby a díly slepte."
+    url2="img/guides/HND_51.JPG" 
+    description2=
+        "Výsledek." 
+ %}
+
