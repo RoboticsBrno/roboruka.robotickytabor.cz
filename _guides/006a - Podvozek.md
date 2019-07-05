@@ -176,3 +176,36 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
     description=
         "Výsledná podoba."
 %}
+
+{% include image.html 
+    url="img/guides/chasi_38.jpg" 
+    description=
+        "Připravte si díly pro výrobu kol." 
+    url2="img/guides/chasi_39.jpg" 
+    description2=
+        "Vezměte dva díly kol a jeden plastový střed." 
+%}
+
+{% include image.html 
+    url="img/guides/chasi_40.jpg" 
+    description=
+        "Vložte střed do jedné poloviny kola, kterou poté potřete z jedné strany lepidlem." 
+    url2="img/guides/chasi_41.jpg" 
+    description2=
+        "Na stranu potřenou lepidlem přilepte druhou polovinu kola. Střed kola zalepte vteřinovým lepidlem." 
+%}
+
+{% include image.html 
+    url="img/guides/chasi_42.jpg" 
+    description=
+        "Na kolo nasaďte jednu plastovou kružnici." 
+    url2="img/guides/chasi_43.jpg" 
+    description2=
+        "Stejný postup proveďte na druhé straně. Oba díly slepte vteřinovým lepidlem, které nanesete do mezery mezi plastovými částmi." 
+%}
+
+{% include image.html 
+    url="img/guides/chasi_44.jpg" 
+    description=
+        "Jakmile lepidlo zaschne, natáhněte na kolo gumičku." 
+%}
