@@ -9,6 +9,7 @@ name: Ruka
         "Nachystejte si díly z dřevíčkových desek." 
     url2="img/guides/HND_02.jpg" 
     description2=
+    
         "Připravte si i překližkové díly B1, B2 a dva díly B3." 
 %}
  ----

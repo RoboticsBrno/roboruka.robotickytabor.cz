@@ -1,5 +1,5 @@
 ---
-name: Stavba
+name: Podvozek
 ---
 ### {{ page.name | escape }}
 
@@ -121,12 +121,4 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
     url="img/guides/chasi_25.jpg" 
     description=
         "Následně přiklepte palubou a všude, kde se díly OD1 dotýkají jiných dílů, promázněte lepidlem a nechte uschnout." 
-%}
-
-#### Ruka
-
-{% include image.html 
-    url="img/guides/hand_1.jpg" 
-    description=
-        "Přilepte k desce s pěti otvory podložku."
 %}
