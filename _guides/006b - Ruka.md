@@ -292,7 +292,76 @@ name: Ruka
     url="img/guides/HND_64.JPG" 
     description=
         "Šroub zafixujte dvěma maticemi."
-    url2="img/guides/HND_63.JPG" 
+    url2="img/guides/HND_65.JPG" 
     description2=
         "Pohled shora." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_66.JPG" 
+    description=
+        "Volný konec táhla připevněte šroubem ke správnému otvoru dílu TA2 a opět zafixujte dvěma maticemi."
+    url2="img/guides/HND_67.JPG" 
+    description2=
+        "Ke zbývajícímu volnému otvoru na dílu TA2 připevněte stejným způsobem další táhlo." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_68.JPG" 
+    description=
+        "Připravte si díly na fotce. Do jednoho z táhel opět vložte šroub."
+    url2="img/guides/HND_69.JPG" 
+    description2=
+        "Díly spojte dohromady." 
+ %}
+
+{% include image.html 
+    url="img/guides/HND_70.JPG" 
+    description=
+        "Vzniklý díl připevněte k horní části ruky."
+    url2="img/guides/HND_71.JPG" 
+    description2=
+        "Dolní částí ruky protáhněte velkými otvory servokabel." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_72.JPG" 
+    description=
+        "Připravte si díly na klepeta."
+    url2="img/guides/HND_73.JPG" 
+    description2=
+        "Vždy slepte dva díly dohromady pro zvýšení pevnosti." 
+ %}
+
+  {% include image.html 
+    url="img/guides/HND_74.JPG" 
+    description=
+        "Připravte si díly tištěné na 3D tiskárně."
+    url2="img/guides/HND_75.JPG" 
+    description2=
+        "Nasaďte je na dřevěné části tak, jako na fotografii." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_76.JPG" 
+    description=
+        "Na servo nasaďte plastový kruhový dílek s otvory."
+    url2="img/guides/HND_77.JPG" 
+    description2=
+        "Přišroubujte pomocí šroubů M3x12 se zápustnou hlavou čelist se třemi otvory." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_78.JPG" 
+    description=
+        "Na tělo náklepné matice nasaďte čelist s velkým otvorem. Pozor: díru je nutné před nasazením převrtat na průměr 5,9 - 6 mm!"
+    url2="img/guides/HND_79.JPG" 
+    description2=
+        "Pomocí šroubu M4x12 čelist k matici přišroubujte." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_80.JPG" 
+    description=
+        "Hotová ruka"
  %}
