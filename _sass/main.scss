@@ -94,6 +94,7 @@ figure.responsive {
 }
 .figure figcaption::before {
     counter-increment: guideStep;
+    color: #464c54;
     Content: "Krok " counter(guideStep) ": ";
 }
 figure {
@@ -186,4 +187,11 @@ hr {
             padding: 0px;
         }
     }
+}
+
+:not(pre) > code, :not(pre) > kbd, :not(pre) > samp {
+    font-family: 'Roboto Mono',monospace;
+    color: #f0506e;
+    white-space: nowrap;
+    font-size: 0.8em;
 }
