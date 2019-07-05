@@ -176,16 +176,16 @@ name: Battery pack
 {% include image.html
     url="img/guides/bat_39.jpg"
     description=
-        "Ke druhé desce napájejte nabíjecí moduly k desce dle obrázku."
+        "Ke druhé desce napájejte nabíjecí moduly dle obrázku."
     url2="img/guides/bat_40.jpg"
     description2=
-        "Odpojte oba nabíjecí moduly. Vložte do pouzdra baterie. POZOR na polaritu."
+        "Odpojte oba nabíjecí moduly. Vložte do pouzdra baterie. POZOR na polaritu. NEŽ BUDEŠ POKRAČOVAT, BĚŽ ZA VEDOUCÍM, ABY TI TO ZKONTROLOVAL!!!"
 %}
 
 {% include image.html
     url="img/guides/bat_41.jpg"
     description=
-        "Ustřihněte si 12 cm smršťovací folie."
+        "NEŽ BUDEŠ POKRAČOVAT, BĚŽ ZA VEDOUCÍM, ABY TI TO ZKONTROLOVAL!!! Ustřihněte si 12 cm smršťovací folie."
     url2="img/guides/bat_42.jpg"
     description2=
         "Vložte celý battery pack do smršťovací folie."
