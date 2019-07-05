@@ -203,7 +203,7 @@ name: Battery pack
 {% include image.html
     url="img/guides/bat_45.jpg"
     description=
-        "Ustřihněte si 20 cm popruhu."
+        "Ustřihněte si 15 cm popruhu."
     url2="img/guides/bat_46.jpg"
     description2=
         "Popruh přilepte ke stranám battery packu tavnou pistolí podle obrázku."
