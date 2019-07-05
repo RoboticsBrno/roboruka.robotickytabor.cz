@@ -176,7 +176,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
     description=
         "Výsledná podoba."
 %}
-
+----
 {% include image.html 
     url="img/guides/chasi_38.jpg" 
     description=
