@@ -104,7 +104,7 @@ name: Battery pack
 {% include image.html
     url="img/guides/bat_23.jpg"
     description=
-        "Pod desku si vložte překližku, která vám zbyla ze stavby."
+        "Pod desku vložte konkétně tento dílek, který vidíte pod deskou (2mm překližka), která vám zbyla ze stavby."
     url2="img/guides/bat_24.jpg"
     description2=
         "Vložte dutinky do otvorů dle obrázku. Dávejte pozor, aby hlubší otvory dutinek směřovaly ven z battery packu (dle obrázku dolů). Dutinky musí přesahovat skrz až na podložku. Tento krok zopakujte 8x."
@@ -116,7 +116,7 @@ name: Battery pack
         "Dutinky připájejte shora podle obrázku."
     url2="img/guides/bat_26.jpg"
     description2=
-        "Poté zapájejte důůkladně i spodní část dle obrázku."
+        "Poté zapájejte důkladně i spodní část dle obrázku."
 %}
 
 {% include image.html
