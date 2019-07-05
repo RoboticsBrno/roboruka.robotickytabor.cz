@@ -68,7 +68,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Výsledná podoba lože pro motor."
     url2="/img/guides/chasi_14.jpg" 
     description2=
-        "Nachystejte si díly LM7, LM9, LM10, LM11 a šroub s matkou M4. Do dílu LM10 vložte šroub a z druhé strany dotáhněte matici. Následně si vezměte díl LM11 a nalepte jej kolem matice, aby se matka nemohla točit."
+        "Nachystejte si díly LM7, LM9, LM10, LM11 a šroub s matkou M5. Do dílu LM10 vložte šroub a z druhé strany dotáhněte matici. Následně si vezměte díl LM11 a nalepte jej kolem matice, aby se matka nemohla točit."
 %}
 
 {% include image.html 

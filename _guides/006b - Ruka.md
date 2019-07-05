@@ -234,3 +234,65 @@ name: Ruka
         "Výsledek." 
  %}
 
+  {% include image.html 
+    url="img/guides/HND_52.JPG" 
+    description=
+        "Konstrukci rozložte a připravte si šest táhel."
+    url2="img/guides/HND_53.JPG" 
+    description2=
+        "Dále budete potřebovat devět šroubků M3x16 a osmnáct matic M3." 
+ %}
+
+  {% include image.html 
+    url="img/guides/HND_54.JPG" 
+    description=
+        "S pomocí šroubků připevněte držák serva k hornímu dílu ruky."
+    url2="img/guides/HND_55.JPG" 
+    description2=
+        "Šroub zafixujte DVĚMA maticemi zašroubovanými za sebou." 
+ %}
+
+  {% include image.html 
+    url="img/guides/HND_56.JPG" 
+    description=
+        "Stejným způsobem zafixujte i šroub na druhé straně."
+    url2="img/guides/HND_57.JPG" 
+    description2=
+        "Připravte si horní a dolní část ruky a díl TA2 s přilepenou kruhovou podložkou." 
+ %}
+
+  {% include image.html 
+    url="img/guides/HND_58.JPG" 
+    description=
+        "Připravte si díl TA2. Do otvorů s kruhovou podložkou vložte šroubek směřující k podložce."
+    url2="img/guides/HND_59.JPG" 
+    description2=
+        "Spojte dohromady díl TA2, horní a dolní část ruky." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_60.JPG" 
+    description=
+        "Šroubek vložte i do otvoru na druhé straně."
+    url2="img/guides/HND_61.JPG" 
+    description2=
+        "Každý šroub opět zafixujte matičkami (ke každému dvě)." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_62.JPG" 
+    description=
+        "Připravte si dvě táhla a do jednoho z nich vložte šroubek."
+    url2="img/guides/HND_63.JPG" 
+    description2=
+        "Táhla připevněte na příslušné místo na držáku serva (viz. fotka)." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_64.JPG" 
+    description=
+        "Šroub zafixujte dvěma maticemi."
+    url2="img/guides/HND_63.JPG" 
+    description2=
+        "Pohled shora." 
+ %}
