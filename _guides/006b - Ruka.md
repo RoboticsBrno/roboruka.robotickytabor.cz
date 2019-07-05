@@ -7,9 +7,8 @@ name: Ruka
     url="img/guides/HND_01.JPG" 
     description=
         "Nachystejte si díly z dřevíčkových desek." 
-    url2="img/guides/HND_02.jpg" 
+    url2="img/guides/HND_02.JPG" 
     description2=
-
         "Připravte si i překližkové díly B1, B2 a dva díly B3." 
 %}
  ----
@@ -144,4 +143,4 @@ name: Ruka
     description2=
         "Hotový držák serva." 
  %}
-
+----
