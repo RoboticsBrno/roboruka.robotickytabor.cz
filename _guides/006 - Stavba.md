@@ -95,7 +95,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Přiklopte palubou. Zevnitř podepřete dílkem s názvem 'Šablona', aby se díl nebortil do středu robota."
     url2="img/guides/chasi_20.jpg" 
     description2=
-        "Najděte si díl BD1 a nalepte si jej do zadní části podvozku. Je třeba díl natlačit co nejvíc dozadu, a proto si zespodu do otvoru ve dně pro BD1 nastrčte klínek pro doražení BD1 na pozici."
+        "Po zaschnutí odklopte palubu. Najděte si díl BD1 a nalepte si jej do zadní části podvozku. Je třeba díl natlačit co nejvíc ven z robota."
 %}
 
 {% include image.html 
@@ -120,7 +120,10 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 {% include image.html 
     url="img/guides/chasi_25.jpg" 
     description=
-        "Následně přiklepte palubou a všude, kde se díly OD1 dotýkají jiných dílů, promázněte lepidlem a nechte uschnout." 
+        "Mezi díly OD1 naneste lepidlo podle obrázku, aby podvozek držel pohromadě." 
+    url2="img/guides/chasi_26.jpg" 
+    description2=
+        "Vlepte díly LM4 do lože pro motory." 
 %}
 
 #### Ruka
