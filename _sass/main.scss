@@ -7,7 +7,7 @@ body{
     font-family: 'Varela Round', sans-serif;
     counter-reset: guideStep;
 }
-li{
+ul > li {
     list-style-type: disc;
 }
 h1, h2, h3, h4, h5, h6 {
@@ -15,6 +15,9 @@ h1, h2, h3, h4, h5, h6 {
     color: black;
     font-weight: 700;
     font-family: 'Montserrat', sans-serif;
+}
+strong {
+    font-weight: bold;
 }
 .icon-block {
   padding: 0 15px;
@@ -91,6 +94,7 @@ figure.responsive {
 }
 .figure figcaption::before {
     counter-increment: guideStep;
+    color: #464c54;
     Content: "Krok " counter(guideStep) ": ";
 }
 figure {
@@ -183,4 +187,11 @@ hr {
             padding: 0px;
         }
     }
+}
+
+:not(pre) > code, :not(pre) > kbd, :not(pre) > samp {
+    font-family: 'Roboto Mono',monospace;
+    color: #f0506e;
+    white-space: nowrap;
+    font-size: 0.8em;
 }
