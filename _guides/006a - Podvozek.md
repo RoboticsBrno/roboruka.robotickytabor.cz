@@ -125,3 +125,54 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
     description2=
         "Vlepte díly LM4 do lože pro motory." 
 %}
+
+{% include image.html 
+    url="img/guides/chasi_27.jpg" 
+    description=
+        "Všechny díly pro držák na kartáčky a senzorické lišty." 
+    url2="img/guides/chasi_28.jpg" 
+    description2=
+        "Nachystejte si díly K2 a K3." 
+%}
+
+{% include image.html 
+    url="img/guides/chasi_29.jpg" 
+    description=
+        "Z desky si nařežte 4 obdélníky s délkou 18 mm." 
+    url2="img/guides/chasi_30.jpg" 
+    description2=
+        "Nařezané dílky." 
+%}
+
+{% include image.html 
+    url="img/guides/chasi_31.jpg" 
+    description=
+        "Postup sestavení." 
+    url2="img/guides/chasi_32.jpg" 
+    description2=
+        "Kartáčky zasuňte do otvorů dílů K2 i K3. Zajistěte je nařezanými dílky." 
+%}
+
+{% include image.html 
+    url="img/guides/chasi_33.jpg" 
+    description=
+        "Správně zasunuté dílky a kartáčky." 
+    url2="img/guides/chasi_34.jpg" 
+    description2=
+        "Díly otočte a zalepte kartáčky a dílky vteřinovým lepidlem." 
+%}
+
+{% include image.html 
+    url="img/guides/chasi_35.jpg" 
+    description=
+        "Slepený díl K3 přilepte zespodu podvozku k části s otvorem na battery pack. Šroubky použijte jako poziční díl. Po zaschnutí je vytáhněte." 
+    url2="img/guides/chasi_36.jpg" 
+    description2=
+        "Slepený díl K2 přilepte zespodu podvozku naproti předchozímu dílu K3. Šroubky použijte jako poziční díl. Po zaschnutí je vytáhněte." 
+%}
+
+{% include image.html 
+    url="img/guides/chasi_37.jpg" 
+    description=
+        "Výsledná podoba."
+%}
