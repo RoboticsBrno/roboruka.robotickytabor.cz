@@ -365,3 +365,30 @@ name: Ruka
     description=
         "Hotová ruka"
  %}
+
+ {% include image.html 
+    url="img/guides/HND_81.JPG" 
+    description=
+        "Nyní vezměte dolní část ruky."
+    url2="img/guides/HND_82.JPG" 
+    description2=
+        "Všechny díry, do kterých přijde přišroubovat servo je třeba zahloubit." 
+ %}
+
+{% include image.html 
+    url="img/guides/HND_83.JPG" 
+    description=
+        "To samé proveďte i u této části ruky."
+    url2="img/guides/HND_84.JPG" 
+    description2=
+        "Nyní přišroubujte servo. Do prostředního otvoru patří šroub M3x12, do zbylých M3x8." 
+ %}
+
+ {% include image.html 
+    url="img/guides/HND_85.JPG" 
+    description=
+        "Přišroubujte i druhou stranu serva. Zde se již prostřední šroub nedává."
+    url2="img/guides/HND_86.JPG" 
+    description2=
+        "Nakonec přišroubujte i servo k této části ruky. Do prostředního otvoru patří šroub M3x12, do okrajových M3x8." 
+ %}
