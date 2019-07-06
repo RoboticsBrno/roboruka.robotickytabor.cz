@@ -14,7 +14,7 @@ V této sekci ukážeme, jak zprovoznit na Roboruce Demo program, který umožň
         _Pokud víte, co je to Git a umíte ho používat, můžete místo toho [naklonovat náš repozitář](https://github.com/RoboticsBrno/roboruka-demo01)._"
     url2="img/guides/demo_prog_01.png"
     description2=
-        "Ve _File_ menu ve Visual Studiu zvolte _Open Folder..._ a otevřte složku, kterou jste právě rozbalili."
+        "Ve _File_ menu ve VSCode zvolte _Open Folder..._ a otevřte složku, kterou jste právě rozbalili."
  %}
 
 {% include image.html
@@ -41,7 +41,7 @@ V této sekci ukážeme, jak zprovoznit na Roboruce Demo program, který umožň
     description=
         "Stiskněte ikonu zástrčky na dolním baru a otevřte zobrazovač sériové linky. Když restartujete robota (RST tlačítkem na UIBoardu či přímo na ESP32, vedle USB portu),
         musíte vidět řádek zvýrazněný na obrázku. **Zapište si naměřenou RAW hodnotu.**"
-    url2="img/guides/demo_prog_07.jpg"
+    url2="img/guides/demo_prog_07.png"
     description2=
         "Nyní musíme nakalibrovat měření napětí baterie. Multimetrem změřte napětí na konektoru od baterie, jako na obrázku. **Zapiště si naměřenou hodnotu v mV,** na obrázku jsme naměřili 7840mV."
  %}
