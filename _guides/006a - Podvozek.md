@@ -208,4 +208,34 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
     url="img/guides/chasi_44.jpg" 
     description=
         "Jakmile lepidlo zaschne, natáhněte na kolo gumičku." 
+    url2="img/guides/chasi_45.JPG" 
+    description2=
+        "Nyní vezměte dva žluté motory."
 %}
+
+{% include image.html 
+    url="img/guides/chasi_46.JPG" 
+    description=
+        "Hřídel motoru je třeba na straně s výstupkem zkrátit." 
+    url2="img/guides/chasi_47.JPG" 
+    description2=
+        "Zkrácený hřídel." 
+%}  
+
+{% include image.html 
+    url="img/guides/chasi_48.JPG" 
+    description=
+        "Připravte si kolo a motor." 
+    url2="img/guides/chasi_49.JPG" 
+    description2=
+        "Motor nasaďte na kolo tak, jako na fotce." 
+%}  
+
+{% include image.html 
+    url="img/guides/chasi_50.JPG" 
+    description=
+        "Totéž proveďte i s druhou dvojicí kolo - motor." 
+    url2="img/guides/chasi_51.JPG" 
+    description2=
+        "Nyní tyto kola s motory vložte do podvozku." 
+%}  
