@@ -14,7 +14,7 @@ V této sekci ukážeme, jak zprovoznit na Roboruce Demo program, který umožň
         _Pokud víte, co je to Git a umíte ho používat, můžete místo toho [naklonovat náš repozitář](https://github.com/RoboticsBrno/roboruka-demo01)._"
     url2="img/guides/demo_prog_01.png"
     description2=
-        "Ve _File_ menu ve Visual Studiu zvolte _Open Folder..._ a otevřte složku, kterou jste právě rozbalili."
+        "Ve _File_ menu ve VSCode zvolte _Open Folder..._ a otevřte složku, kterou jste právě rozbalili."
  %}
 
 {% include image.html
