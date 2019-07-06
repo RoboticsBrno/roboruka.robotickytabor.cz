@@ -41,7 +41,7 @@ V této sekci ukážeme, jak zprovoznit na Roboruce Demo program, který umožň
     description=
         "Stiskněte ikonu zástrčky na dolním baru a otevřte zobrazovač sériové linky. Když restartujete robota (RST tlačítkem na UIBoardu či přímo na ESP32, vedle USB portu),
         musíte vidět řádek zvýrazněný na obrázku. **Zapište si naměřenou RAW hodnotu.**"
-    url2="img/guides/demo_prog_07.png"
+    url2="img/guides/demo_prog_07.jpg"
     description2=
         "Nyní musíme nakalibrovat měření napětí baterie. Multimetrem změřte napětí na konektoru od baterie, jako na obrázku. **Zapiště si naměřenou hodnotu v mV,** na obrázku jsme naměřili 7840mV."
  %}
