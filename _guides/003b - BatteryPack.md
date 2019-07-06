@@ -210,7 +210,19 @@ name: Battery pack
 %}
 
 {% include image.html
-    url="img/guides/bat_47.jpg"
+    url="img/guides/bat_47.JPG"
     description=
         "Výsledný battery pack."
+    url2="img/guides/bat_48.JPG"
+    description2=
+        "Dok battery packu vložte do podvozku robota jako na fotce."
+%}
+
+{% include image.html
+    url="img/guides/bat_49.JPG"
+    description=
+        "Spodní část doku zacvakněte do výřezů na spodní straně robota."
+    url2="img/guides/bat_50.jpg"
+    description2=
+        "Nakonec připojte kabely do svorkovnice IN."
 %}

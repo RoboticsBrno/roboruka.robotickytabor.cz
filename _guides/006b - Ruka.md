@@ -129,7 +129,7 @@ name: Ruka
  {% include image.html 
     url="img/guides/HND_28.JPG" 
     description=
-        "Dle obrázku přilepte podlouhlý díl. Pro získání souosé otvory si pomožte šroubkem."
+        "Dle obrázku přilepte podlouhlý díl. Pro získání souosých otvorů si pomožte šroubkem."
     url2="img/guides/HND_29.JPG" 
     description2=
         "Jako další přilepte čtvercový díl. Využijte dvou šroubků, pro srovnání děr." 
