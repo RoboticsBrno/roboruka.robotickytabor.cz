@@ -21,5 +21,11 @@
                 });
             }, 3 * 60 * 1000);
         });
+
+        $('[data-fancybox="gallery"]').fancybox({
+            caption : function( instance, item ) {
+                return $(this).next('figcaption').html();
+            }
+        });
     }); // end of document ready
 })(jQuery); // end of jQuery name space
