@@ -108,26 +108,32 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 {% include image.html
     url="img/guides/chasi_23.jpg"
     description=
-        "Díly OD2 na správné pozici."
+        "Díly OD2 vložte na pozici pouze na sucho bez lepidla."
     url2="img/guides/chasi_24.jpg"
     description2=
-        "Nyní si najděte všechny díly OD1 a jen je vložte do podvozku. Vkládejte popisky směrem ven. Proč? Viz
-        [Pro zvídavé](#Pro zvídavé). Následně to celé přiklopte palubou a přitáhněte šrouby. Narovnejte si dřívka tak, aby byla všechna rovně, a omotejte je gumou, aby nevypadávaly ven."
+        "Nyní si najděte všechny díly OD1 a jen je na sucho bez lepidla vložte do podvozku. Vkládejte popisky směrem ven. Proč? Viz
+        [Pro zvídavé](#Pro zvídavé). Následně to celé přiklopte palubou a přitáhněte palubu šrouby. Narovnejte si dřívka tak, aby byla všechna rovně."
+%}
+
+{% include image.html
+    url="img/guides/chasi_24a.jpg"
+    description=
+        "Omotejte boční díly v jejich horní části (co nejvíce nahoře) elastickou nití přibližně 10x dokola a během omotávání nit napínejte. Pr uvázání začátku a konce nitě je možné použít otvory v držáku battery packu. Snažte se vést jednotlivé dráhy nitě co nejblíže u sebe. Zamotanou nit následně zalepíme lepidlem. Pozor: lepidlo se nesmí dostat k horní palubě!"
 %}
 
 {% include image.html
     url="img/guides/chasi_25.jpg"
     description=
-        "Mezi díly OD1 naneste lepidlo podle obrázku, aby podvozek držel pohromadě."
+        "Mezi díly OD1 naneste lepidlo podle obrázku, aby podvozek držel pohromadě. Lepidlo naneste rovněž mezi díly OD1 a spodní palubu."
     url2="img/guides/chasi_26.jpg"
     description2=
-        "Vlepte díly LM4 do lože pro motory."
+        "Sundejte horní palubu. Vlepte díly LM4 do lože pro motory."
 %}
 
 {% include image.html
     url="img/guides/chasi_27a.jpg"
     description=
-        "Zahloubíme díry na podvozku, které jsou z jeho vnější strany, abychom mohli vložit šrouby se zapuštěnou hlavou."
+        "Nasaďte horní palubu. Zahloubte díry na podvozku, které jsou z jeho vnější strany, aby bylo možné vložit šrouby se zapuštěnou hlavou."
     url2="img/guides/chasi_27b.jpg"
     description2=
         "Zahloubíme všechny čtyři díry podle obrázku."
@@ -145,10 +151,10 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 {% include image.html
     url="img/guides/chasi_27.jpg"
     description=
-        "Všechny díly pro držák na kartáčky a senzorické lišty."
+        "Všechny díly pro držák na kartáčky a senzorické lišty. Jeden z dílů K2 a jeden z dílů K3 je zakulacený (jedna hrana obroušena do kulata). U kartáčků je třeba mírně osmirkovat jeho hliníkový držák kolmo na osu štětin kartáčku."
     url2="img/guides/chasi_28.jpg"
     description2=
-        "Nyní byste měli mít dva díly K2 a dva díly K3. Je potřeba **slepit** dva díly K2 k sobě a dva díly K3 k sobě. Pro přesné napolohávání dílů při lepení si vemte dva šroubky M3 a zasuňte je do dvou dír na dílech."
+        "Nyní byste měli mít dva díly K2 a dva díly K3. Je potřeba **slepit** dva díly K2 k sobě a dva díly K3 k sobě tak, aby byla zakulacená strana na kraji. Pro přesné napolohávání dílů při lepení si vezměte dva šroubky M3 a zasuňte je do dvou děr na dílech."
 %}
 
 {% include image.html
@@ -164,27 +170,27 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
     url="img/guides/chasi_31.jpg"
     description=
         "Postup sestavení."
-    url2="img/guides/chasi_32.jpg"
+    url2="img/guides/chasi_31a.jpg"
     description2=
-        "Kartáčky zasuňte do otvorů dílů K2 i K3. Zajistěte je nařezanými dílky."
+        "Do dílu z K2 vlepíme nařezané dílky. Do dílu z K1 je vlepíme obdobně."
 %}
 
 {% include image.html
-    url="img/guides/chasi_33.jpg"
+    url="img/guides/chasi_32.jpg"
     description=
-        "Správně zasunuté dílky a kartáčky."
-    url2="img/guides/chasi_34.jpg"
+        "Kartáčky zasuňte mírně až za konec otvorů dílů K2 i K3, tak aby nepatrně přečuhovaly hliníkové držáky kartáčků ven z dřevěných dílů. Hliníkové držáky zalepte vteřinovým lepidlem a před zaschnutím opřete o rovnou desku pokrytou igelitovým sáčkem. Tímto zarovnáte hliníkový konec kartáčku s rovinou dílu. Výsledek by měl být jako na obrázku."
+    url2="img/guides/chasi_33.jpg"
     description2=
-        "Díly otočte a zalepte kartáčky a dílky vteřinovým lepidlem."
+        "Správně zasunuté dílky a kartáčky (bez zaoblené hrany)."
 %}
 
 {% include image.html
     url="img/guides/chasi_35.jpg"
     description=
-        "Slepený díl K3 přilepte zespodu podvozku k části s otvorem na battery pack. Mějte díl zarovnán s okrajem šasi a v jeho středu. Šroubky nepoužívejte."
+        "Slepený díl K3 přilepte zespodu podvozku k části s otvorem na battery pack. Mějte díl zarovnán s okrajem šasi a symetricky."
     url2="img/guides/chasi_36.jpg"
     description2=
-        "Slepený díl K2 přilepte zespodu podvozku naproti předchozímu dílu K3. Mějte díl zarovnán s okrajem šasi a v jeho středu. Šroubky nepoužívejte."
+        "Slepený díl K2 přilepte zespodu podvozku naproti předchozímu dílu K3. Mějte díl zarovnán s okrajem šasi a symetricky."
 %}
 
 {% include image.html
