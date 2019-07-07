@@ -126,6 +126,24 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Vlepte díly LM4 do lože pro motory." 
 %}
 
+{% include image.html
+    url="img/guides/chasi_27a.jpg"
+    description=
+        "Zahloubíme díry, které na podvozku, které jsou z jeho vnější strany, abychom mohli vložit šrouby se zapuštěnou hlavou."
+    url2="img/guides/chasi_27b.jpg"
+    description2=
+        "Zahloubíme všechny čtyři díry podle obrázku."
+%}
+
+{% include image.html
+    url="img/guides/chasi_27c.jpg"
+    description=
+        "Vložíme šrouby M3x12 se zapuštěnou hlavou tak, aby směřovaly dovnitř a přitáhneme je maticí M3."
+    url2="img/guides/chasi_27d.jpg"
+    description2=
+        "Nakonec šrouby z vnější strany zakápneme vteřinovým lepidlem."
+%}
+
 {% include image.html 
     url="img/guides/chasi_27.jpg" 
     description=
