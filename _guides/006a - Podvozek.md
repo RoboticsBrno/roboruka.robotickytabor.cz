@@ -129,7 +129,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 {% include image.html
     url="img/guides/chasi_27a.jpg"
     description=
-        "Zahloubíme díry, které na podvozku, které jsou z jeho vnější strany, abychom mohli vložit šrouby se zapuštěnou hlavou."
+        "Zahloubíme díry na podvozku, které jsou z jeho vnější strany, abychom mohli vložit šrouby se zapuštěnou hlavou."
     url2="img/guides/chasi_27b.jpg"
     description2=
         "Zahloubíme všechny čtyři díry podle obrázku."
