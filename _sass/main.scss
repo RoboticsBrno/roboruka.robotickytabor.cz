@@ -189,6 +189,10 @@ hr {
     }
 }
 
+.fancybox-caption {
+    font-size: 18px;
+}
+
 :not(pre) > code, :not(pre) > kbd, :not(pre) > samp {
     font-family: 'Roboto Mono',monospace;
     color: #f0506e;
@@ -196,6 +200,8 @@ hr {
     font-size: 0.8em;
 }
 
-.fancybox-caption {
-    font-size: 18px;
+pre > code {
+    font-family: 'Roboto Mono',monospace;
+    color: #f0506e;
+    font-size: 0.8em;
 }

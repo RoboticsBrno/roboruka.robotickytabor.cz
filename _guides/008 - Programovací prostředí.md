@@ -21,7 +21,7 @@ příklady programování Roboruky.
 {% include image.html
     url="img/guides/code_01.png"
     description=
-        "Otevřte VSCode a klikněte na čtveratou ikonku rozšíření na levé straně."
+        "Otevřete VSCode a klikněte na čtveratou ikonku rozšíření na levé straně."
     url2="img/guides/code_02.png"
     description2=
         "Najděte a nainstalujte rozšíření *PlatformIO IDE*."
@@ -42,7 +42,7 @@ příklady programování Roboruky.
         "Jakmile je vše hotovo, VSCode vám nabídne restart. Přijměte ho."
  %}
 
----
+<!---
 ##### 3. První program pro ESP32
   {% include image.html
     url="img/guides/code_06.png"
@@ -82,3 +82,4 @@ příklady programování Roboruky.
     description2=
         "A konečně, kliknutím na zástrčku na spodním baru uvidíte sériový výstup ESP32, na který by vám váš program měl něco posílat."
  %}
+--->
