@@ -150,7 +150,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Všechny díly pro držák na kartáčky a senzorické lišty." 
     url2="img/guides/chasi_28.jpg" 
     description2=
-        "Nachystejte si díly K2 a K3." 
+        "Nyní byste měli mít dva díly K2 a dva díly K3. Je potřeba **slepit** dva díly K2 k sobě a dva díly K3 k sobě. Pro přesné napolohávání dílů při lepení si vemte dva šroubky M3 a zasuňte je do dvou dír na dílech." 
 %}
 
 {% include image.html 
