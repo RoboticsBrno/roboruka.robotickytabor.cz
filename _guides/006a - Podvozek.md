@@ -50,7 +50,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Teď si připravte díly V1, V2 a díl D1. Na díly V1 a V2 si naneste lepidlo a nalepte je na D1. Jako pomůcku ke správnému otočení můžete použít díl LM1 nebo ML2, který nelepte, jen si ho zastrčte na místo. Po zapozicování si každý díl stáhněte svorkou."
     url2="/img/guides/chasi_10.jpg" 
     description2=
-        "Zapozicování pro lepení dílů V1 a V2."
+        "Zapozicování pro lepení dílů V1 a V2 s pomocným dílem LM1."
 %}
 
 {% include image.html 
