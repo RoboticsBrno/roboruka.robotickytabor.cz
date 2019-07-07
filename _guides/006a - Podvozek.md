@@ -62,12 +62,19 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Lože pro motor vlepte do paluby."
 %}
 
-{% include image.html
-    url="img/guides/chasi_13.jpg"
+{% include image.html 
+    url="img/guides/chasi_13.jpg" 
     description=
         "Výsledná podoba lože pro motor."
-    url2="/img/guides/chasi_14.jpg"
+    url2="img/guides/chasi_13a.jpg" 
     description2=
+        "Po zaschnutí odklopte palubu. Najděte si díl BD1 a nalepte si jej do zadní části podvozku. Je třeba díl natlačit co nejvíc ven z robota."
+    
+%}
+
+{% include image.html 
+    url="/img/guides/chasi_14.jpg" 
+    description=
         "Nachystejte si díly LM7, LM9, LM10, LM11 a šroub s matkou M5. Do dílu LM10 vložte šroub a z druhé strany dotáhněte matici. Následně si vezměte díl LM11 a nalepte jej kolem matice, aby se matka nemohla točit."
 %}
 
@@ -86,25 +93,16 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Když je vše suché, nalepte díl s maticí do dna, jak je na obrázku."
     url2="/img/guides/chasi_18.jpg"
     description2=
-        "Oba díly s maticí na správné pozici."
+        "Oba díly s maticí na správné pozici. Před zaschnutím lepidla následuje další krok."
 %}
 
 {% include image.html
     url="img/guides/chasi_19.jpg"
     description=
         "Přiklopte palubou. Zevnitř podepřete dílkem s názvem 'Šablona', aby se díl nebortil do středu robota."
-    url2="img/guides/chasi_20.jpg"
-    description2=
-        "Po zaschnutí odklopte palubu. Najděte si díl BD1 a nalepte si jej do zadní části podvozku. Je třeba díl natlačit co nejvíc ven z robota."
-%}
-
-{% include image.html
-    url="img/guides/chasi_21.jpg"
-    description=
-        "Vezměte si oba díly OD2 a obrušte jim hrany dle obrázku."
     url2="img/guides/chasi_22.jpg"
     description2=
-        "Vkládání dílů OD2."
+        "Po zaschnutí odmontujte horní palubu a nachystejte si díly OD2."
 %}
 
 {% include image.html
@@ -183,10 +181,10 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 {% include image.html
     url="img/guides/chasi_35.jpg"
     description=
-        "Slepený díl K3 přilepte zespodu podvozku k části s otvorem na battery pack. Šroubky použijte jako poziční díl. Po zaschnutí je vytáhněte."
+        "Slepený díl K3 přilepte zespodu podvozku k části s otvorem na battery pack. Mějte díl zarovnán s okrajem šasi a v jeho středu. Šroubky nepoužívejte."
     url2="img/guides/chasi_36.jpg"
     description2=
-        "Slepený díl K2 přilepte zespodu podvozku naproti předchozímu dílu K3. Šroubky použijte jako poziční díl. Po zaschnutí je vytáhněte."
+        "Slepený díl K2 přilepte zespodu podvozku naproti předchozímu dílu K3. Mějte díl zarovnán s okrajem šasi a v jeho středu. Šroubky nepoužívejte."
 %}
 
 {% include image.html
@@ -219,7 +217,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Na kolo nasaďte jednu plastovou kružnici."
     url2="img/guides/chasi_43.jpg"
     description2=
-        "Stejný postup proveďte na druhé straně. Oba díly slepte vteřinovým lepidlem, které nanesete do mezery mezi plastovými částmi."
+        "Stejný postup proveďte na druhé straně. Oba díly slepte vteřinovým lepidlem, které nanesete do mezery mezi plastovými částmi. Počkejte až zaschne vteřinové lepidlo."
 %}
 
 {% include image.html
