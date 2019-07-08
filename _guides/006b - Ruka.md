@@ -37,15 +37,15 @@ name: Ruka
  %}
 
  {% include image.html
-    url="img/guides/"
+    url="img/guides/HND_10b.jpg"
     description=
         "Vybruste otvory spodního dílu do šířky tak, aby jimi prošly ploché konektory kabelu serva 2."
  %}
 
   {% include image.html
-    url="img/guides/"
+    url="img/guides/HND_10c.jpg"
     description=
-        "Zasuňte kabel serva 2 do spodního dílu skrze 2 rozšířené otvory. Na orientaci kabelu nezáleží."
+        "Zasuňte kabel serva 2 do spodního dílu skrze 2 rozšířené otvory. Na orientaci kabelu nezáleží. V dalších krocích je kabel zanedbán."
     url2="img/guides/HND_11.jpg"
     description2=
         "Přilepte i horní díl."
@@ -328,7 +328,7 @@ name: Ruka
         "Připravte si díly tištěné na 3D tiskárně."
     url2="img/guides/HND_75.jpg"
     description2=
-        "Nasaďte je na dřevěné části tak, jako na fotografii."
+        "Nasaďte je na dřevěné části tak, jako na fotografii a zakápněte ze všech stran vteřinovým lepidlem (ideálně řidkým)."
  %}
 
  {% include image.html
@@ -361,7 +361,7 @@ name: Ruka
         "Nyní vezměte dolní část ruky."
     url2="img/guides/HND_82.jpg"
     description2=
-        "Všechny díry, do kterých přijde přišroubovat servo je třeba zahloubit."
+        "Všechny díry, do kterých přijde přišroubovat servo je třeba zahloubit jako na obrázku."
  %}
 
 {% include image.html
@@ -370,7 +370,8 @@ name: Ruka
         "To samé proveďte i u této části ruky."
     url2="img/guides/HND_84.jpg"
     description2=
-        "Nyní přišroubujte servo. Do prostředního otvoru patří šroub M3x12, do zbylých M3x8."
+        "Nyní přišroubujte servo přesně jako na obrázku rovnoběžně s dřevěným dílem. Cedulka s názvem serva “LX-15D” musí směřovat nahoru.
+         Do prostředního otvoru patří šroub M3x12, do zbylých M3x8."
  %}
 
  {% include image.html
@@ -379,5 +380,5 @@ name: Ruka
         "Přišroubujte i druhou stranu serva. Zde se již prostřední šroub nedává."
     url2="img/guides/HND_86.jpg"
     description2=
-        "Nakonec přišroubujte i servo k této části ruky. Do prostředního otvoru patří šroub M3x12, do okrajových M3x8."
+        "Nakonec přišroubujte servo i k této části ruky. Do prostředního otvoru patří šroub M3x12, do okrajových M3x8."
  %}
