@@ -16,25 +16,10 @@ name: Ruka
     url="img/guides/HND_03.jpg"
     description=
         "Začneme slepením dolního dílu ruky. Připravíme si k tomu potřebné dílky."
-    url2="img/guides/HND_04.jpg"
+    url2="img/guides/HND_04a.jpg"
     description2=
-        "K bočnicím přilepíme menší dílky s otvory pro servo."
+        "V prvním části kroku nasadíme na bočnici zakulacené díly potřené lepidlem. Zatím nedomačkáváme. K přesnému umístění použijeme šrouby. V druhé části nasadíme spodní díl mezi zakulacené díly. V třetí části posuneme spodní díl co nejvíce dolů, což dále zpřesní polohu zakulacených dílů před zaschnutím. Zakulacené díly domáčkneme svorkami."
 %}
-
-{% include image.html
-    url="img/guides/HND_05.jpg"
-    description=
-        "K tomu, aby byly otvory souosé použijeme dva šroubky."
-    url2="img/guides/HND_06.jpg"
-    description2=
-        "Na menší dílek s otvory naneste lepidlo, nasaďte jej na šroubky a přilepte jej k bočnici. Nezapomeňte, že bočnice jsou dvě, levá a pravá. Ty musí být zrcadlově otočené!"
- %}
-
- {% include image.html
-    url="img/guides/HND_07.jpg"
-    description=
-        "Výsledný pár bočnic."
- %}
 
 {% include image.html
     url="img/guides/HND_08.jpg"
@@ -60,16 +45,7 @@ name: Ruka
         "Ostré hrany vzniklé na koncích dílu zbruste do kulata."
     url2="img/guides/HND_13.jpg"
     description2=
-        "Zabroušené konce."
- %}
-
- {% include image.html
-    url="img/guides/HND_14.jpg"
-    description=
-        "Na opačný konec přilepte dílky kopírující tvar konců, viz. obrázek."
-    url2="img/guides/HND_15.jpg"
-    description2=
-        "Výsledný díl."
+        "Zabroušené konce. Tento díl je hotov."
  %}
 
 {% include image.html
