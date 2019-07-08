@@ -105,19 +105,19 @@ hr {
     margin: 40px 0;
 }
 .sidenav {
-    height: 100%;
-    width: 300px;
-    position: sticky;
+    width: 238px;
+    position: fixed;
     top: 64px;
+    bottom: 0px;
     overflow-x: hidden;
     padding-top: 20px;
     background-color: #e9e9e9;
-    float: left;
 }
 
 .bgwrap {
     background: #e9e9e9;
     display: flex;
+    margin-left: 238px;
 }
 .sidenav a {
     padding: 6px 8px 6px 16px;
@@ -135,6 +135,9 @@ hr {
 @media only screen and (max-width: 993px) {
     .sidenav {
         display: none;
+    }
+    .bgwrap {
+        margin-left: 0px;
     }
 }
 #partners {
