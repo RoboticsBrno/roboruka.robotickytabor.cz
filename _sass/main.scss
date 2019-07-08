@@ -117,7 +117,6 @@ hr {
 .bgwrap {
     background: #e9e9e9;
     display: flex;
-    margin-left: 238px;
 }
 .sidenav a {
     padding: 6px 8px 6px 16px;
@@ -131,13 +130,16 @@ hr {
     margin-left: 0px;
     padding: 0px 0px;
     background: white;
+    margin-left: 238px;
+    width: calc(100% - 238px);
 }
 @media only screen and (max-width: 993px) {
     .sidenav {
         display: none;
     }
-    .bgwrap {
+    .main {
         margin-left: 0px;
+        width: 100%;
     }
 }
 #partners {
