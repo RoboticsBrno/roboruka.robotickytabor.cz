@@ -334,16 +334,16 @@ name: Ruka
  {% include image.html
     url="img/guides/HND_76.jpg"
     description=
-        "Na servo nasaďte plastový kruhový dílek s otvory."
+        "Na ozubený díl klepeta přišroubujte kovové kolečko serva pomocí 2 šroubů M3x8."
     url2="img/guides/HND_77.jpg"
     description2=
-        "Přišroubujte pomocí šroubů M3x12 se zápustnou hlavou čelist se třemi otvory."
+        "Vložte klepeto do mnohohranu serva přesně podle obrázku a utáhněte středovým šroubem M3x12."
  %}
 
  {% include image.html
     url="img/guides/HND_78.jpg"
     description=
-        "Na tělo náklepné matice nasaďte čelist s velkým otvorem. Pozor: díru je nutné před nasazením převrtat na průměr 5,9 - 6 mm!"
+        "Na tělo náklepné matice nasaďte čelist s velkým otvorem. Pozor: díru je nutné před nasazením převrtat na průměr 5,9 - 6 mm tak, aby klepeto chodilo zlehka!"
     url2="img/guides/HND_79.jpg"
     description2=
         "Pomocí šroubu M4x12 čelist k matici přišroubujte."
