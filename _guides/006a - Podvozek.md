@@ -62,18 +62,18 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Lože pro motor vlepte do paluby."
 %}
 
-{% include image.html 
-    url="img/guides/chasi_13.jpg" 
+{% include image.html
+    url="img/guides/chasi_13.jpg"
     description=
         "Výsledná podoba lože pro motor."
-    url2="img/guides/chasi_13a.jpg" 
+    url2="img/guides/chasi_13a.jpg"
     description2=
         "Po zaschnutí odklopte palubu. Najděte si díl BD1 a nalepte si jej do zadní části podvozku. Je třeba díl natlačit co nejvíc ven z robota."
-    
+
 %}
 
-{% include image.html 
-    url="/img/guides/chasi_14.jpg" 
+{% include image.html
+    url="/img/guides/chasi_14.jpg"
     description=
         "Nachystejte si díly LM7, LM9, LM10, LM11 a šroub s matkou M5. Do dílu LM10 vložte šroub a z druhé strany dotáhněte matici. Následně si vezměte díl LM11 a nalepte jej kolem matice, aby se matka nemohla točit."
 %}
@@ -214,13 +214,13 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Vložte střed do jedné poloviny kola, kterou poté potřete z jedné strany lepidlem."
     url2="img/guides/chasi_41.jpg"
     description2=
-        "Na stranu potřenou lepidlem přilepte druhou polovinu kola. Střed kola zalepte vteřinovým lepidlem."
+        "Na stranu potřenou lepidlem přilepte druhou polovinu kola. **Pevně stiskněte, zasvorkujte a nechte zaschnout!**"
 %}
 
 {% include image.html
     url="img/guides/chasi_42.jpg"
     description=
-        "Na kolo nasaďte jednu plastovou kružnici."
+        "Střed kola zalepte vteřinovým lepidlem a potom na kolo nasaďte jednu plastovou kružnici."
     url2="img/guides/chasi_43.jpg"
     description2=
         "Stejný postup proveďte na druhé straně. Oba díly slepte vteřinovým lepidlem, které nanesete do mezery mezi plastovými částmi. Počkejte až zaschne vteřinové lepidlo."
