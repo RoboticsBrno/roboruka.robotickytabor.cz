@@ -7,9 +7,6 @@ name: Ruka
     url="img/guides/HND_01.jpg"
     description=
         "Nachystejte si díly z dřevíčkových desek."
-    url2="img/guides/HND_02.jpg"
-    description2=
-        "Připravte si i překližkové díly B1, B2 a dva díly B3."
 %}
 
  {% include image.html
@@ -33,7 +30,22 @@ name: Ruka
  {% include image.html
     url="img/guides/HND_10.jpg"
     description=
-        "Předminulý krok zopakujeme i na druhé straně spodního dílu. Tentokrát kostku nepoužíváme. Pozicujeme vůči již umístěným obdélníkům s dírou."
+        "Předminulý krok zopakujte i na druhé straně spodního dílu. Tentokrát kostku nepoužívejte. Pozicujte vůči již umístěným obdélníkům s dírou."
+    url2="img/guides/HND_10a.jpg"
+    description2=
+        "Nachystejte si kabel serva 2 (nejdelší). Na ploché konektory nasuňte smršťovací bužírku a smršťte ji."
+ %}
+
+ {% include image.html
+    url="img/guides/"
+    description=
+        "Vybruste otvory spodního dílu do šířky tak, aby jimi prošly ploché konektory kabelu serva 2."
+ %}
+
+  {% include image.html
+    url="img/guides/"
+    description=
+        "Zasuňte kabel serva 2 do spodního dílu skrze 2 rozšířené otvory. Na orientaci kabelu nezáleží."
     url2="img/guides/HND_11.jpg"
     description2=
         "Přilepte i horní díl."
@@ -63,13 +75,13 @@ name: Ruka
         "Slepte je dle obrázku."
     url2="img/guides/HND_19.jpg"
     description2=
-        "Připravte si servo."
+        "Připravte si servo číslo 2 (z rozsahu ID 0-2)."
  %}
 
  {% include image.html
     url="img/guides/HND_20.jpg"
     description=
-        "Vložte jej do slepeného dílu stejně, jako na obrázku."
+        "Vložte jej do slepeného dílu stejně, jako na obrázku. V dalších krocích ponechejte servo na tomto místě. Díly v okolí serva domáčkněte až přímo na něj."
     url2="img/guides/HND_21.jpg"
     description2=
         "Pohled shora."
@@ -81,7 +93,7 @@ name: Ruka
         "Přilepte díl B3 jako na fotce."
     url2="img/guides/HND_23.jpg"
     description2=
-        "Na stranu s velkým kruhovým výřezem přilepte nižší bočnici. Je třeba dávat pozor na umístění bočnic!"
+        "Na stranu s velkým kruhovým výřezem na dřevěném dílku přilepte nižší bočnici. Je třeba dávat pozor na umístění bočnic!"
  %}
 
  {% include image.html
@@ -135,7 +147,7 @@ name: Ruka
         "Připravte si díly na stavbu horní části ruky."
     url2="img/guides/HND_35.jpg"
     description2=
-        "Slepte dlouhý díl s prostředním tak, aby byly na sebe kolmé."
+        "Slepte dlouhý díl s prostředním tak, aby byly na sebe kolmé. Pomožte si hliníkovou kostkou pro udržení přesného pravého úhlu."
  %}
 
  {% include image.html
@@ -150,7 +162,7 @@ name: Ruka
  {% include image.html
     url="img/guides/HND_38.jpg"
     description=
-        "Přilepte krátký díl. S pomocí šroubku si srovnejte otvory s dolním dílem ruky."
+        "Přilepte krátký díl. S pomocí šroubku si srovnejte otvory s dolním dílem ruky a opřením kompletu o desku stolu díl srovnejte."
     url2="img/guides/HND_39.jpg"
     description2=
         "Připravte si tyto dva díly."
@@ -171,7 +183,7 @@ name: Ruka
         "Připravte si díly pro připojení táhla."
     url2="img/guides/HND_43.jpg"
     description2=
-        "Nejdříve přilepte čtvereček se dvěma otvory. S pomocí šroubků si srovnejte otvory."
+        "Nejdříve přilepte čtvereček se dvěma otvory z vnější strany na dlouhý díl horní části ruky. S pomocí šroubků si srovnejte otvory."
  %}
 
  {% include image.html
@@ -252,7 +264,8 @@ name: Ruka
         "Šroubek vložte i do otvoru na druhé straně."
     url2="img/guides/HND_61.jpg"
     description2=
-        "Každý šroub opět zafixujte matičkami (ke každému dvě)."
+        "Každý šroub opět zafixujte matičkami (ke každému dvě). První matku vůči dřevu neutahujte, nechte prostor na pohyb ramene. Druhou matku dotáhněte vůči první matce (kontra), aby byly obě matky fixovány. Zkontrolujte, že se mohou dřevěné části ramene vůči sobě volně otáčet.
+"
  %}
 
  {% include image.html
@@ -267,7 +280,7 @@ name: Ruka
  {% include image.html
     url="img/guides/HND_64.jpg"
     description=
-        "Šroub zafixujte dvěma maticemi."
+        "Šroub zafixujte dvěma maticemi (kontra)."
     url2="img/guides/HND_65.jpg"
     description2=
         "Pohled shora."
@@ -276,10 +289,10 @@ name: Ruka
  {% include image.html
     url="img/guides/HND_66.jpg"
     description=
-        "Volný konec táhla připevněte šroubem ke správnému otvoru dílu TA2 a opět zafixujte dvěma maticemi."
+        "Volný konec dvojitého táhla připevněte šroubem ke správnému otvoru dílu TA2 a opět zafixujte dvěma maticemi."
     url2="img/guides/HND_67.jpg"
     description2=
-        "Ke zbývajícímu volnému otvoru na dílu TA2 připevněte stejným způsobem další táhlo."
+        "Ke zbývajícímu volnému otvoru na dílu TA2 připevněte stejným způsobem další dvojité táhlo."
  %}
 
  {% include image.html
@@ -297,7 +310,7 @@ name: Ruka
         "Vzniklý díl připevněte k horní části ruky."
     url2="img/guides/HND_71.jpg"
     description2=
-        "Dolní částí ruky protáhněte velkými otvory servokabel."
+        "Kabel serva 2 protáhněte dle obrázku a zapojte do libovolného konektoru serva."
  %}
 
  {% include image.html
