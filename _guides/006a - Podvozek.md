@@ -118,7 +118,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 {% include image.html
     url="img/guides/chasi_24a.jpg"
     description=
-        "Omotejte boční díly v jejich horní části (co nejvíce nahoře) elastickou nití přibližně 10x dokola a během omotávání nit napínejte. Pr uvázání začátku a konce nitě je možné použít otvory v držáku battery packu. Snažte se vést jednotlivé dráhy nitě co nejblíže u sebe. Zamotanou nit následně zalepíme lepidlem. Pozor: lepidlo se nesmí dostat k horní palubě!"
+        "Omotejte boční díly v jejich horní části (co nejvíce nahoře) elastickou nití přibližně 10x dokola a během omotávání nit napínejte. Pro uvázání začátku a konce nitě je možné použít otvory v držáku battery packu. Snažte se vést jednotlivé dráhy nitě co nejblíže u sebe. Zamotanou nit následně zalepíme lepidlem. Pozor: lepidlo se nesmí dostat k horní palubě!"
 %}
 
 {% include image.html
