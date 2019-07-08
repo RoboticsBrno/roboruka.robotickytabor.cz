@@ -5,6 +5,10 @@ name: RBControl
 
 Řídicí elektronika je navržena jako univerzální deska pro řízení různých robotických platforem. Pro získání funkční elektroniky na provoz Roboruky stačí osadit jen některé součástky.
 
+#### Chyby v této sekci
+
+- Osazování odporu R8 a R55 je v návodu nafoceno **špatně**. V návodu jsou odpory otočeny o 90 stupňů a nerespektují osazovací/informační potisky na desce, který jsou správně. Je proto potřeba při osazování těchto rezistorů dávat pozor a nejít slepě podle fotek.
+
 {% include image.html 
     url="img/guides/rbc_1.jpg" 
     description=
@@ -50,7 +54,9 @@ name: RBControl
 {% include image.html 
     url="img/guides/rbc_9.jpg" 
     description=
-        "Osadíme rezistor R18 a R55. Jejich hodnota je 2 MOhm. Na polaritě nezáleží." 
+        "Osadíme rezistor R18 a R55. Jejich hodnota je 2 MOhm. Na polaritě nezáleží.  
+
+        **Pozor:** Odpor R55 je na fotkách špatně osazen a jeho správná poloha je po otočení o 90 stupňů, tak jak znázorňují popisky na desce. Osaďte jej tedy podle popisků na desce." 
     url2="img/guides/rbc_10.jpg" 
     description2=
         "Osadíme rezistor R5. Jeho hodnota je 100 kOhm. Na polaritě nezáleží." 
@@ -62,7 +68,9 @@ name: RBControl
         "Osadíme rezistor R2. Jeho hodnota je 82 kOhm. Na polaritě nezáleží." 
     url2="img/guides/rbc_12.jpg" 
     description2=
-        "Osadíme rezistory R3, R8, R9, R10, R19 a R56. Jejich hodnota je 10 kOhm. Na polaritě nezáleží." 
+        "Osadíme rezistory R3, R8, R9, R10, R19 a R56. Jejich hodnota je 10 kOhm. Na polaritě nezáleží.  
+
+        **Pozor:** Odpor R8 je na fotkách špatně osazen a jeho správná poloha je po otočení o 90 stupňů, tak jak znázorňují popisky na desce. Osaďte jej tedy podle popisků na desce." 
 %}
 
 {% include image.html 
@@ -96,24 +104,6 @@ name: RBControl
     url="img/guides/rbc_19.jpg" 
     description=
         "Připájíme pinhead 1x3 podle obrázku. _Pozor, má rozteč pouze 2 mm oproti standardním 2.54 mm!_ Tento pinhead slouží pro připojení inteligentních serv LX-15D."
-    url2="img/guides/rbc_20.jpg" 
-    description2=
-        "Ke spínanému zdroji připájíme pinheady 1x4 90° dle obrázku. Dbejte, aby větší část pinheadů byla zapojena právě ve zdroji."  
-%}
-
-{% include image.html 
-    url="img/guides/rbc_21.jpg" 
-    description=
-        "Připájíme spínaný zdroj IM2 do desky. Osazená část musí směřovat dovnitř desky."
-    url2="img/guides/rbc_22.jpg" 
-    description2=
-        "Připájený spínaný zdroj." 
-%}
-
-{% include image.html 
-    url="img/guides/rbc_23.jpg" 
-    description=
-        "U spínacího zdroje ucvakneme přečnívající pinheady." 
     url2="img/guides/rbc_24.jpg" 
     description2=
         "Vezmeme si velkou diodu a ucvakneme jí nožičky dle obrázku." 
@@ -127,7 +117,6 @@ name: RBControl
     description2=
         "Správně připájená dioda k desce." 
 %}
-
 
 {% include image.html 
     url="img/guides/rbc_27.jpg" 
