@@ -107,7 +107,7 @@ name: Battery pack
         "Pod desku vložte konkétně tento dílek, který vidíte pod deskou (2mm překližka), která vám zbyla ze stavby."
     url2="img/guides/bat_24.jpg"
     description2=
-        "Vložte dutinky do otvorů dle obrázku. Dávejte pozor, aby hlubší otvory dutinek směřovaly ven z battery packu (dle obrázku dolů). Dutinky musí přesahovat skrz až na podložku. Tento krok zopakujte 8x."
+        "Vložte dutinky do otvorů dle obrázku. Dávejte pozor, aby hlubší otvory dutinek směřovaly ven z battery packu (dle obrázku dolů). Dutinky musí přesahovat skrz až na podložku. Tento krok zopakujte 8x.  _Ten, kdo tuto větu objevil dostane po nahlášení se u hlavního vedoucího bod._"
 %}
 
 {% include image.html
