@@ -42,6 +42,15 @@ name: První program
  %}
 
  {% include image.html
+    url="img/guides/first_prog_02a.png"
+    description=
+        "Všimněte si, že při psaní vám VSCode napovídá. Stačí napsat `rk` a už uvidíte všechny metody, které můžete používat na ovládání Roboruky."
+    url2="img/guides/first_prog_02b.png"
+    description2=
+        "Když na nějakou metodu najedete myší, VSCode vám také ukáže, co daná metoda dělá. Všechny tyto informace **[najdete také v dokumentaci](https://roboticsbrno.github.io/RB3201-RBControl-Roboruka-library/modules.html)**."
+ %}
+
+ {% include image.html
     url="img/guides/first_prog_03.png"
     description=
         "Najděte si funkci `void loop()`. Tato funkce je volána pořád dokola, dokud je Roboruka zapnutá."
