@@ -18,22 +18,22 @@ name: Ruka
         "Začneme slepením dolního dílu ruky. Připravíme si k tomu potřebné dílky."
     url2="img/guides/HND_04a.jpg"
     description2=
-        "V prvním části kroku nasadíme na bočnici zakulacené díly potřené lepidlem. Zatím nedomačkáváme. K přesnému umístění použijeme šrouby. V druhé části nasadíme spodní díl mezi zakulacené díly. V třetí části posuneme spodní díl co nejvíce dolů, což dále zpřesní polohu zakulacených dílů před zaschnutím. Zakulacené díly domáčkneme svorkami."
+        "V prvním části kroku nasadíme na bočnici zakulacené díly potřené lepidlem. Zatím nedomačkáváme. K přesnému umístění použijeme šrouby. V druhé části nasadíme spodní díl mezi zakulacené díly. V třetí části posuneme spodní díl co nejvíce dolů, což dále zpřesní polohu zakulacených dílů před zaschnutím. Zakulacené díly domáčkneme svorkami. Před zaschnutím odstraníme spodní díl."
 %}
 
 {% include image.html
-    url="img/guides/HND_08.jpg"
+    url="img/guides/HND_09.jpg"
     description=
-        "Připravte si bočnici, spodní díl a obdélník s kruhovou otvorem ve středu."
-    url2="img/guides/HND_09.jpg"
+        "Bočnici s obdélníkem přilepte ke spodnímu dílu tak, aby na sebe byly všechny díly kolmé. Použijte jako pomůcku červenou hliníkovou kostku."
+    url2="img/guides/HND_09a.jpg"
     description2=
-        "Bočnici s obdélníkem přilepte ke spodnímu dílu tak, aby na sebe byly všechny díly kolmé."
+        "Obdélníkové díly s dírou přilepte rovněž kolmo podle obrázku."
  %}
 
  {% include image.html
     url="img/guides/HND_10.jpg"
     description=
-        "Totéž zopakujeme i na druhé straně spodního dílu."
+        "Předminulý krok zopakujeme i na druhé straně spodního dílu. Tentokrát kostku nepoužíváme. Pozicujeme vůči již umístěným obdélníkům s dírou."
     url2="img/guides/HND_11.jpg"
     description2=
         "Přilepte i horní díl."
@@ -42,7 +42,7 @@ name: Ruka
   {% include image.html
     url="img/guides/HND_12.jpg"
     description=
-        "Ostré hrany vzniklé na koncích dílu zbruste do kulata."
+        "Ostré hrany na koncích dílu a případné nepřesnosti zbruste lehce do kulata."
     url2="img/guides/HND_13.jpg"
     description2=
         "Zabroušené konce. Tento díl je hotov."
@@ -144,7 +144,7 @@ name: Ruka
         "Připevněte dolní díl ruky šroubem."
     url2="img/guides/HND_37.jpg"
     description2=
-        "Naneste lepidlo tak, jak je na obrázku."
+        "Naneste lepidlo tak, jak je na obrázku. Pohněte spodním dílem podél osy šroubu až nahoru."
  %}
 
  {% include image.html
