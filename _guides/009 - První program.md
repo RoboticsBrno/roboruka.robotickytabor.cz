@@ -10,7 +10,7 @@ name: První program
         "Stáhněte si [ZIP se souborem příkladů pro Roboruku](https://github.com/RoboticsBrno/roboruka-examples/archive/stable.zip)
         a někam ho rozbalte tak, aby jste ho zase našli.<br/><br/>
         _Pokud víte, co je to Git a umíte ho používat, můžete místo toho [naklonovat náš repozitář](https://github.com/RoboticsBrno/roboruka-examples)._"
-    url2="img/guides/demo_prog_01.png"
+    url2="img/guides/first_prog_00.png"
     description2=
         "Najděte si v rozbaleném obsahu složku `_PROJECT-TEMPLATE`. Toto je šablona, na které budeme stavět
         všechny programy pro Roboruku. Celou ji zkopírujte někam jinam a pojmenujte třeba `PrvniProgram`.
