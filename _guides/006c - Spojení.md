@@ -25,7 +25,7 @@ name: Stavba klece
         "Stejný postup opakujeme i u druhé sady. Dostaneme tedy dva obdélníky."
     url2="img/guides/klec-05.jpg" 
     description2=
-        "Nyní potřebujeme jedno 180mm dřívko tím z vnější strany spojíme na jedné straně oba obdélníky." 
+        "Nyní potřebujeme jedno 184mm dřívko tím z vnější strany spojíme na jedné straně oba obdélníky." 
  %}
   {% include image.html 
     url="img/guides/klec-06.jpg" 
@@ -38,8 +38,88 @@ name: Stavba klece
   {% include image.html 
     url="img/guides/klec-08.jpg" 
     description=
-        "Poté doplníme konstrukci dalšími dvěma 180mm dřívky, které nalepíme diagonálně od toho prvního."
+        "Poté doplníme konstrukci dalšími dvěma 184mm dřívky."
     url2="img/guides/klec-09.jpg" 
     description2=
-        "Tam k němu přidáme i to poslední, akorát na opačné straně." 
+    "První nalepíme diagonálně od toho prvního."
  %}
+
+{% include image.html 
+    url="img/guides/klec-10.jpg" 
+    description=
+        "Tam k němu přidáme i to poslední, akorát na opačné straně." 
+    url2="img/guides/klec-11.jpg" 
+    description2=
+        "Aby měla klec čas zaschnou přesuneme se na chvíli dále. Nachystáme jedno dřívko o délce 82,8mm a jedno dřívko o délce 260mm. Budeme také potřebovat nějaká zbytek 3mm překližky na podložení." 
+%}
+
+{% include image.html 
+    url="img/guides/klec-12.jpg" 
+    description=
+        "Tyto dvě dřívka slepíme dohromady. Vypomůžeme si při tom Zbytkem překližky, abychom dosáhli 3mm odsazení, to znamená, že kratší dřívko bude začínat o 3mm dříve." 
+    url2="img/guides/klec-13.jpg" 
+    description2=
+        "Potom si nachystáme podobnou dvojici, ale dřívko 82,8mm nahradíme zkoseným dřívkem." 
+%}
+
+{% include image.html 
+    url="img/guides/klec-14.jpg" 
+    description=
+        "Ty slepíme v podobném stylu, opět bude kratší dřívko o 3mm předsazené. Navíc je potřeba umístit zkosení tak, aby byla delší strana blíže u delšího drřívka." 
+    url2="img/guides/klec-15.jpg" 
+    description2=
+        "Teď si nachystáme dva díly, které jsme v předchozích krocích slepili a  k tomu přidáme ještě díl Z1." 
+%}
+
+{% include image.html 
+    url="img/guides/klec-16.jpg" 
+    description=
+        "Slepíme dohromady díl Z1 a díl neobsahující zkosení. Oba díly mají v sobě zuby, ty do sebe zaklesneme jak je ukázáno na obrázku. Je potřeba udržet pravý úhel mezi oběma díly." 
+    url2="img/guides/klec-17.jpg" 
+    description2=
+        "Nyní vložíme dřívko o délce 144mm a vložíme je do zářezů v dílech VZ1, ty pak vlepíme do paluby. Pozor dřívko se musí moct posouvat doleva a doprava." 
+%}
+
+{% include image.html 
+    url="img/guides/klec-18.jpg" 
+    description=
+        "Teď nalepíme celou klec na palubu. Natřeme lepidlem spodní stranu klece (ta na které jsou dvě dřívka 68mm a pouze jedno dřívko 184mm). Vnitřní strana 184mm dřívka se přitom bude dotýkat zadku dílů VZ1 a bude rovnoběžné s dřívkem 144mm. Boky klece potom budou lícovat s dírami pro kola." 
+    url2="img/guides/klec-19.jpg" 
+    description2=
+        "Teď vezmeme L-kový díl obsahující díl Z1 a vložíme jej (Nelepíme!) do paluby." 
+%}
+{% include image.html 
+    url="img/guides/klec-20.jpg" 
+    description=
+        "K tomuto L-kovému dílu nyní přilepíme díl obsahující plné dřívko a dřívko se zkosením, palubu při tom využíváme k udržení správné vzájemné polohy obou dílů. Dbáme při tom, aby nahoře dřívka seděli(jako na obrázku, ale lépe). Počkáme až to zaschne." 
+    url2="img/guides/klec-21.jpg" 
+    description2=
+        "Takhle by to mělo vypadat v dolní části." 
+%}
+
+{% include image.html 
+    url="img/guides/klec-22.jpg" 
+    description=
+        "Takhle vypadá správně slepený díl po zaschnutí a vyndání z  paluby." 
+    url2="img/guides/klec-23.jpg" 
+    description2=
+        "Nyní si nachstáme palubu s klecí a díl VZ2." 
+%}
+
+{% include image.html 
+    url="img/guides/klec-24.jpg" 
+    description=
+        "Díl VZ2 nalepíme nápisem dolů, je potřeba zkontrolovat, aby přední část lícovala s dřívkem. Opět necháme zaschnout." 
+    url2="img/guides/klec-25.jpg" 
+    description2=
+        "Poté sy nachystáme díly na obrázku. To jest paluba s klecí a záda." 
+%}
+
+{% include image.html 
+    url="img/guides/klec-26.jpg" 
+    description=
+        "Nyní přilepíme záda do paluby a nahoře do dílu VZ2." 
+    url2="img/guides/klec-27.jpg" 
+    description2=
+        "Je potřeba dole zkontrolovat zprávné otočení." 
+%}
