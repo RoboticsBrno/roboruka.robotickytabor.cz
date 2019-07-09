@@ -67,10 +67,14 @@ name: RBControl
 {% include image.html
     url="img/guides/rbc_11.jpg"
     description=
-        "Osadíme rezistor R2. Jeho hodnota je 82 kOhm. Na polaritě nezáleží."
+        "Osadíme rezistor R2. Jeho hodnota je 82 kOhm. Na polaritě nezáleží.
+
+_Poznámka:_ V rámci desek na robotickém táboře je místo odporů **R2** a **R3** osazen trimr a není tedy potřeba tyto odpory osazovat."
     url2="img/guides/rbc_12.jpg"
     description2=
         "Osadíme rezistory R3, R8, R9, R10, R19 a R56. Jejich hodnota je 10 kOhm. Na polaritě nezáleží.
+
+_Poznámka:_ V rámci desek na robotickém táboře je místo odporů **R2** a **R3** osazen trimr a není tedy potřeba tyto odpory osazovat.
 
 <div class=\"alert\">Pozor: Odpor R8 je na fotkách špatně osazen a jeho správná poloha je po otočení o 90 stupňů, tak jak znázorňují popisky na desce. Osaďte jej tedy podle popisků na desce.</div>"
 %}
