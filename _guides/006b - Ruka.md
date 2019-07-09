@@ -237,13 +237,13 @@ name: Ruka
         "S pomocí šroubků připevněte držák serva k hornímu dílu ruky."
     url2="img/guides/HND_55.jpg"
     description2=
-        "Šroub zafixujte DVĚMA maticemi zašroubovanými za sebou."
+        "Na přidané šrouby našroubujte matice. Matice nedotahujte, aby se mohly části ruky vůči sobě otáčet."
  %}
 
   {% include image.html
     url="img/guides/HND_56.jpg"
     description=
-        "Stejným způsobem zafixujte i šroub na druhé straně."
+        "Ke každé matce našroubujte další matku a dotáhněte vůči původní matce (kontra). K tomu použijte dvoje kleště. Tímto jsou matice fixovány. Ověřte, že se mohou části ruky vůči sobě volně otáčet. (S výhodou je zde možné použít jednu samojistnou matku místo 2 kontramatek.)"
     url2="img/guides/HND_57.jpg"
     description2=
         "Připravte si horní a dolní část ruky a díl TA2 s přilepenou kruhovou podložkou."
