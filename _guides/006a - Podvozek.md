@@ -265,9 +265,9 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 {% include image.html
     url="img/guides/chasi_50b.jpg"
     description=
-        "Částečně vyšroubujte oba 2 šrouby M4 z boků podvozku vyznačené šipkami. Nyní kola s motory vložte a zasuňte do podvozku. Pokud se motor s dřevěnou vložkou nevejdou do lože, je třeba zaříznout smršťovací bužírku kolem motoru."
+        "Částečně vyšroubujte oba 2 šrouby M4 z boků podvozku vyznačené šipkami. Nyní kola s motory vložte a zasuňte do podvozku. Motor s delšími kabely patří nalevo ve směru jízdy (nalevo na obrázku). Pokud se motor s dřevěnou vložkou nevejdou do lože, je třeba zaříznout smršťovací bužírku kolem motoru."
     url2="img/guides/chasi_51.jpg"
     description2=
-        "Finální poloha zasunutých motorů. Nyní opět zašroubujeme a dotáhneme oba šrouby M4 z boků podvozku."
+        "Finální poloha zasunutých motorů. Nyní opět zašroubujeme a dotáhneme oba šrouby M4 z boků podvozku. Zkontrolujeme delší kabely na levém motoru."
 
 %}
