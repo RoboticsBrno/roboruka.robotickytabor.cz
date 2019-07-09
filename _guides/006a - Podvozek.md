@@ -269,4 +269,5 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
     url2="img/guides/chasi_51.jpg"
     description2=
         "Finální poloha zasunutých motorů. Nyní opět zašroubujeme a dotáhneme oba šrouby M4 z boků podvozku."
+
 %}
