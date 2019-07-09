@@ -75,16 +75,16 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 {% include image.html
     url="/img/guides/chasi_14.jpg"
     description=
-        "Nachystejte si díly LM7, LM9, LM10, LM11 a šroub s matkou M5. Do dílu LM10 vložte šroub a z druhé strany dotáhněte matici. Následně si vezměte díl LM11 a nalepte jej kolem matice, aby se matka nemohla točit."
+        "Nachystejte si díly LM7, LM9, LM10, LM11 a šroub s matkou M5. Do dílu LM10 vložte šroub a z druhé strany dotáhněte matici. Následně si vezměte díl LM11 a nalepte jej kolem matice, aby se matka nemohla točit. Tento díl vyrobte 2x."
 %}
 
 {% include image.html
     url="img/guides/chasi_15.jpg"
     description=
-        "Nyní vlepte do dílu LM7 díly LM9."
+        "Nyní vlepte do dílu LM7 díly LM9. Tento díl vyrobte 2x."
     url2="/img/guides/chasi_16.jpg"
     description2=
-        "Předchozí 2 části slepte k sobě dle obrázku."
+        "Předchozí 2 části slepte k sobě dle obrázku. Zopakujte pro druhou adu dílů. Budete mít 2 výsledné díly jako na obrázku."
 %}
 
 {% include image.html
