@@ -257,7 +257,16 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
     url="img/guides/chasi_50.jpg"
     description=
         "Totéž proveďte i s druhou dvojicí kolo - motor."
+    url2="img/guides/chasi_50a.jpg"
+    description2=
+        "Na zadní části motorů nasaďte dřevěné vložky."
+%}
+
+{% include image.html
+    url="img/guides/chasi_50b.jpg"
+    description=
+        "Nyní tato kola s motory vložte a zasuňte do podvozku. Pokud se motor s dřevěnou vložkou nevejdou do lože, je třeba zaříznout smršťovací bužírku kolem motoru."
     url2="img/guides/chasi_51.jpg"
     description2=
-        "Nyní tyto kola s motory vložte do podvozku."
+        "Finální poloha zasunutých motorů."
 %}
