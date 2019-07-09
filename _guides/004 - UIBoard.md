@@ -33,7 +33,7 @@ name: UIBoard
       "K diodám osadíme ochranná odpory. Velikost odporu je 1,5 kOhm. Na polaritě nezáleží."
    url2="img/guides/UIB_6.jpg"
    description2=
-      "Nyní je potřeba napájet dvouřadý pinheadový konektor na plošky u kraje desky. Zapájejte obě řady pinheadů k ploškám na desce."
+      "Nyní je potřeba napájet dvouřadý pinheadový konektor délky 15 pinů na plošky u kraje desky. Zapájejte obě řady pinheadů k ploškám na desce."
 %}
 
 {% include image.html
