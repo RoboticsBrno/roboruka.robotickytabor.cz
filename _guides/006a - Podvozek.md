@@ -84,7 +84,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Nyní vlepte do dílu LM7 díly LM9. Tento díl vyrobte 2x."
     url2="/img/guides/chasi_16.jpg"
     description2=
-        "Předchozí 2 části slepte k sobě dle obrázku. Zopakujte pro druhou adu dílů. Budete mít 2 výsledné díly jako na obrázku."
+        "Předchozí 2 části slepte k sobě dle obrázku. Zopakujte pro druhou sadu dílů. Budete mít 2 výsledné díly jako na obrázku."
 %}
 
 {% include image.html

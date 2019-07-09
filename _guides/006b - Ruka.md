@@ -363,6 +363,12 @@ name: Ruka
     description2=
         "Všechny díry, do kterých přijde přišroubovat servo je třeba zahloubit jako na obrázku."
  %}
+ {% include image.html
+    url="img/guides/cisla_serv.jpg"
+    description=
+        "Serva na ruce mají tato čísla."
+
+ %}
 
 {% include image.html
     url="img/guides/HND_83.jpg"
