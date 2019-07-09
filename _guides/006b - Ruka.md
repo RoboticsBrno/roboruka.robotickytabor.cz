@@ -341,17 +341,20 @@ name: Ruka
  %}
 
  {% include image.html
-    url="img/guides/HND_78.jpg"
+    url="img/guides/HND_78a.jpg"
     description=
-        "Na tělo náklepné matice nasaďte čelist s velkým otvorem. Pozor: díru je nutné před nasazením převrtat na průměr 5,9 - 6 mm tak, aby klepeto chodilo zlehka!"
-    url2="img/guides/HND_79.jpg"
+        "U klepeta s velkým otvorem zvětšete jeho velkou díru v plastové části pilníkem. Vybruste akorát tak, aby bylo možné klepeto nasadit dle následujícího kroku a mohlo se volně otáčet."
+    url2="img/guides/HND_78.jpg"
     description2=
-        "Pomocí šroubu M4x12 čelist k matici přišroubujte."
+        "Na tělo náklepné matice nasaďte čelist s velkým otvorem."
  %}
 
  {% include image.html
-    url="img/guides/HND_80.jpg"
+    url="img/guides/HND_79.jpg"
     description=
+        "Pomocí šroubu M4x12 čelist k matici přišroubujte."
+    url2="img/guides/HND_80.jpg"
+    description2=
         "Hotová ruka"
  %}
 
