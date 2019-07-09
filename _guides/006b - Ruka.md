@@ -334,7 +334,7 @@ name: Ruka
  {% include image.html
     url="img/guides/HND_76.jpg"
     description=
-        "Na ozubený díl klepeta přišroubujte kovové kolečko serva pomocí 2 šroubů M3x8."
+        "Na ozubený díl klepeta přišroubujte kovové kolečko serva pomocí 2 šroubů M3x10."
     url2="img/guides/HND_77.jpg"
     description2=
         "Vložte klepeto do mnohohranu serva přesně podle obrázku a utáhněte středovým šroubem M3x12."
