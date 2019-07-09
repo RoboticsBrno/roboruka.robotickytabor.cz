@@ -6,12 +6,14 @@ name: Stavba klece
 {% include image.html 
     url="img/guides/klec-00.jpg" 
     description=
-        "Pro sestavení klece kolem roboruky budeme potřebovat: 4 dřívka o délce 64mm, 2 dřívka o délce 68mm, 1 dřívko o délce 82,8mm, 1 dřívko o délce 144mm, 3 dřívka o délce 184mm, jedno dřívko se zkosením, jehož delší strana má 203mm, dvě dřívka v plné délce 261mm, čtyři kusy slepených dřívek do L a dva díly VZ1. Dejte si pozor na přesné délky dřívek, zvláště u krátkých! U všech dřívek zabruste otřepy, je to důležité."
+        "Pro sestavení klece kolem roboruky budeme potřebovat: 4 dřívka o délce 64mm, 2 dřívka o délce 68mm, 1 dřívko o délce 82,8mm, 1 dřívko o délce 144mm, 3 dřívka o délce 184mm, jedno dřívko se zkosením, jehož delší strana má 203mm, dvě dřívka v plné délce 261mm, čtyři kusy slepených dřívek do L a dva díly VZ1.
+
+<div class=\"alert\">Pozor na přesné délky dřívek, zvláště u krátkých! U všech dřívek zabruste otřepy, je to důležité.</div>"
  %}
  {% include image.html 
     url="img/guides/klec-02.jpg" 
     description=
-        "Vezmeme dva díly tvaru L a 2 dřívka o délce 64mm a slepíme je tak, aby tvořily obdélník jako na pravo na obrázku. Na otočení záleží! Viz další obrázek."
+        "Vezmeme dva díly tvaru L a 2 dřívka o délce 64mm a slepíme je tak, aby tvořily obdélník jako na vpravo na obrázku. Na otočení záleží! Viz další obrázek."
     url2="img/guides/klec-03.jpg" 
     description2=
         "Dřívka je potřeba nalepit na kratší stranu zevnitř!" 
@@ -71,10 +73,12 @@ name: Stavba klece
 {% include image.html 
     url="img/guides/klec-16.jpg" 
     description=
-        "Slepíme dohromady díl Z1 a díl neobsahující zkosení. Oba díly mají v sobě zuby, ty do sebe zaklesneme jak je ukázáno na obrázku. Je potřeba udržet pravý úhel mezi oběma díly. Pomožte si hliníkovou kostkou pro udržení přesného pravého úhlu.." 
+        "Slepíme dohromady díl Z1 a díl neobsahující zkosení. Oba díly mají v sobě zuby, ty do sebe zaklesneme jak je ukázáno na obrázku. Je potřeba udržet pravý úhel mezi oběma díly. Pomozte si hliníkovou kostkou pro udržení přesného pravého úhlu.." 
     url2="img/guides/klec-17.jpg" 
     description2=
-        "Nyní vložíme dřívko o délce 144mm do zářezů v dílech VZ1, ty samotné pak vlepíme do paluby. Pozor, dřívko musí být možné posouvat doleva a doprava." 
+        "Nyní vložíme dřívko o délce 144mm do zářezů v dílech VZ1, ty samotné pak vlepíme do paluby.
+
+<div class=\"alert\">Pozor: Dřívko musí být možné posouvat doleva a doprava.</div>" 
 %}
 
 {% include image.html 

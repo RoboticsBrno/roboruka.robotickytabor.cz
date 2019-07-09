@@ -12,7 +12,9 @@ name: Ruka
  {% include image.html
     url="img/guides/HND_03.jpg"
     description=
-        "Začneme slepením dolního dílu ruky. Připravíme si k tomu potřebné dílky. Pozor, dva nejmenší díly dole uprostřed jsou ty z předchozího obrázku vlevo dole. Jsou větší než jim podobné menší kusy z desky s logem Robotárny."
+        "Začneme slepením dolního dílu ruky. Připravíme si k tomu potřebné dílky.
+
+<div class=\"alert\">Pozor: Dva nejmenší díly dole uprostřed jsou ty z předchozího obrázku vlevo dole. Jsou větší než jim podobné menší kusy z desky s logem Robotárny.</div>"
     url2="img/guides/HND_04a.jpg"
     description2=
         "V prvním části kroku nasadíme na bočnici zakulacené díly potřené lepidlem. Zatím nedomačkáváme. K přesnému umístění použijeme šrouby. V druhé části nasadíme spodní díl mezi zakulacené díly. V třetí části posuneme spodní díl co nejvíce dolů, což dále zpřesní polohu zakulacených dílů před zaschnutím. Zakulacené díly domáčkneme svorkami. Před zaschnutím odstraníme spodní díl."
@@ -93,7 +95,9 @@ name: Ruka
         "Přilepte díl B3 jako na fotce."
     url2="img/guides/HND_23.jpg"
     description2=
-        "Na stranu s velkým kruhovým výřezem na dřevěném dílku přilepte nižší bočnici. Je třeba dávat pozor na umístění bočnic!"
+        "Na stranu s velkým kruhovým výřezem na dřevěném dílku přilepte nižší bočnici.
+
+<div class=\"alert\">Je třeba dávat pozor na umístění bočnic!</div>"
  %}
 
  {% include image.html

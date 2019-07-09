@@ -27,13 +27,13 @@ name: Spojeni roboruky a zbytku robota
         "Nyní vezmeme roboruku, která musí být nastavena do nulové polohy, jinak nepůjde  namontovat."
     url2="img/guides/spoj_05.jpg" 
     description2=
-        "Zasuneme servo číslo číslo jedna do kastlíčku blíže okraji a dorazíme k vnitřímu okraji, pozor na protažený servo kabel!" 
+        "Zasuneme servo číslo číslo jedna do kastlíčku blíže okraji a dorazíme k vnitřímu okraji, **pozor** na protažený servo kabel!" 
  %}
  
 {% include image.html 
     url="img/guides/spoj_06.jpg" 
     description=
-        "Zasuneme servo číslo 0 do prostředního kastlíčku, dorazíme co nejdál od serva 1, pozor na protažený kabel."
+        "Zasuneme servo číslo 0 do prostředního kastlíčku, dorazíme co nejdál od serva 1, **pozor** na protažený kabel."
     url2="img/guides/spoj_07.jpg" 
     description2=
         "Nyní je potřeba přichit neukotvená dřívka z ruky, vycházející z dílu TA2. Přichitíme je šroubkem, tak jak je na obrázku, poté dotáhneme kontramaticí, je potřeba zkontrolovat, že se mohou volně otáčet." 
