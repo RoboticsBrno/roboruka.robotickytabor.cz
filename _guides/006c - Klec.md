@@ -77,33 +77,33 @@ name: Stavba klece
         "Slepíme dohromady díl Z1 a díl neobsahující zkosení. Oba díly mají v sobě zuby, ty do sebe zaklesneme jak je ukázáno na obrázku. Je potřeba udržet pravý úhel mezi oběma díly. Pomožte si hliníkovou kostkou pro udržení přesného pravého úhlu.." 
     url2="img/guides/klec-17.jpg" 
     description2=
-        "Nyní vložíme dřívko o délce 144mm do zářezů v dílech VZ1, ty pak vlepíme do paluby. Pozor dřívko musí být možné posouvat doleva a doprava." 
+        "Nyní vložíme dřívko o délce 144mm do zářezů v dílech VZ1, ty samotné pak vlepíme do paluby. Pozor, dřívko musí být možné posouvat doleva a doprava." 
 %}
 
 {% include image.html 
     url="img/guides/klec-18.jpg" 
     description=
-        "Teď nalepíme celou klec na palubu. Natřeme lepidlem spodní stranu klece (ta na které jsou dvě dřívka 68mm a pouze jedno dřívko 184mm). Vnitřní strana 184mm dřívka se přitom bude dotýkat zadku dílů VZ1 a bude rovnoběžné s dřívkem 144mm. Boky klece potom budou lícovat s dírami pro kola." 
+        "Teď nalepíme celou klec na palubu. Natřeme lepidlem spodní stranu klece (ta na které jsou dvě dřívka 68mm a pouze jedno dřívko 184mm). Vnitřní strana 184mm dřívka se přitom bude dotýkat zadní části dílů VZ1 a bude rovnoběžně s dřívkem 144mm. Boky klece musí lícovat s dírami pro kola." 
     url2="img/guides/klec-19.jpg" 
     description2=
-        "Teď vezmeme L-kový díl obsahující díl Z1 a vložíme jej (Nelepíme!) do paluby." 
+        "Teď vezmeme L díl obsahující díl Z1 a vložíme jej (nelepíme!) do paluby." 
 %}
 {% include image.html 
     url="img/guides/klec-20.jpg" 
     description=
-        "K tomuto L-kovému dílu nyní přilepíme díl obsahující plné dřívko a dřívko se zkosením, palubu při tom využíváme k udržení správné vzájemné polohy obou dílů. Dbáme při tom, aby nahoře dřívka seděli(jako na obrázku, ale lépe). Počkáme až to zaschne." 
+        "K tomuto L dílu nyní přilepíme díl obsahující plné dřívko a dřívko se zkosením. Palubu při tom využíváme k udržení správné vzájemné polohy obou dílů. Dbáme, aby nahoře dřívka seděla(jako na obrázku, ale lépe). Počkáme do zaschnutí lepidla." 
     url2="img/guides/klec-21.jpg" 
     description2=
-        "Takhle by to mělo vypadat v dolní části." 
+        "Takto by měla vypadat dolní část." 
 %}
 
 {% include image.html 
     url="img/guides/klec-22.jpg" 
     description=
-        "Takhle vypadá správně slepený díl po zaschnutí a vyndání z  paluby." 
+        "Takhle vypadá správně slepený díl po zaschnutí a vyjmutí z paluby." 
     url2="img/guides/klec-23.jpg" 
     description2=
-        "Nyní si nachstáme palubu s klecí a díl VZ2." 
+        "Nyní si nachystáme palubu s klecí a díl VZ2."
 %}
 
 {% include image.html 
@@ -112,7 +112,7 @@ name: Stavba klece
         "Díl VZ2 nalepíme nápisem dolů, je potřeba zkontrolovat, aby přední část lícovala s dřívkem. Opět necháme zaschnout." 
     url2="img/guides/klec-25.jpg" 
     description2=
-        "Poté sy nachystáme díly na obrázku. To jest paluba s klecí a záda." 
+        "Poté si nachystáme palubu s klecí a záda." 
 %}
 
 {% include image.html 
@@ -121,5 +121,5 @@ name: Stavba klece
         "Nyní přilepíme záda do paluby a nahoře do dílu VZ2." 
     url2="img/guides/klec-27.jpg" 
     description2=
-        "Je potřeba dole zkontrolovat zprávné otočení." 
+        "Je potřeba dole zkontrolovat správné otočení." 
 %}
