@@ -9,11 +9,7 @@ name: Stavba klece
         "Pro sestavení klece kolem roboruky budeme potřebovat: 4 dřívka o délce 64mm, 2 dřívka o délce 68mm, 1 dřívko o délce 82,8mm, 1 dřívko o délce 144mm, 3 dřívka o délce 184mm, jedno dřívko se zkosením, jehož delší strana má 203mm a dvě dřívka v plné délce 261mm. Na délky dřívek je potřeba dát si pozor, neboť mohou bez měření vypadat stejně. Na obrázku jsou dřívka 64 a 68mm."
     url2="img/guides/klec-01.jpg" 
     description2=
-<<<<<<< HEAD
-        "Dále budete potřebovat 4 kusy do L slepených dřívek, 2 kusy dílu VZ1, 4 kusy 64mm dřívek, 4 kusy 68mm dřívek, 1 kus 184mm dřívka."
-=======
-        "Dále budete potřebovat 4 skupiny do L slepených dřívek a díl VZ1(2x). U všech dřívek je potřeba zabrousit otřepy!" 
->>>>>>> 8202304e718192edead2a24d0a6fad1a6dfb4375
+        "Dále budete potřebovat 4 kusy do L slepených dřívek, 2 kusy dílu VZ1, 4 kusy 64mm dřívek, 4 kusy 68mm dřívek, 1 kus 184mm dřívka. U všech dřívek je potřeba zabrousit otřepy!"
  %}
  {% include image.html 
     url="img/guides/klec-02.jpg" 
