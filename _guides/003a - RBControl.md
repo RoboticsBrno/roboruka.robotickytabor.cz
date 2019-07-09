@@ -5,9 +5,11 @@ name: RBControl
 
 Řídicí elektronika je navržena jako univerzální deska pro řízení různých robotických platforem. Pro získání funkční elektroniky na provoz Roboruky stačí osadit jen některé součástky.
 
-#### Chyby v této sekci
 
-- Osazování odporu R8 a R55 je v návodu nafoceno **špatně**. V návodu jsou odpory otočeny o 90 stupňů a nerespektují osazovací/informační potisky na desce, který jsou správně. Je proto potřeba při osazování těchto rezistorů dávat pozor a nejít slepě podle fotek.
+<div class="alert">
+    <h5>Chyby v této sekci</h5>
+    <p>Osazování odporu R8 a R55 je v návodu nafoceno špatně. V návodu jsou odpory otočeny o 90 stupňů a nerespektují osazovací/informační potisky na desce, který jsou správně. Je proto potřeba při osazování těchto rezistorů dávat pozor a nejít slepě podle fotek.</p>
+</div>
 
 {% include image.html
     url="img/guides/rbc_1.jpg"
@@ -56,7 +58,7 @@ name: RBControl
     description=
         "Osadíme rezistor R18 a R55. Jejich hodnota je 2 MOhm. Na polaritě nezáleží.
 
-**Pozor:** Odpor R55 je na fotkách špatně osazen a jeho správná poloha je po otočení o 90 stupňů, tak jak znázorňují popisky na desce. Osaďte jej tedy podle popisků na desce."
+<div class=\"alert\">Pozor: Odpor R55 je na fotkách špatně osazen a jeho správná poloha je po otočení o 90 stupňů, tak jak znázorňují popisky na desce. Osaďte jej tedy podle popisků na desce.</div>"
     url2="img/guides/rbc_10.jpg"
     description2=
         "Osadíme rezistor R5. Jeho hodnota je 100 kOhm. Na polaritě nezáleží."
@@ -70,7 +72,7 @@ name: RBControl
     description2=
         "Osadíme rezistory R3, R8, R9, R10, R19 a R56. Jejich hodnota je 10 kOhm. Na polaritě nezáleží.
 
-**Pozor:** Odpor R8 je na fotkách špatně osazen a jeho správná poloha je po otočení o 90 stupňů, tak jak znázorňují popisky na desce. Osaďte jej tedy podle popisků na desce."
+<div class=\"alert\">Pozor: Odpor R8 je na fotkách špatně osazen a jeho správná poloha je po otočení o 90 stupňů, tak jak znázorňují popisky na desce. Osaďte jej tedy podle popisků na desce.</div>"
 %}
 
 {% include image.html

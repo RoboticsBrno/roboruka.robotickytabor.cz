@@ -15,4 +15,3 @@ Následující návod tě provede krok za krokem stavbou Roboruky. Celá stavba 
 ----
 {% endfor %}
 
- 
