@@ -112,7 +112,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
     url2="img/guides/chasi_24.jpg"
     description2=
         "Nyní si najděte všechny díly OD1 a jen je na sucho bez lepidla vložte do podvozku. Vkládejte popisky směrem ven. Proč? Viz
-        [Pro zvídavé](#Pro zvídavé). Následně to celé přiklopte palubou a přitáhněte palubu šrouby. Narovnejte si dřívka tak, aby byla všechna rovně."
+        [Pro zvídavé](#Pro zvídavé). Následně to celé přiklopte palubou a přitáhněte palubu šrouby M4x45. Je vhodné zahloubit díry pro hlavičky šroubů. Narovnejte si dřívka tak, aby byla všechna rovně."
 %}
 
 {% include image.html

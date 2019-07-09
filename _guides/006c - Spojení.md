@@ -50,16 +50,16 @@ name: Stavba klece
         "Tam k němu přidáme i to poslední, akorát na opačné straně." 
     url2="img/guides/klec-11.jpg" 
     description2=
-        "Aby měla klec čas zaschnou přesuneme se na chvíli dále. Nachystáme jedno dřívko o délce 82,8mm a jedno dřívko o délce 260mm. Budeme také potřebovat nějaká zbytek 3mm překližky na podložení." 
+        "Aby měla klec čas zaschnout, přesuneme se na chvíli dále. Nachystáme jedno dřívko o délce 82,8mm a jedno dřívko o délce 260mm. Budeme také potřebovat zbytek 3mm překližky (ze které je většina dílů podvozku) na podložení." 
 %}
 
 {% include image.html 
     url="img/guides/klec-12.jpg" 
     description=
-        "Tyto dvě dřívka slepíme dohromady. Vypomůžeme si při tom Zbytkem překližky, abychom dosáhli 3mm odsazení, to znamená, že kratší dřívko bude začínat o 3mm dříve." 
+        "Tyto dvě dřívka slepíme dohromady. Vypomůžeme si při tom zbytkem překližky, abychom dosáhli 3mm odsazení, to znamená, že kratší dřívko bude začínat o 3mm dříve." 
     url2="img/guides/klec-13.jpg" 
     description2=
-        "Potom si nachystáme podobnou dvojici, ale dřívko 82,8mm nahradíme zkoseným dřívkem." 
+        "Potom si nachystáme podobnou dvojici, ale dřívko 82,8mm nahradíme delším zkoseným dřívkem." 
 %}
 
 {% include image.html 
