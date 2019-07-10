@@ -194,11 +194,11 @@ name: Battery pack
 {% include image.html
     url="img/guides/bat_39.jpg"
     description=
-        "Ke druhé desce napájejte nabíjecí moduly dle obrázku."
+        "Ke druhé desce napájejte nabíjecí moduly dle obrázku.
+<div class=\"alert\">NEŽ BUDEŠ POKRAČOVAT, UMYJ SI DESKY A DEJ JE NA KONTROLU VEDOUCÍMU!!!</div>"
     url2="img/guides/bat_40.jpg"
     description2=
-        "Odpojte oba nabíjecí moduly. Vložte do pouzdra baterie. **POZOR** na polaritu.
-<div class=\"alert\">NEŽ BUDEŠ POKRAČOVAT, BĚŽ ZA VEDOUCÍM, ABY TI TO ZKONTROLOVAL!!!</div>"
+        "Odpojte oba nabíjecí moduly. Vložte do pouzdra baterie. **POZOR** na polaritu."
 %}
 
 {% include image.html
