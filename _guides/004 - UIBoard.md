@@ -74,3 +74,39 @@ name: UIBoard
    description=
       "Kompletní zapojení kabelu."
 %}
+
+{% include image.html
+   url="img/guides/UIkabel-00.jpg"
+   description=
+      "UIBoard nyní vyndáme a kabel zasuneme zespod do paluby."
+   url2="img/guides/UIkabel-01.jpg"
+   description2=
+      "Poté jej vtáhneme pod dílem Z1."
+%}
+
+{% include image.html
+   url="img/guides/UIkabel-02.jpg"
+   description=
+      "Teď zatlačíme kabel nahoru podle obrázku. Zkontrolujeme že rovina konektoru je kolineární s rovinou plochy. Do spod dáme tavné lepidlo."
+   url2="img/guides/UIkabel-03.jpg"
+   description2=
+      "Zatlačíme konektor dolů a horní část doplníme tavňákem."
+%}
+
+{% include image.html
+   url="img/guides/UIkabel-04.jpg"
+   description=
+      "Necháme lepidlo ztuhnout a seřízneme přebytečný tavňák do roviny."
+   url2="img/guides/UIkabel-05.jpg"
+   description2=
+      "Vložíme UIBoard do konektoru."
+%}
+
+{% include image.html
+   url="img/guides/UIkabel-06.jpg"
+   description=
+      "Dírkou v UIboardu uděláme tužkou díru na díl Z1. Vyndáme Z1."
+   url2="img/guides/UIkabel-07.jpg"
+   description2=
+      "Nyní probrousíme díru na místě tečky. brosíme od laserem vypálené díry v Z1."
+%}
