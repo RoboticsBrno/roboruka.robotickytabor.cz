@@ -8,8 +8,12 @@ name: První program
     url="img/guides/demo_prog_00.png"
     description=
         "Stáhněte si [ZIP se souborem příkladů pro Roboruku](https://github.com/RoboticsBrno/roboruka-examples/archive/stable.zip)
-        a někam ho rozbalte tak, aby jste ho zase našli.<br/><br/>
-        _Pokud víte, co je to Git a umíte ho používat, můžete místo toho [naklonovat náš repozitář](https://github.com/RoboticsBrno/roboruka-examples)._"
+        a někam ho rozbalte tak, aby jste ho zase našli.
+
+<div class=\"alert\">Pozor: PlatformIO má chybu - nedokáže pracovat s diakritikou v cestě k projektu. <b>Všechny projetky musí být uloženy v cestě, kde nejsou háčky a čárky.</b><br>
+Pokud vaše uživatelské jméno obsahuje diakritiku, tak nemůžete používat plochu ani složku dokumenty, ale musíte vytvořit například <i>C:\Roboruka\examples</i>.</div>
+
+_Pokud víte, co je to Git a umíte ho používat, můžete místo toho [naklonovat náš repozitář](https://github.com/RoboticsBrno/roboruka-examples)._"
     url2="img/guides/first_prog_00.png"
     description2=
         "Najděte si v rozbaleném obsahu složku `_PROJECT-TEMPLATE`. Toto je šablona, na které budeme stavět
