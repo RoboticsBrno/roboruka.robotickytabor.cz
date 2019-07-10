@@ -12,7 +12,9 @@ name: Ruka
  {% include image.html
     url="img/guides/HND_03.jpg"
     description=
-        "Začneme slepením dolního dílu ruky. Připravíme si k tomu potřebné dílky."
+        "Začneme slepením dolního dílu ruky. Připravíme si k tomu potřebné dílky.
+
+<div class=\"alert\">Pozor: Dva nejmenší díly dole uprostřed jsou ty z předchozího obrázku vlevo dole. Jsou větší než jim podobné menší kusy z desky s logem Robotárny.</div>"
     url2="img/guides/HND_04a.jpg"
     description2=
         "V prvním části kroku nasadíme na bočnici zakulacené díly potřené lepidlem. Zatím nedomačkáváme. K přesnému umístění použijeme šrouby. V druhé části nasadíme spodní díl mezi zakulacené díly. V třetí části posuneme spodní díl co nejvíce dolů, což dále zpřesní polohu zakulacených dílů před zaschnutím. Zakulacené díly domáčkneme svorkami. Před zaschnutím odstraníme spodní díl."
@@ -93,7 +95,9 @@ name: Ruka
         "Přilepte díl B3 jako na fotce."
     url2="img/guides/HND_23.jpg"
     description2=
-        "Na stranu s velkým kruhovým výřezem na dřevěném dílku přilepte nižší bočnici. Je třeba dávat pozor na umístění bočnic!"
+        "Na stranu s velkým kruhovým výřezem na dřevěném dílku přilepte nižší bočnici.
+
+<div class=\"alert\">Je třeba dávat pozor na umístění bočnic!</div>"
  %}
 
  {% include image.html
@@ -198,16 +202,13 @@ name: Ruka
   {% include image.html
     url="img/guides/HND_46.jpg"
     description=
-        "Připravte si díl TA2 a kruh s otvorem uprostřed."
-    url2="img/guides/HND_47.jpg"
-    description2=
-        "S pomocí šroubu přilepte kruh na díl TA2 z NEPOPSANÉ STRANY."
+        "K hornímu dílu ruky přilepte dřevěný kroužek, jak vyznačeno na obrázku. K přesnému vlepení si pomožte M3 šroubem. Dbejte, aby léta dřeva kolečka byla kolmá na léta horního dílu."
  %}
 
  {% include image.html
     url="img/guides/HND_48.jpg"
     description=
-        "Druhý kroužek přilepte za pomocí šroubku na dlouhý díl horní části viz. obrázek."
+        "Druhý kroužek přilepte za pomocí M3 šroubu na dlouhý díl horní části jako na obrázku. Dbejte, aby léta dřeva kolečka byla kolmá na léta dlouhého dílu."
     url2="img/guides/HND_49.jpg"
     description2=
         "Připravte si tyto dva díly."
@@ -250,12 +251,9 @@ name: Ruka
  %}
 
   {% include image.html
-    url="img/guides/HND_58.jpg"
+    url="img/guides/HND_59.jpg"
     description=
-        "Připravte si díl TA2. Do otvorů s kruhovou podložkou vložte šroubek směřující k podložce."
-    url2="img/guides/HND_59.jpg"
-    description2=
-        "Spojte dohromady díl TA2, horní a dolní část ruky."
+        "Spojte dohromady díl TA2, horní a dolní část ruky pomocí šroubku M3."
  %}
 
  {% include image.html
@@ -334,49 +332,61 @@ name: Ruka
  {% include image.html
     url="img/guides/HND_76.jpg"
     description=
-        "Na ozubený díl klepeta přišroubujte kovové kolečko serva pomocí 2 šroubů M3x8."
+        "Na ozubený díl klepeta přišroubujte kovové kolečko serva pomocí 2 šroubů M3x10."
     url2="img/guides/HND_77.jpg"
     description2=
         "Vložte klepeto do mnohohranu serva přesně podle obrázku a utáhněte středovým šroubem M3x12."
  %}
 
  {% include image.html
-    url="img/guides/HND_78.jpg"
+    url="img/guides/HND_78a.jpg"
     description=
-        "Na tělo náklepné matice nasaďte čelist s velkým otvorem. Pozor: díru je nutné před nasazením převrtat na průměr 5,9 - 6 mm tak, aby klepeto chodilo zlehka!"
-    url2="img/guides/HND_79.jpg"
+        "U klepeta s velkým otvorem zvětšete jeho velkou díru v plastové části pilníkem. Vybruste akorát tak, aby bylo možné klepeto nasadit dle následujícího kroku a mohlo se volně otáčet."
+    url2="img/guides/HND_78.jpg"
     description2=
-        "Pomocí šroubu M4x12 čelist k matici přišroubujte."
+        "Na tělo náklepné matice nasaďte klepeto s velkým otvorem."
  %}
 
  {% include image.html
-    url="img/guides/HND_80.jpg"
+    url="img/guides/HND_79.jpg"
     description=
-        "Hotová ruka"
+        "Pomocí šroubu M4x12 klepeto k matici přišroubujte."
+    url2="img/guides/HND_80.jpg"
+    description2=
+        "Ruka s oběma klepety."
  %}
 
  {% include image.html
     url="img/guides/HND_81.jpg"
     description=
         "Nyní vezměte dolní část ruky."
+    url2="img/guides/HND_81a.jpg"
+    description2=
+        "Vteřinovým lepidlem potřeme okolí děr z vnějších stran dílu (obě strany podle šipek)."
+ %}
+
+ {% include image.html
+    url="img/guides/HND_81b.jpg"
+    description=
+        "Všechny díry, do kterých bude přišroubováno servo je třeba zahloubit jako na obrázku. Jsou to díry z obou stran vyobrazeného dílu."
     url2="img/guides/HND_82.jpg"
     description2=
-        "Všechny díry, do kterých přijde přišroubovat servo je třeba zahloubit jako na obrázku."
+        "Zabruste vteřinové lepidlo z obou stran dílu do hladka smirkem."
  %}
- {% include image.html
-    url="img/guides/cisla_serv.jpg"
-    description=
-        "Serva na ruce mají tato čísla."
 
+ {% include image.html
+    url="img/guides/HND_83.jpg"
+    description=
+        "U dřevěné páky serva 1 ze strany kulatého kolečka zopakujte postup s vteřinovým lepidlem, zahloubením a zbroušením jako v minulých krocích. "
  %}
 
 {% include image.html
-    url="img/guides/HND_83.jpg"
+    url="img/guides/cisla_serv.jpg"
     description=
-        "To samé proveďte i u této části ruky."
+        "Serva na výsledné ruce mají tato čísla. Ke stavu na obrázku se dostanete v dalších krocích."
     url2="img/guides/HND_84.jpg"
     description2=
-        "Nyní přišroubujte servo přesně jako na obrázku rovnoběžně s dřevěným dílem. Cedulka s názvem serva “LX-15D” musí směřovat nahoru.
+        "Nyní přišroubujte servo 0 přesně jako na obrázku rovnoběžně s dřevěným dílem. Cedulka s názvem serva “LX-15D” musí směřovat nahoru.
          Do prostředního otvoru patří šroub M3x12, do zbylých M3x8."
  %}
 
@@ -386,5 +396,5 @@ name: Ruka
         "Přišroubujte i druhou stranu serva. Zde se již prostřední šroub nedává."
     url2="img/guides/HND_86.jpg"
     description2=
-        "Nakonec přišroubujte servo i k této části ruky. Do prostředního otvoru patří šroub M3x12, do okrajových M3x8."
+        "Nakonec přišroubujte servo 1 k dřevěné páce jako na obrázku. Páka musí být přišroubována na straně serva, která se neotáčí volně. Do prostředního otvoru patří šroub M3x12, do okrajových M3x8."
  %}

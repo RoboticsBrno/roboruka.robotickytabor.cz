@@ -13,7 +13,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
         "Rozložení dílů na pracovním plánku. Zabruste všechny otřepy a vady, které vznikly při vylamování dílů z desky."
     url2="/img/guides/chasi_2.jpg"
     description2=
-        "Nyní si připravte díly P1 a P5. Na celou jednu plochu dílu P5 si naneste tenkou vrstvičku lepidla a nalepte jej na nepopsanou stranu dílu P1. Dávejte si při tom pozor, abyste nanesli lepidlo na správnou stranu. Otvory, které jsou na koncích, musí lícovat s těmi v palubě (díl P1)."
+        "Nyní si připravte díly P1 a P5. Na celou jednu plochu dílu P5 si naneste tenkou vrstvičku lepidla a nalepte jej na nepopsanou stranu dílu P1. Dávejte si při tom **pozor**, abyste nanesli lepidlo na správnou stranu. Otvory, které jsou na koncích, musí lícovat s těmi v palubě (díl P1)."
 %}
 
 {% include image.html
@@ -28,7 +28,7 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 {% include image.html
     url="img/guides/chasi_5.jpg"
     description=
-        "Mezitím, co nám bude schnout díl P5, si slepíme díly P2, P3 a P4. Opět si dávejte pozor, abyste měli díly správně otočeny. Díly P3 a P4 musí být otočeny stejným směrem. Tento díl vyrobíme 2x."
+        "Mezitím, co nám bude schnout díl P5, si slepíme díly P2, P3 a P4. Opět si dávejte **pozor**, abyste měli díly správně otočeny. Díly P3 a P4 musí být otočeny stejným směrem. Tento díl vyrobíme 2x."
     url2="/img/guides/chasi_6.jpg"
     description2=
         "Slepené oba díly."
@@ -118,7 +118,9 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
 {% include image.html
     url="img/guides/chasi_24a.jpg"
     description=
-        "Omotejte boční díly v jejich horní části (co nejvíce nahoře) elastickou nití přibližně 10x dokola a během omotávání nit napínejte. Pr uvázání začátku a konce nitě je možné použít otvory v držáku battery packu. Snažte se vést jednotlivé dráhy nitě co nejblíže u sebe. Zamotanou nit následně zalepíme lepidlem. Pozor: lepidlo se nesmí dostat k horní palubě!"
+        "Omotejte boční díly v jejich horní části (co nejvíce nahoře) elastickou nití přibližně 10x dokola a během omotávání nit napínejte. Pro uvázání začátku a konce nitě je možné použít otvory v držáku battery packu. Snažte se vést jednotlivé dráhy nitě co nejblíže u sebe. Zamotanou nit následně zalepíme lepidlem.
+
+<div class=\"alert\">Pozor: lepidlo se nesmí dostat k horní palubě!</div>"
 %}
 
 {% include image.html
@@ -257,7 +259,17 @@ Na začátek si připravíme pilník nebo brusný papír, ostrý nůž (ideáln�
     url="img/guides/chasi_50.jpg"
     description=
         "Totéž proveďte i s druhou dvojicí kolo - motor."
+    url2="img/guides/chasi_50a.jpg"
+    description2=
+        "Na zadní části motorů nasaďte dřevěné vložky."
+%}
+
+{% include image.html
+    url="img/guides/chasi_50b.jpg"
+    description=
+        "Částečně vyšroubujte oba 2 šrouby M4 z boků podvozku vyznačené šipkami. Nyní kola s motory vložte a zasuňte do podvozku. Motor s delšími kabely patří nalevo ve směru jízdy (nalevo na obrázku). Pokud se motor s dřevěnou vložkou nevejdou do lože, je třeba zaříznout smršťovací bužírku kolem motoru."
     url2="img/guides/chasi_51.jpg"
     description2=
-        "Nyní tyto kola s motory vložte do podvozku."
+        "Finální poloha zasunutých motorů. Nyní opět zašroubujeme a dotáhneme oba šrouby M4 z boků podvozku. Zkontrolujeme delší kabely na levém motoru."
+
 %}
