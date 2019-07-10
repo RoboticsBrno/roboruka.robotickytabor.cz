@@ -381,19 +381,18 @@ name: Ruka
  %}
 
  {% include image.html
-    url="img/guides/cisla_serv.jpg"
+    url="img/guides/HND_83.jpg"
     description=
-        "Serva na výsledné ruce mají tato čísla."
-
+        "U dřevěné páky serva 1 ze strany kulatého kolečka zopakujte postup s vteřinovým lepidlem, zahloubením a zbroušením jako v minulých krocích. "
  %}
 
 {% include image.html
-    url="img/guides/HND_83.jpg"
+    url="img/guides/cisla_serv.jpg"
     description=
-        "To samé proveďte i u této části ruky."
+        "Serva na výsledné ruce mají tato čísla. Ke stavu na obrázku se dostanete v dalších krocích."
     url2="img/guides/HND_84.jpg"
     description2=
-        "Nyní přišroubujte servo přesně jako na obrázku rovnoběžně s dřevěným dílem. Cedulka s názvem serva “LX-15D” musí směřovat nahoru.
+        "Nyní přišroubujte servo 0 přesně jako na obrázku rovnoběžně s dřevěným dílem. Cedulka s názvem serva “LX-15D” musí směřovat nahoru.
          Do prostředního otvoru patří šroub M3x12, do zbylých M3x8."
  %}
 
@@ -403,5 +402,5 @@ name: Ruka
         "Přišroubujte i druhou stranu serva. Zde se již prostřední šroub nedává."
     url2="img/guides/HND_86.jpg"
     description2=
-        "Nakonec přišroubujte servo i k této části ruky. Do prostředního otvoru patří šroub M3x12, do okrajových M3x8."
+        "Nakonec přišroubujte servo 1 k dřevěné páce jako na obrázku. Páka musí být přišroubována na straně serva, která se neotáčí volně. Do prostředního otvoru patří šroub M3x12, do okrajových M3x8."
  %}
