@@ -62,7 +62,7 @@ name: Battery pack
         "U kontaktů je potřeba ohnout plíšky, aby nevyčuhovaly ven podle obrázku."
     url2="img/guides/bat_14.jpg"
     description2=
-        "Připájejte kontakty k boční stěně battery packu. Díl je nutné hodně prohřát, protože plochy jsou hodně velké. Naneste tavidlo a poté přiložte kontakt. Kontakt přidržte pinzetou a přiložte pájku s cínem."
+        "Připájejte kontakty k boční stěně battery packu. Díl je nutné pořádně prohřát, protože plochy jsou velké. Naneste tavidlo a poté přiložte kontakt. Kontakt přidržte pinzetou a přiložte pájku s cínem."
 %}
 
 {% include image.html
@@ -86,10 +86,11 @@ name: Battery pack
 {% include image.html
     url="img/guides/bat_19.jpg"
     description=
-        "Vložte boční stěnu do hlavního panelu dle obrázku. Dodržujte typ kontaktu na baterii v závislosti na vyznačené polaritě na hlavním panelu."
+        "Vložte boční stěnu do hlavního panelu dle obrázku. Dodržujte typ kontaktu na baterii v závislosti na vyznačené polaritě na hlavním panelu.
+<div class=\"alert\">Pozor, pérkový kontakt musí být na záporném pólu baterie.</div>"
+    url2="img/guides/bat_20a.jpg"
     description2=
-        "Vložte druhou boční stěnu do hlavního panelu dle obrázku. Dodržujte typ kontaktu na baterii v závislosti na vyznačené polaritě na hlavním panelu."
-    url2="img/guides/bat_20.jpg"
+        "Svislost boční stěny zajistěte pomocí kolmého dřívka."
 %}
 
 {% include image.html
@@ -102,21 +103,38 @@ name: Battery pack
 %}
 
 {% include image.html
+    url="img/guides/bat_20.jpg"
+    description=
+        "Vložte druhou boční stěnu do hlavního panelu dle obrázku. Zkontrolujte typ kontaktu na baterii v závislosti na vyznačené polaritě na hlavním panelu. Svislost opět zajistěte kolmým dřívkem. Opět důkladně zapájejte všechny 3 společné kontakty z obou stran."  
+%}
+
+{% include image.html
     url="img/guides/bat_23.jpg"
     description=
-        "Pod desku vložte konkétně tento dílek, který vidíte pod deskou (2mm překližka), která vám zbyla ze stavby."
+        "Pod desku vložte překližkový díl battery packu tlustý 3mm a 2 kusy **2mm tenších** dřevíček podle obrázku.
+<div class=\"alert\">Dřívka musí být tloušťky 2mm.</div>"
     url2="img/guides/bat_24.jpg"
     description2=
-        "Vložte dutinky do otvorů dle obrázku. Dávejte **pozor**, aby hlubší otvory dutinek směřovaly ven z battery packu (dle obrázku dolů). Dutinky musí přesahovat skrz až na podložku. Tento krok zopakujte 8x.  _Ten, kdo tuto větu objevil dostane po nahlášení se u hlavního vedoucího bod._"
+        "Vložte dutinky do otvorů dle obrázku. Dávejte **pozor**, aby hlubší otvory dutinek směřovaly ven z battery packu (dle obrázku dolů). Dutinky musí přesahovat skrz až na podložku podle šipky. Tento krok zopakujte 8x.  _Ten, kdo tuto větu objevil dostane po nahlášení se u hlavního vedoucího bod._"
 %}
 
 {% include image.html
     url="img/guides/bat_25.jpg"
     description=
-        "Dutinky připájejte shora podle obrázku."
+        "Připájejte dutinky ke spodní desce battery packu podle obrázku."
     url2="img/guides/bat_26.jpg"
     description2=
-        "Poté zapájejte důkladně i spodní část dle obrázku."
+        "Poté připájejte dutinky i k boční desce na obou stranách battery packu."
+%}
+
+{% include image.html
+    url="img/guides/bat_26a.jpg"
+    description=
+        "Nachystejte si spodní překližkový díl battery packu a dvě dřevíčka délky 37mm **o tloušťce 3mm**.
+<div class=\"alert\">Dřívka musí být tloušťky 3mm.</div>"
+    url2="img/guides/bat_26b.jpg"
+    description2=
+        "Slepte k sobě díly podle obrázku."
 %}
 
 {% include image.html
@@ -125,13 +143,13 @@ name: Battery pack
         "Vezměte si svůj battery pack a položte si jej před sebe dle obrázku."
     url2="img/guides/bat_28.jpg"
     description2=
-        "Na battery pack položte dřevěný díl BA1 dle obrázku."
+        "Na battery pack nasuňte dřevěný díl BA1 dle obrázku přilepenými dřevíčky dolů. Na orientaci jinak nezáleží."
 %}
 
 {% include image.html
     url="img/guides/bat_29.jpg"
     description=
-        "Desku si otočte."
+        "Desku si otočte a nachystejte si díly BA2."
     url2="img/guides/bat_30.jpg"
     description2=
         "Přilepte díly BA2 z obou stran battery packu."
@@ -179,13 +197,15 @@ name: Battery pack
         "Ke druhé desce napájejte nabíjecí moduly dle obrázku."
     url2="img/guides/bat_40.jpg"
     description2=
-        "Odpojte oba nabíjecí moduly. Vložte do pouzdra baterie. **POZOR** na polaritu. NEŽ BUDEŠ POKRAČOVAT, BĚŽ ZA VEDOUCÍM, ABY TI TO ZKONTROLOVAL!!!"
+        "Odpojte oba nabíjecí moduly. Vložte do pouzdra baterie. **POZOR** na polaritu.
+<div class=\"alert\">NEŽ BUDEŠ POKRAČOVAT, BĚŽ ZA VEDOUCÍM, ABY TI TO ZKONTROLOVAL!!!</div>"
 %}
 
 {% include image.html
     url="img/guides/bat_41.jpg"
     description=
-        "NEŽ BUDEŠ POKRAČOVAT, BĚŽ ZA VEDOUCÍM, ABY TI TO ZKONTROLOVAL!!! Ustřihněte si 12 cm smršťovací folie."
+        "Ustřihněte si 12 cm smršťovací folie.
+<div class=\"alert\">Než budeš pokračovat, běž za vedoucím, aby ti to zkontroloval!!!</div>"
     url2="img/guides/bat_42.jpg"
     description2=
         "Vložte celý battery pack do smršťovací folie."
