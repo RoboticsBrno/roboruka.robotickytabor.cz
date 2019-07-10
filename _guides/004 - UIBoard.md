@@ -43,6 +43,63 @@ name: UIBoard
 %}
 
 {% include image.html
+   url="img/guides/UIB-USB-00.jpg"
+   description=
+      "Na čtyř-drátový zbyte drát čouhající z kabelu natáhneme dva díly krytky, viz obrázek."
+   url2="img/guides/UIB-USB-01.jpg"
+   description2=
+      "Připravýme si UIBoard napojíme na něj kabel. Dále budeme potřebovat USB samce."
+%}
+
+{% include image.html
+   url="img/guides/UIB-USB-02.jpg"
+   description=
+      "Do USB na UIBoardu zapojíme protikus, který budeme pájet."
+   url2="img/guides/UIB-USB-03.jpg"
+   description2=
+      "Naneseme tavidlo"
+%}
+
+
+{% include image.html
+   url="img/guides/UIB-USB-04.jpg"
+   description=
+      "Naneseme vrstvu cínu."
+   url2="img/guides/UIB-USB-05.jpg"
+   description2=
+      "Přiložíme kabely."
+%}
+
+
+{% include image.html
+   url="img/guides/UIB-USB-06.jpg"
+   description=
+      "Napájíme drát po drátku."
+   url2="img/guides/UIB-USB-07.jpg"
+   description2=
+      "Nasuneme krytku a vytáhneme gumový kousek."
+%}
+
+{% include image.html
+   url="img/guides/UIB-USB-08.jpg"
+   description=
+      "Takhle to bude vypadat."
+   url2="img/guides/UIB-USB-09.jpg"
+   description2=
+      "Připravíme si přední krytku."
+%}
+
+
+{% include image.html
+   url="img/guides/UIB-USB-10.jpg"
+   description=
+      "Nasuneme přední krytku."
+   url2="img/guides/UIB-USB-11.jpg"
+   description2=
+      "Zacvakneme krytku a máme hotovo."
+%}
+
+{% include image.html
    url="img/guides/kabel-00.jpg"
    description=
       "Nyní musíme na konstrukci robota odpilovat tuto část."
@@ -87,7 +144,9 @@ name: UIBoard
 {% include image.html
    url="img/guides/UIkabel-02.jpg"
    description=
-      "Teď zatlačíme kabel nahoru podle obrázku. Zkontrolujeme že rovina konektoru je kolineární s rovinou plochy. Do spod dáme tavné lepidlo."
+      "Teď zatlačíme kabel nahoru podle obrázku. Do spod dáme tavné lepidlo.
+      
+<div class=\"alert\">Pozor: Je potřeba aby konektor nevyčuhoval ze spodní strany desky, jinak nepůjde zasunout battery pack do robota.</div>"
    url2="img/guides/UIkabel-03.jpg"
    description2=
       "Zatlačíme konektor dolů a horní část doplníme tavňákem."
@@ -110,3 +169,5 @@ name: UIBoard
    description2=
       "Nyní probrousíme díru na místě tečky. brosíme od laserem vypálené díry v Z1."
 %}
+
+
