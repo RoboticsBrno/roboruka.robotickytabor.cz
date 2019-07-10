@@ -350,30 +350,40 @@ name: Ruka
         "U klepeta s velkým otvorem zvětšete jeho velkou díru v plastové části pilníkem. Vybruste akorát tak, aby bylo možné klepeto nasadit dle následujícího kroku a mohlo se volně otáčet."
     url2="img/guides/HND_78.jpg"
     description2=
-        "Na tělo náklepné matice nasaďte čelist s velkým otvorem."
+        "Na tělo náklepné matice nasaďte klepeto s velkým otvorem."
  %}
 
  {% include image.html
     url="img/guides/HND_79.jpg"
     description=
-        "Pomocí šroubu M4x12 čelist k matici přišroubujte."
+        "Pomocí šroubu M4x12 klepeto k matici přišroubujte."
     url2="img/guides/HND_80.jpg"
     description2=
-        "Hotová ruka"
+        "Ruka s oběma klepety."
  %}
 
  {% include image.html
     url="img/guides/HND_81.jpg"
     description=
         "Nyní vezměte dolní část ruky."
+    url2="img/guides/HND_81a.jpg"
+    description2=
+        "Vteřinovým lepidlem potřeme okolí děr z vnějších stran dílu (obě strany podle šipek)."
+ %}
+
+ {% include image.html
+    url="img/guides/HND_81b.jpg"
+    description=
+        "Všechny díry, do kterých bude přišroubováno servo je třeba zahloubit jako na obrázku. Jsou to díry z obou stran vyobrazeného dílu."
     url2="img/guides/HND_82.jpg"
     description2=
-        "Všechny díry, do kterých přijde přišroubovat servo je třeba zahloubit jako na obrázku."
+        "Zabruste vteřinové lepidlo z obou stran dílu do hladka smirkem."
  %}
+
  {% include image.html
     url="img/guides/cisla_serv.jpg"
     description=
-        "Serva na ruce mají tato čísla."
+        "Serva na výsledné ruce mají tato čísla."
 
  %}
 
