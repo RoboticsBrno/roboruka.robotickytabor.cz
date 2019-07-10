@@ -13,10 +13,12 @@ name: Stavba klece
  {% include image.html 
     url="img/guides/klec-02.jpg" 
     description=
-        "Vezmeme dva díly tvaru L a 2 dřívka o délce 64mm a slepíme je tak, aby tvořily obdélník jako na vpravo na obrázku. Na otočení záleží! Viz další obrázek."
-    url2="img/guides/klec-03.jpg" 
+        "Vezmeme dva díly tvaru L a 2 dřívka o délce 64mm a slepíme je tak, aby tvořily obdélník jako na pravo na obrázku.
+
+<div class=\"alert\">Pozor, krátká dřívka je třeba lepit do L dílů zevnitř!</div>"
+    url2="img/guides/klec-03.jpg"
     description2=
-        "Dřívka je potřeba nalepit na kratší stranu zevnitř!" 
+        "Detail výsledného dílu shora."
  %}
  {% include image.html 
     url="img/guides/klec-04.jpg" 
