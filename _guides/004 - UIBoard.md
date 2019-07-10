@@ -41,3 +41,36 @@ name: UIBoard
    description=
       "Kompletně osazená deska."
 %}
+
+{% include image.html
+   url="img/guides/kabel-00.jpg"
+   description=
+      "Nyní musíme na konstrukci robota odpilovat tuto část."
+   url2="img/guides/kabel-01.jpg"
+   description2=
+      "Odpilujeme ji, tak aby lícovala se svislým dílem."
+%}
+
+{% include image.html
+   url="img/guides/kabel-02.jpg"
+   description=
+      "Nyní vezmeme propojovací kabel a zapojíme jej nosem nahoru na stranu součástek, jako na obrázku."
+   url2="img/guides/kabel-03.jpg"
+   description2=
+      "Větší konektor na druhé straně kabelu zapojíme do RBcontrolu, tak jak je na obrázku."
+%}
+
+{% include image.html
+   url="img/guides/kabel-04.jpg"
+   description=
+      "Menší konektor zapojíme na ovládací piny tak jak je na obrázku."
+   url2="img/guides/kabel-05.jpg"
+   description2=
+      "Takto vypadá zapojení na RBC."
+%}
+
+{% include image.html
+   url="img/guides/kabel-06.jpg"
+   description=
+      "Kompletní zapojení kabelu."
+%}
