@@ -227,3 +227,9 @@ pre > code {
     transition: opacity 0.6s;
     margin-bottom: 15px;
 }
+
+.side-nav li > a {
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
