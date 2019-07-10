@@ -202,16 +202,13 @@ name: Ruka
   {% include image.html
     url="img/guides/HND_46.jpg"
     description=
-        "Připravte si díl TA2 a kruh s otvorem uprostřed."
-    url2="img/guides/HND_47.jpg"
-    description2=
-        "S pomocí šroubu přilepte kruh na díl TA2 z NEPOPSANÉ STRANY."
+        "K hornímu dílu ruky přilepte dřevěný kroužek, jak vyznačeno na obrázku. K přesnému vlepení si pomožte M3 šroubem. Dbejte, aby léta dřeva kolečka byla kolmá na léta horního dílu."
  %}
 
  {% include image.html
     url="img/guides/HND_48.jpg"
     description=
-        "Druhý kroužek přilepte za pomocí šroubku na dlouhý díl horní části viz. obrázek."
+        "Druhý kroužek přilepte za pomocí M3 šroubu na dlouhý díl horní části jako na obrázku. Dbejte, aby léta dřeva kolečka byla kolmá na léta dlouhého dílu."
     url2="img/guides/HND_49.jpg"
     description2=
         "Připravte si tyto dva díly."
@@ -254,12 +251,9 @@ name: Ruka
  %}
 
   {% include image.html
-    url="img/guides/HND_58.jpg"
+    url="img/guides/HND_59.jpg"
     description=
-        "Připravte si díl TA2. Do otvorů s kruhovou podložkou vložte šroubek směřující k podložce."
-    url2="img/guides/HND_59.jpg"
-    description2=
-        "Spojte dohromady díl TA2, horní a dolní část ruky."
+        "Spojte dohromady díl TA2, horní a dolní část ruky pomocí šroubku M3."
  %}
 
  {% include image.html
