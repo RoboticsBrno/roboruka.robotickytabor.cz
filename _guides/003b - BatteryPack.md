@@ -205,7 +205,7 @@ name: Battery pack
 {% include image.html
     url="img/guides/bat_38d.jpg"
     description=
-        "Kabely připájejte na desku tak, jak je znázorněno na fotce. Kabely musí směrovat k popisku USB.
+        "Kabely připájejte na dokovací desku kratší odizolovanou stranou tak, jak je znázorněno na fotce. Kabely musí směrovat k popisku USB.
 
 <div class=\"alert\">Kabel jen přiložte na pájecí plošku s otvorem (nezastrkujte dovnitř otvoru -> zavazel by na druhé straně) a připájejte.</div>"
     url2="img/guides/bat_38e.jpg"
