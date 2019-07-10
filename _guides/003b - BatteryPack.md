@@ -185,17 +185,39 @@ name: Battery pack
 {% include image.html
     url="img/guides/bat_37.jpg"
     description=
-        "Banánky připájejte k desce. Nevadí, když se díra zalije cínem. Tyto desky si takto připravte 2."
-    url2="img/guides/bat_38.jpg"
+        "Banánky připájejte k desce. Nevadí, když se díra zalije cínem. 
+
+<div class=\"alert\">Tyto desky si takto připravte 2.</div>"
+    url2="img/guides/bat_38a.jpg"
     description2=
-        "U jedné z desek zkratujte propojku dle obrázku."
+        "U jedné z desek zkratujte propojku dle obrázku a tím z ní vyrobíte dokovací desku."
+%}
+
+{% include image.html
+    url="img/guides/bat_38b.jpg"
+    description=
+        "Nachystejte si dva kabely. Doporučené barevné kombinace jsou znázorněný na fotce."
+    url2="img/guides/bat_38c.jpg"
+    description2=
+        "Na jedné straně kabelů odizolujte 3 mm a na druhé straně kabelu 6 mm."
+%}
+
+{% include image.html
+    url="img/guides/bat_38d.jpg"
+    description=
+        "Kabely připájejte na desku tak, jak je znázorněno na fotce. Kabely musí směrovat k popisku USB.
+
+<div class=\"alert\">Kabel jen přiložte na pájecí plošku s otvorem (nezastrkujte dovnitř otvoru -> zavazel by na druhé straně) a připájejte.</div>"
+    url2="img/guides/bat_38e.jpg"
+    description2=
+        "Výsledná podoba dokovací desky pro baterii do robota."
 %}
 
 {% include image.html
     url="img/guides/bat_39.jpg"
     description=
         "Ke druhé desce napájejte nabíjecí moduly dle obrázku.
-<div class=\"alert\">NEŽ BUDEŠ POKRAČOVAT, UMYJ SI DESKY A DEJ JE NA KONTROLU VEDOUCÍMU!!!</div>"
+<div class=\"alert\">Než budeš pokračovat umyj si desky a dej na KONTROLU VEDOUCÍMU!!!</div>"
     url2="img/guides/bat_40.jpg"
     description2=
         "Odpojte oba nabíjecí moduly. Vložte do pouzdra baterie. **POZOR** na polaritu."
