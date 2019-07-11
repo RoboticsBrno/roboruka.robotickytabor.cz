@@ -190,7 +190,7 @@ name: Battery pack
 <div class=\"alert\">Tyto desky si takto připravte 2.</div>"
     url2="img/guides/bat_38a.jpg"
     description2=
-        "U jedné z desek zkratujte propojku dle obrázku a tím z ní vyrobíte dokovací desku."
+        "U jedné z desek zkratujte propojku dle obrázku a tím z ní vyrobíte dokovací desku do robota."
 %}
 
 {% include image.html
@@ -199,18 +199,18 @@ name: Battery pack
         "Nachystejte si dva kabely. Doporučené barevné kombinace jsou znázorněný na fotce."
     url2="img/guides/bat_38c.jpg"
     description2=
-        "Na jedné straně kabelů odizolujte 3 mm a na druhé straně kabelu 6 mm."
+        "Na jedné straně kabel odizolujte 3 mm a na druhé straně 6 mm."
 %}
 
 {% include image.html
     url="img/guides/bat_38d.jpg"
     description=
-        "Kabely připájejte na dokovací desku kratší odizolovanou stranou tak, jak je znázorněno na fotce. Kabely musí směrovat k popisku USB.
+        "Kabely připájejte na dokovací desku kratší odizolovanou stranou tak, jak je znázorněno na fotce. Kabely musí směřovat k popisku USB.
 
-<div class=\"alert\">Kabel jen přiložte na pájecí plošku s otvorem (nezastrkujte dovnitř otvoru -> zavazel by na druhé straně) a připájejte.</div>"
+<div class=\"alert\">Kabel jen přiložte na pájecí plošku s otvorem (kabel nezastrkujte dovnitř otvoru => zavazel by na druhé straně) a připájejte.</div>"
     url2="img/guides/bat_38e.jpg"
     description2=
-        "Výsledná podoba dokovací desky pro baterii do robota."
+        "Výsledná podoba dokovací desky pro battery pack do robota."
 %}
 
 {% include image.html
