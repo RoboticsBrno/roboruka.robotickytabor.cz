@@ -78,5 +78,7 @@ z telefonu s Androidem přes aplikaci [RBController](https://play.google.com/sto
     url="img/guides/demo_prog_10.png"
     description=
         "Na váš telefon s OS Android si [stáhněte aplikaci **RBController**](https://play.google.com/store/apps/details?id=com.tassadar.rbcontroller).<br/>
-        Zadejte stejné jméno, jako jste psali do proměnné `cfg.owner`. Aplikace by měla najít vaši Ruku a umožnit její ovládání."
+        Zadejte stejné jméno, jako jste psali do proměnné `cfg.owner`. Aplikace by měla najít vaši Ruku a umožnit její ovládání.
+
+**Můžete také použít aplikaci pro Windows,** kterou naleznete [na táboře tady](ftp://192.168.42.125/Public/rbcontroller-electron%20Setup%201.0.0.exe) a mimo táborovou WiFi [stahujte z Githubu](https://github.com/RoboticsBrno/rbcontroller-electron/releases/download/v1.0.0/rbcontroller-electron.Setup.1.0.0.exe)."
  %}

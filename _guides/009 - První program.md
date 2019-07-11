@@ -63,7 +63,7 @@ _Pokud víte, co je to Git a umíte ho používat, můžete místo toho [naklono
         "Uvnitř metody `loop()` dopíšeme kód, který zkontroluje, zda je tlačítko SW**1** stisknuté, a pokud ano, tak zhasne
         zelenou LED a rozsvítí modrou LED. V opačném případě rozsvítí zelenou LED a vypne modrou:
 
-    if (rkButtonIsPressed(1)) {
+    if (rkButtonIsPressed(1, false)) {
         rkLedGreen(false);
         rkLedBlue(true);
     } else {
