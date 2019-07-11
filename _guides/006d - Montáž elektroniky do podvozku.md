@@ -10,10 +10,17 @@ name: Montáž elektroniky do podvozku
 
 - podvozek s namontovanými motory a koly
 - řídící desku pro robota - RBControl
-- dokovací desku pro BatteryPack
-
-Řídící desku RBControl připevníme 4 šrouby M3, které byste měli mít připraveny z předešlých kroků. Na tyto šrouby byste měli dát růžovou izolační podložku a pak až RBControl. Potom RBControl připevníme pomocí 4 matic M3."
+- dokovací desku pro BatteryPack"
     url2="img/guides/chasi+ele_02.jpg" 
+    description2=
+        "Na čtyři šrouby M3 nachystané ve spodní palubě nasaď čtyři plastové růžové podložky podle obrázku (jednu podložku na 1 šroub)."
+%}
+
+{% include image.html 
+    url="img/guides/chasi+ele_03.jpg" 
+    description=
+        "Nasaďte desku RBControl na 4 šrouby M3 s podložkami. RBControl připevněte pomocí 4 matic M3."
+    url2="img/guides/chasi+ele_04.jpg" 
     description2=
         "Připevni kabely od motorů do svorkovnic na RBControlu podle obrázku.
 
@@ -21,7 +28,7 @@ name: Montáž elektroniky do podvozku
 %}
 
 {% include image.html 
-    url="img/guides/chasi+ele_03.jpg" 
+    url="img/guides/chasi+ele_05.jpg" 
     description=
         "Dokovací desku pro BatteryPack zasuňte do podvozku podle obrázku a napájecí kabely připevněte do svorkovnic.
 
