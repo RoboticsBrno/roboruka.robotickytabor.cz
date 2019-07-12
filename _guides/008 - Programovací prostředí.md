@@ -7,7 +7,7 @@ name: Programovací prostředí
 Roboruka obsahuje procesor ESP32, běží na 240MHz a má dvě jádra.
 ESP32 se programuje v jazyku C++ a používáme vývojové prostředí PlatformIO v editoru Visual Studio Code.
 
-Napsali jsme pro vás knihovny, které programování Roboruky a potažmo celé desky RBControl zjednoduššují.
+Napsali jsme pro vás knihovny, které programování Roboruky a potažmo celé desky RBControl zjednodušují.
 Máte také k dispozici [základní program](https://github.com/RoboticsBrno/roboruka-demo01), který obsahuje
 příklady programování Roboruky.
 
