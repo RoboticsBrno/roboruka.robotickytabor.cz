@@ -1,6 +1,6 @@
 ---
 name: Bonusový materiál
-published: false
+published: true
 ---
 ## {{ page.name | escape }}
 
