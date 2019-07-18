@@ -1,11 +1,11 @@
 title: Roboruka
-author: Panoramedia
-email: panoramedia@gmail.com
+author: RoboticsBrno
+email: info@robotikabrno.cz
 description: > # this means to ignore newlines until "baseurl:"
   Roboruka pro Robotický tábor
 
-twitter_username: macrod68
-github_username:  macrod68
+twitter_username: RobotikaBrno
+github_username:  RoboticsBrno
 
 sass:
     style: compressed
