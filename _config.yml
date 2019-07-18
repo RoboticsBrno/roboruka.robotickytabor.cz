@@ -28,5 +28,5 @@ mini_magick:
         destination: img/guides/
         resize: "1500x1000"
 
-site:
-    google_analytics: UA-144089676-1
+# Google Analytics
+google_analytics: UA-144089676-1
