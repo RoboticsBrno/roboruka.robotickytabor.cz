@@ -27,3 +27,6 @@ mini_magick:
         source: img/guides/original
         destination: img/guides/
         resize: "1500x1000"
+
+site:
+    google_analytics: UA-144089676-1
