@@ -5,3 +5,4 @@ _site
 *.gem
 vendor
 mkmf.log
+.vscode
