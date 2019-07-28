@@ -28,5 +28,15 @@ mini_magick:
         destination: img/guides/
         resize: "1500x1000"
 
+    gal_thumb:
+        source: img/gallery/original
+        destination: thumb/img/gallery
+        resize: "600x400"
+    
+    gal_medium:
+        source: img/gallery/original
+        destination: img/gallery
+        resize: "1500x1000"
+
 # Google Analytics
 google_analytics: UA-144089676-1

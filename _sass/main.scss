@@ -143,7 +143,7 @@ hr {
     }
 }
 #partners {
-    max-width: 70%;
+    max-width: 80%;
     margin: auto;
     display: block;
 }
@@ -232,4 +232,10 @@ pre > code {
     overflow-x: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+}
+
+#galerie {
+    max-width: 80%;
+    margin: auto;
+    display: block;
 }
