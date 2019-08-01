@@ -40,41 +40,34 @@ name: UIBoard
    url="img/guides/UIB_7.jpg"
    description=
       "Kompletně osazená deska."
-%}
-
-{% include image.html
-   url="img/guides/UIB-USB-00.jpg"
-   description=
-      "Na čtyř-drátový zbyte drát čouhající z kabelu natáhneme dva díly krytky, viz obrázek."
-   url2="img/guides/UIB-USB-01.jpg"
+   url2="img/guides/UIB-USB-00.jpg"
    description2=
-      "Připravýme si UIBoard napojíme na něj kabel. Dále budeme potřebovat USB samce."
+      "Na 4 dráty vyčnívající z kabelového svazku natáhneme dva díly krytky jako na obrázku."
 %}
 
 {% include image.html
-   url="img/guides/UIB-USB-02.jpg"
+   url="img/guides/UIB-USB-01.jpg"
    description=
+      "Připravíme si UIBoard a napojíme na něj kabel. Dále budeme potřebovat USB samce."
+   url2="img/guides/UIB-USB-02.jpg"
+   description2=
       "Do USB na UIBoardu zapojíme protikus, který budeme pájet."
-   url2="img/guides/UIB-USB-03.jpg"
-   description2=
-      "Naneseme tavidlo"
 %}
-
 
 {% include image.html
    url="img/guides/UIB-USB-04.jpg"
    description=
-      "Naneseme vrstvu cínu."
+      "Naneseme tavidlo na pájecí plochy USB samce."
    url2="img/guides/UIB-USB-05.jpg"
    description2=
-      "Přiložíme kabely."
+      "Naneseme vrstvu cínu na pájecí plochy USB samce."
 %}
-
 
 {% include image.html
    url="img/guides/UIB-USB-06.jpg"
    description=
-      "Napájíme drát po drátku."
+      "Přiložíme 4 dráty, tak aby kabelový svazek procházel pod UIBoardem a nekroutil se. Napájíme drát po drátku.
+<div class=\"alert\">Pozor na správnou orientaci USB konektoru vůči 4 drátům. Předem zkontrolujte podle následujících obrázků.</div>"
    url2="img/guides/UIB-USB-07.jpg"
    description2=
       "Nasuneme krytku a vytáhneme gumový kousek."
@@ -88,7 +81,6 @@ name: UIBoard
    description2=
       "Připravíme si přední krytku."
 %}
-
 
 {% include image.html
    url="img/guides/UIB-USB-10.jpg"
@@ -135,7 +127,7 @@ name: UIBoard
 {% include image.html
    url="img/guides/UIkabel-00.jpg"
    description=
-      "UIBoard nyní vyndáme a kabel zasuneme zespod do paluby."
+      "UIBoard nyní vyjmeme a kabel zasuneme zespod do paluby."
    url2="img/guides/UIkabel-01.jpg"
    description2=
       "Poté jej vtáhneme pod dílem Z1."
@@ -146,7 +138,7 @@ name: UIBoard
    description=
       "Teď zatlačíme kabel nahoru podle obrázku. Do spod dáme tavné lepidlo.
       
-<div class=\"alert\">Pozor: Je potřeba aby konektor nevyčuhoval ze spodní strany desky, jinak nepůjde zasunout battery pack do robota.</div>"
+<div class=\"alert\">Pozor: Je potřeba aby konektor nevyčníval ze spodní strany desky, jinak nebude možné zasunout battery pack do robota.</div>"
    url2="img/guides/UIkabel-03.jpg"
    description2=
       "Zatlačíme konektor dolů a horní část doplníme tavňákem."
@@ -164,10 +156,10 @@ name: UIBoard
 {% include image.html
    url="img/guides/UIkabel-06.jpg"
    description=
-      "Dírkou v UIboardu uděláme tužkou díru na díl Z1. Vyndáme Z1."
+      "Kulatým otvorem v horní části UIboardu uděláme tužkou díru na díl Z1. Vyjmeme UIboard."
    url2="img/guides/UIkabel-07.jpg"
    description2=
-      "Nyní probrousíme díru na místě tečky. brosíme od laserem vypálené díry v Z1."
+      "Nyní probrousíme díru na místě tečky v Z1. Brousíme od laserem vypálené díry v Z1. Poté je možné UIboard přišroubovat k dílu Z1 pomocí šroubu a matky M3."
 %}
 
 
