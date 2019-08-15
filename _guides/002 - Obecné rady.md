@@ -17,7 +17,7 @@ Pro sestavení Roboruky budeš potřebovat:
 Většina dílků je vyřezána z desky překližky. Pro snadnou manipulaci jsou díly panelu uchyceny můstky - malými neprořezanými kousky dřeva. Samy tedy díly nevypadnou a je třeba je opatrně vylomit. V případě komplikovanějších nebo těžce vyloupnutelných dílů desku otoč a můstky přeřízni nožem!
 
 ##### Lepení dílů k sobě
-Všechny dílky obsahují zámečky, které ti umožní dílky přesně napozicovat a často vyloučí i špatné složení. Díky zámečkům si můžeš zkusit některé kroky prvně "nasucho" bez lepidla a následně po ověření toho, že do sebe zapadají, je můžeš netřít lepidlem.
+Všechny dílky obsahují zámečky, které ti umožní dílky přesně napozicovat a často vyloučí i špatné složení. Díky zámečkům si můžeš zkusit některé kroky prvně "nasucho" bez lepidla a následně po ověření toho, že do sebe zapadají, je můžeš natřít lepidlem.
 
 Na lepení dřeva k sobě používej lepidlo Herkules - s výhodou v malém balení s aplikátorem.
 

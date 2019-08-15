@@ -3,12 +3,12 @@ name: RBControl
 ---
 ## {{ page.name | escape}}
 
-Řídicí elektronika je navržena jako univerzální deska pro řízení různých robotických platforem. Pro získání funkční elektroniky na provoz Roboruky stačí osadit jen některé součástky.
+[RBControl](https://github.com/RoboticsBrno/RB3201-RBControl) - řídicí elektronika je navržena jako univerzální deska pro řízení různých robotických platforem. Pro získání funkční elektroniky na provoz Roboruky stačí osadit jen některé součástky.
 
 
 <div class="alert">
     <h5>Chyby v této sekci</h5>
-    <p>Osazování odporu R8 a R55 je v návodu nafoceno špatně. V návodu jsou odpory otočeny o 90 stupňů a nerespektují osazovací/informační potisky na desce, který jsou správně. Je proto potřeba při osazování těchto rezistorů dávat pozor a nejít slepě podle fotek.</p>
+    <p>Osazování odporu R8 a R55 je v návodu nafoceno špatně. V návodu jsou odpory otočeny o 90 stupňů a nerespektují osazovací/informační potisky na desce, které jsou správně. Je proto potřeba při osazování těchto rezistorů dávat pozor a nejít slepě podle fotek.</p>
 </div>
 
 {% include image.html
@@ -21,7 +21,7 @@ name: RBControl
 %}
 
 {% include image.html
-    url="img/guides/rbc_42.jpg"
+    url="img/guides/rbc_33.jpg"
     description=
         "Dostatečně osazená deska pro základní funkcionalitu Roboruky."
  %}
