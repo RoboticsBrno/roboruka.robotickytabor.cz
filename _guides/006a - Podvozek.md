@@ -33,7 +33,7 @@ Připravíme si pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a 
         "Slepené oba díly."
     url2="img/guides/chasi_7.jpg"
     description2=
-        "Když máme vše suché, sundáme svorky a nalepíme slepené díly P2, 3 a 4 kolem dílu P5 tak, jak je na obrázku. Na toto lepení půjde špatně nasadit svěrka, takže to podržíte ručně."
+        "Když máme vše suché, nalepíme slepené díly P2, 3 a 4 kolem dílu P5 tak, jak je na obrázku."
 %}
 
 {% include image.html
@@ -51,7 +51,7 @@ Připravíme si pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a 
         "Vyloupeme díly z desek a poskládáme si je podle obrázku. Zabruste všechny otřepy a vady, které vznikly při vylamování dílů."
     url2="img/guides/chasi_9.jpg"
     description2=
-        "Teď si připravte díly V1, V2 a díl D1. Na díly V1 a V2 si naneste lepidlo a nalepte je na D1. Jako pomůcku ke správnému otočení můžete použít díl LM1 nebo ML2, který nelepte, jen si ho zastrčte na místo. Po zapozicování si každý díl stáhněte svorkou."
+        "Teď si připravte díly V1, V2 a díl D1. Na díly V1 a V2 si naneste lepidlo a nalepte je na D1. Jako pomůcku ke správnému otočení použijte díl LM1, který nelepte, jen si ho zastrčte na místo. Po zapozicování si každý díl stáhněte svorkou."
 
 %}
 
@@ -61,8 +61,8 @@ Připravíme si pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a 
         "Zapozicování pro lepení dílů V1 a V2 s pomocným dílem LM1."
     url2="img/guides/chasi_11.jpg"
     description2=
-        "Nachystejte si díly LM1, ML2, LM2, LM5 a LM6 a slepte je dle obrázku. To stejné udělejte ještě jednou, ale tentokrát zrcadlově, aby bylo toto motorové lože na pravou stranu i na levou stranu."
-    
+        "Nachystejte si díly LM1, ML2, LM2, LM5 a LM6 a slepte je dle obrázku. To stejné udělejte ještě jednou, ale tentokrát **zrcadlově**, aby bylo toto motorové lože na pravou stranu i na levou stranu.
+<div class=\"alert\">Pozor: Před lepením si pořádně prohlédněte obrázek!</div>"
 %}
 
 {% include image.html
@@ -78,7 +78,7 @@ Připravíme si pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a 
 {% include image.html
     url="img/guides/chasi_13a.jpg"
     description=
-        "Po zaschnutí odklopte palubu. Najděte si díl BD1 a nalepte si jej do zadní části podvozku. Je třeba díl natlačit co nejvíc ven z robota."
+        "Po zaschnutí odklopte palubu. Najděte si díl BD1 a nalepte si jej do zadní části podvozku. Je třeba díl natlačit co **nejvíc ven** z robota."
     url2="/img/guides/chasi_14.jpg"
     description2=
         "Nachystejte si díly LM7, LM9, LM10, LM11 a šroub s matkou M5. Do dílu LM10 vložte šroub a z druhé strany dotáhněte matici. Následně si vezměte díl LM11 a nalepte jej kolem matice, aby se matka nemohla točit. Tento díl vyrobte 2x."
@@ -124,7 +124,7 @@ Připravíme si pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a 
 {% include image.html
     url="img/guides/chasi_24a.jpg"
     description=
-        "Omotejte boční díly v jejich horní části (co nejvíce nahoře) elastickou nití přibližně 10x dokola a během omotávání nit napínejte. Pro uvázání začátku a konce nitě je možné použít otvory v držáku battery packu. Snažte se vést jednotlivé dráhy nitě co nejblíže u sebe. Zamotanou nit následně zalepíme lepidlem.
+        "Omotejte boční díly v jejich horní části (co nejvíce nahoře) elastickou nití přibližně 5x dokola a během omotávání nit napínejte. Pro uvázání začátku a konce nitě je možné použít otvory v zadní části paluby. Snažte se vést jednotlivé dráhy nitě co nejblíže u sebe. Zamotanou nit následně zalepte lepidlem.
 
 <div class=\"alert\">Pozor: lepidlo se nesmí dostat k horní palubě!</div>"
 %}
@@ -132,7 +132,7 @@ Připravíme si pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a 
 {% include image.html
     url="img/guides/chasi_25.jpg"
     description=
-        "Mezi díly OD1 naneste lepidlo podle obrázku, aby podvozek držel pohromadě. Lepidlo naneste rovněž mezi díly OD1 a spodní palubu."
+        "Mezi díly OD1, OD2 naneste lepidlo podle obrázku, aby podvozek držel pohromadě. Lepidlo naneste rovněž mezi díly OD1, OD2 a spodní palubu."
     url2="img/guides/chasi_26.jpg"
     description2=
         "Sundejte horní palubu. Vlepte díly LM4 do lože pro motory."
@@ -214,13 +214,13 @@ Připravíme si pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a 
         "Připravte si díly pro výrobu kol."
     url2="img/guides/chasi_39.jpg"
     description2=
-        "Vezměte dva díly kol a jeden plastový střed."
+        "Vezměte dva díly kol a jeden plastový náboj kola."
 %}
 
 {% include image.html
     url="img/guides/chasi_40.jpg"
     description=
-        "Vložte střed do jedné poloviny kola, kterou poté potřete z jedné strany lepidlem."
+        "Vložte náboj kola do jedné dřevěné poloviny kola, kterou poté potřete z jedné strany lepidlem."
     url2="img/guides/chasi_41.jpg"
     description2=
         "Na stranu potřenou lepidlem přilepte druhou polovinu kola. **Pevně stiskněte, zasvorkujte a nechte zaschnout!**"
@@ -229,7 +229,7 @@ Připravíme si pilník nebo brusný papír, ostrý nůž (ideálně skalpel) a 
 {% include image.html
     url="img/guides/chasi_42.jpg"
     description=
-        "Střed kola zalepte vteřinovým lepidlem a potom na kolo nasaďte jednu plastovou kružnici."
+        "Náboj kola zalepte vteřinovým lepidlem a potom na kolo nasaďte jednu plastovou kružnici."
     url2="img/guides/chasi_43.jpg"
     description2=
         "Stejný postup proveďte na druhé straně. Oba díly slepte vteřinovým lepidlem, které nanesete do mezery mezi plastovými částmi. Počkejte až zaschne vteřinové lepidlo."
