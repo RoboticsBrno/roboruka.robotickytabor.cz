@@ -4,8 +4,5 @@ source "https://rubygems.org"
 
 git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
-# gem "rails"
-gem "mini_magick"
-gem "jekyll-minimagick"
-gem "graphicsmagick"
-gem "jekyll", "~> 3.8"
+gem "jekyll-responsive-image"
+gem "jekyll", "~> 4.0"

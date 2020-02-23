@@ -15,28 +15,12 @@ collections:
       output: true
 
 plugins:
-    - jekyll-minimagick
+    - jekyll-responsive-image
 
-mini_magick:
-    thumbnail:
-        source: img/guides/original
-        destination: thumb/img/guides
-        resize: "600x400"
-      
-    medium:
-        source: img/guides/original
-        destination: img/guides/
-        resize: "1500x1000"
+responsive-image:
+    template: _includes/srcset-resized-fallback.html
 
-    gal_thumb:
-        source: img/gallery/original
-        destination: thumb/img/gallery
-        resize: "600x400"
-    
-    gal_medium:
-        source: img/gallery/original
-        destination: img/gallery
-        resize: "1500x1000"
+
 
 # Google Analytics
 google_analytics: UA-144089676-1

@@ -13,7 +13,7 @@ Pro správné fungování je třeba zapájet pinheady obsažené v balení s dri
 Abychom mohli připojit motory k desce, je třeba připájet svorkovnice na desku do pozic M3 a M4.
 
 {% include image.html
-    url="img/guides/bonus_01.jpg"
+    url="img/guides/original/bonus_01.jpg"
     description=
         "Zde je potřeba připájet driver a svorkovnice."
 %}
@@ -25,10 +25,10 @@ Pro jejich fungování nelze použít napájení z již osazeného lineárního 
 Pro ovládání lze použít knihovnu [SmartLeds](https://github.com/RoboticsBrno/SmartLeds)
 
 {% include image.html
-    url="img/guides/bonus_02.jpg"
+    url="img/guides/original/bonus_02.jpg"
     description=
         "LED pásek z WS2812"
-    url2="img/guides/bonus_03.jpg"
+    url2="img/guides/original/bonus_03.jpg"
     description2=
         "Zde je potřeba připájet level shifter, spínaný zdroj a pinhead pro LED diody."
 %}
@@ -40,10 +40,10 @@ Připojuje se přes rozhraní I2C k desce RBControl, které je vyvedeno nad mís
 Pro programování nelze použít tradiční knihovnu [Wire.h](https://www.arduino.cc/en/reference/wire) pro Arduino, ale je nutné použít I2C driver z ESP-IDF.
 
 {% include image.html
-    url="img/guides/bonus_04.jpg"
+    url="img/guides/original/bonus_04.jpg"
     description=
         "Modul MPU6050"
-    url2="img/guides/bonus_05.jpg"
+    url2="img/guides/original/bonus_05.jpg"
     description2=
         "Zde jsou na desce RBControl vyvedeny piny na sběrnici I2C"
 %}
@@ -53,7 +53,7 @@ Pro programování nelze použít tradiční knihovnu [Wire.h](https://www.ardui
 Aby servo správně fungovalo a nebyly kolize v komunikaci mezi ostatními servy, je třeba mu nastavit jeho unikátní ID. To lze provést speciálním nastavovacím programem, který lze nalézt [zde](https://github.com/RoboticsBrno/RB3201-RBControl-testing-software) ve složce `Servos_setup`. Serva lze libovolně řetězit za sebe, jelikož každému nastavíte unikátní ID. Nelze je ovšem zapojovat do "řetězu" donekonečna, jelikož je potřeba relativně velký proud pro jeho provoz a kabely by nezvládaly takovýto proud přenášet. Doporučujeme proto maximálně tři serva zapojit za sebe. Pro tyto účely jsou na desce RBControl další pozice pro servo konektory.
 
 {% include image.html
-    url="img/guides/bonus_06.jpg"
+    url="img/guides/original/bonus_06.jpg"
     description=
         "Inteligentní servo s příslušenstvím"
 %}
@@ -64,10 +64,10 @@ Senzorická lišta je ideálním pomocníkem pro jízdu po čáře. Slouží k d
 Pro ovládání lišty lze použít [tuto knihovnu](https://github.com/RoboticsBrno/Esp32-Mcp3008-LineSensor)
 
 {% include image.html
-    url="img/guides/bonus_07.jpg"
+    url="img/guides/original/bonus_07.jpg"
     description=
         "Senzorická lišta"
-    url2="img/guides/bonus_08.jpg"
+    url2="img/guides/original/bonus_08.jpg"
     description2=
         "Zde lze připojit senzorickou lištu. Tohle zapojení je pouze doporučené, ne jediné funkční."
 %}
