@@ -8,7 +8,7 @@ install:
 
 script:
   - echo "${TRAVIS_COMMIT}" > version
-  - bundle exec jekyll build
+  - bundle exec jekyll build --trace
 
 deploy:
   provider: pages
