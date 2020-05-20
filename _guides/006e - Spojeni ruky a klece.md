@@ -1,5 +1,5 @@
 ---
-name: Spojeni roboruky a zbytku robota
+name: Spojení roboruky a zbytku robota
 ---
 ### {{ page.name | escape }}
 
