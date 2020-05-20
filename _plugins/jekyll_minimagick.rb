@@ -13,10 +13,7 @@ module Jekyll
       #
       # Returns <GeneratedImageFile>
       def initialize(site, base, dir, name, preset)
-        @site = site
-        @base = base
-        @dir  = dir
-        @name = name
+        super(site, base, dir, name)
         @dst_dir = preset.delete('destination')
         @src_dir = preset.delete('source')
         @commands = preset
@@ -39,14 +36,13 @@ module Jekyll
         dest_path = destination(dest)
 
         return false if File.exist? dest_path and !modified?
+
         self.class.mtimes[path] = mtime
 
         FileUtils.mkdir_p(File.dirname(dest_path))
         image = ::MiniMagick::Image.open(path)
-        image.combine_options do |c|
-          @commands.each_pair do |command, arg|
-            c.send command, arg
-          end
+        @commands.each_pair do |command, arg|
+          image.send command, arg
         end
         image.write dest_path
 
@@ -65,10 +61,8 @@ module Jekyll
         return unless site.config['mini_magick']
 
         site.config['mini_magick'].each_pair do |name, preset|
-          Dir.chdir preset['source'] do
-           Dir.glob(File.join("**", "*.{png,jpg,jpeg,gif,PNG,JPG,JPEG,GIF}")) do |source|
-              site.static_files << GeneratedImageFile.new(site, site.source, preset['destination'], source, preset.clone)
-             end
+          Dir.glob(File.join(site.source, preset['source'], "*.{png,jpg,jpeg,gif}")) do |source|
+            site.static_files << GeneratedImageFile.new(site, site.source, preset['destination'], File.basename(source), preset.clone)
           end
         end
       end

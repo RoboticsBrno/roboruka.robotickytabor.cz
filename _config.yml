@@ -14,9 +14,6 @@ collections:
   guides:
       output: true
 
-plugins:
-    - jekyll-minimagick
-
 mini_magick:
     thumbnail:
         source: img/guides/original
