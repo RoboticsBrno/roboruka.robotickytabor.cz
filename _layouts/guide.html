@@ -3,8 +3,11 @@ layout: default
 ---
 
 <div class="sidenav">
-    {% for guide in site.guides %}
-        <a href="#{{ guide.name }}"> {{ guide.name }}</a>
+    {% for it in site.data.collectionMenus.guides %}
+        <a href="#{{ it.name }}"> {{ it.name }}</a>
+        {% for c in it.children %}
+            <a href="#{{ c.label }}" style="margin-left: 12px; font-size: 80%"> {{ c.name }}</a>
+        {% endfor %}
     {% endfor %}
 </div>
 
@@ -17,3 +20,4 @@ layout: default
         </div>
     </div>
 </div>
+

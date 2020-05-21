@@ -1,7 +1,7 @@
 ---
 name: Battery pack
 ---
-## {{ page.name | escape }}
+### {{ page.name | escape }}
 {% include image.html
     url="img/guides/bat_01.jpg"
     description=

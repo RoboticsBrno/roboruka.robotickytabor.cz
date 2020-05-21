@@ -2,7 +2,7 @@
 name: Bonusový materiál
 published: true
 ---
-## {{ page.name | escape }}
+### {{ page.name | escape }}
 
 Pokud jsi dostal nějaký bonusový materiál ke svému robotovi a váháš, jak jej připojit, přečti si následujících pár kroků k zprovoznění.
 
