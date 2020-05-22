@@ -4,7 +4,9 @@
     {% assign counter_section = counter_section | plus: 1 %}
     <div class="col l6">
         <figure class="figure">
-            <a data-fancybox="gallery" href="../{{ include.url }}"><img src="/img/empty.gif" data-echo="/thumb/{{ include.url }}" alt="" class="responsive-img"></a>
+            <a data-fancybox="gallery" href="{{ include.url | relative_url }}">
+                <img src="{{ '/img/empty.gif' | relative_url }}" data-echo="{{ '/thumb/' | append: include.url | relative_url }}" alt="" class="responsive-img">
+            </a>
             <figcaption>
                 <p class="step">{{counter_section}}</p>
                 {{ include.description | markdownify }}
@@ -14,7 +16,9 @@
     {% assign counter_section = counter_section | plus: 1 %}
     <div class="col l6">
         <figure class="figure">
-            <a data-fancybox="gallery" href="../{{ include.url2 }}"><img src="/img/empty.gif" data-echo="/thumb/{{ include.url2 }}" alt="" class="responsive-img"></a>
+            <a data-fancybox="gallery" href="{{ include.url2 | relative_url }}">
+                <img src="{{ '/img/empty.gif' | relative_url }}" data-echo="{{ '/thumb/' | append: include.url2 | relative_url }}" alt="" class="responsive-img">
+            </a>
             <figcaption>
                 <p class="step">{{counter_section}}</p>
                 {{ include.description2 | markdownify }}
@@ -27,7 +31,9 @@
 <div class="row">
     <div class="col l6">
         <figure class="figure">
-            <a data-fancybox="gallery" href="../{{ include.url }}"><img src="/img/empty.gif" data-echo="/thumb/{{ include.url }}" alt="" class="responsive-img"></a>
+            <a data-fancybox="gallery" href="{{ include.url | relative_url }}">
+                <img src="{{ '/img/empty.gif' | relative_url }}" data-echo="{{ '/thumb/' | append: include.url | relative_url }}" alt="" class="responsive-img">
+            </a>
             <figcaption>
                 <p class="step">{{counter_section}}</p>
                 {{ include.description | markdownify }}

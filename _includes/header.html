@@ -5,7 +5,7 @@
       <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
 
       <a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}">
-        <img src="/img/logo.png" style="max-height: 40px">Roboruka
+        <img src="{{ '/img/logo.png' | relative_url }}" style="max-height: 40px">Roboruka
       </a>
 
     {% assign default_paths = site.pages | map: "path" %}
