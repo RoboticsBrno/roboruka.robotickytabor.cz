@@ -2,6 +2,12 @@
 (function ($) {
     var initSteps = function() {
         var globalCounter = 0;
+
+        var savedLastStep = null;
+        if(window.localStorage && window.location.hash === "") {
+            savedLastStep = window.localStorage.getItem("lastStep")
+        }
+
         document.querySelectorAll("p.step, .con-guide hr").forEach(function(el) {
             if(el.tagName == "HR") {
                 ++globalCounter;
@@ -16,8 +22,13 @@
             }
 
             var step = globalStep + "-" + el.textContent;
+            var id = "step-" + step;
             el.innerHTML = "Krok " + step;
-            el.parentElement.parentElement.id = "step-" + step;
+            el.parentElement.parentElement.id = id;
+
+            if(savedLastStep === id) {
+                window.location.hash = id;
+            }
         });
     };
 
@@ -50,7 +61,8 @@
             }
         });
 
-        initSteps();
+        if(window.location.pathname.indexOf("/guide/") !== -1)
+            initSteps();
 
         document.addEventListener("scroll", onDocumentScroll);
 
@@ -70,7 +82,9 @@ function onJumpToStepClick() {
     }
 
     var id = "step-" + m[1].toUpperCase() + "-" + m[2];
-    document.getElementById(id).scrollIntoView();
+    if(document.getElementById(id)) {
+        window.location.hash = id;
+    }
 }
 
 var scrollReactionTimeout = null;
@@ -88,8 +102,11 @@ function onScrollFinished() {
     for(var i = 0; i < len; ++i) {
         var el = list[i];
         var bounding = el.getBoundingClientRect();
-        if(bounding.top >= 0) {
+        if(bounding.top >= -32) {
             history.replaceState(null, null, '#' + el.id);
+            if(window.localStorage) {
+                window.localStorage.setItem("lastStep", el.id)
+            }
             break;
         }
     }
