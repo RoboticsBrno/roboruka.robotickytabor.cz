@@ -11,7 +11,7 @@ install:
 
 script:
   - echo "${TRAVIS_COMMIT}" > version
-  - bundle exec jekyll build
+  - JEKYLL_ENV=production bundle exec jekyll build
 
 deploy:
   provider: pages

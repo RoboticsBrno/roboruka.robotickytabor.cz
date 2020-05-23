@@ -1,10 +1,17 @@
 <div class="navbar-fixed">
 <nav class="light-blue lighten-1" role="navigation">
-    <div class="nav-wrapper container"><a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}"><img src="/img/logo.png" style="max-height: 40px">Roboruka</a>
+
+    <div class="nav-wrapper container">
+      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+
+      <a id="logo-container" class="brand-logo" href="{{ "/" | relative_url }}">
+        <img src="{{ '/img/logo.png' | relative_url }}" style="max-height: 40px">Roboruka
+      </a>
+
     {% assign default_paths = site.pages | map: "path" %}
     {% assign page_paths = site.header_pages | default: default_paths %}
 
-          <ul class="right hide-on-med-and-down" style="list-style-type: none;">
+          <ul class="hide-on-med-and-down" style="list-style-type: none; margin-left: 200px">
             <li><a href="{{ "/" | relative_url }}">Úvod</a></li>
             <li><a href="{{ "/#galerie" | relative_url }}">Galerie</a></li>
             <li><a href="{{ "/#partners" | relative_url }}">Partneři</a></li>
@@ -43,7 +50,10 @@
             {% endif %}
           </ul>
 
-      <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+          {% if page.name == 'guide.md' %}
+          <a href="javascript:void(0);" class="right" onclick="onJumpToStepClick();" title="Skočit na krok..."><i class="material-icons">forward</i></a>
+          {% endif %}
+
     </div>
 </nav>
 </div>
