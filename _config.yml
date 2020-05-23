@@ -21,8 +21,8 @@ mini_magick:
     thumbnail:
         source: img/guides/original
         destination: thumb/img/guides
-        resize: "600x400"
-      
+        resize: "700x400"
+
     medium:
         source: img/guides/original
         destination: img/guides/
@@ -32,7 +32,7 @@ mini_magick:
         source: img/gallery/original
         destination: thumb/img/gallery
         resize: "600x400"
-    
+
     gal_medium:
         source: img/gallery/original
         destination: img/gallery
