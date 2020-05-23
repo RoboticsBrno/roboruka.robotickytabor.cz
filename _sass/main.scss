@@ -258,3 +258,7 @@ pre > code {
     display: block;
 }
 
+img.crisp {
+    image-rendering: pixelated; /* Chrome */
+    image-rendering: crisp-edges; /* Firefox */
+}

@@ -5,7 +5,8 @@
     <div class="col l6">
         <figure class="figure">
             <a data-fancybox="gallery" href="{{ include.url | relative_url }}">
-                <img src="{{ '/img/empty.gif' | relative_url }}" data-echo="{{ '/thumb/' | append: include.url | relative_url }}" alt="" class="responsive-img">
+                <img src="{{ '/img/empty.gif' | relative_url }}" data-echo="{{ '/thumb/' | append: include.url | relative_url }}" alt=""
+                    class="responsive-img{% if include.url contains '.png' %} crisp{%endif%}">
             </a>
             <figcaption>
                 <p class="step">{{counter_section}}</p>
@@ -17,7 +18,8 @@
     <div class="col l6">
         <figure class="figure">
             <a data-fancybox="gallery" href="{{ include.url2 | relative_url }}">
-                <img src="{{ '/img/empty.gif' | relative_url }}" data-echo="{{ '/thumb/' | append: include.url2 | relative_url }}" alt="" class="responsive-img">
+                <img src="{{ '/img/empty.gif' | relative_url }}" data-echo="{{ '/thumb/' | append: include.url2 | relative_url }}" alt="" 
+                    class="responsive-img{% if include.url contains '.png' %} crisp{%endif%}">
             </a>
             <figcaption>
                 <p class="step">{{counter_section}}</p>
@@ -32,7 +34,8 @@
     <div class="col l6">
         <figure class="figure">
             <a data-fancybox="gallery" href="{{ include.url | relative_url }}">
-                <img src="{{ '/img/empty.gif' | relative_url }}" data-echo="{{ '/thumb/' | append: include.url | relative_url }}" alt="" class="responsive-img">
+                <img src="{{ '/img/empty.gif' | relative_url }}" data-echo="{{ '/thumb/' | append: include.url | relative_url }}" alt=""
+                    class="responsive-img{% if include.url contains '.png' %} crisp{%endif%}">
             </a>
             <figcaption>
                 <p class="step">{{counter_section}}</p>
